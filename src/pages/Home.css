@@ -1,0 +1,53 @@
+.searchBar {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ffe600;
+    padding: 10px;
+    height: 60px;
+}
+
+.input-searchIcon-container{
+    display: flex;
+    padding: 10px;
+    align-items: center;
+}
+
+.logoWrap{
+  width: 48px;         
+  height: 48px;
+}
+
+.logoMeli {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    margin-right: 10px;
+}
+
+.input {
+    width: 600px;
+    height: 30px;
+    padding: 10px;
+    border: none;
+}
+
+.searchIcon { 
+    width: 40px;
+    height: 30px;
+    color: #444442;
+    padding: 3px;
+    background-color: #e7e5ce;
+}
+
+.searchIcon:hover{
+    background-color: #dddcd4;
+    cursor: pointer;
+}
+
+.searchButton{
+    border: none;
+    width: 40px;
+    height: 30px;
+}
+
