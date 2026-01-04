@@ -10,7 +10,12 @@
             },
             "address": {
                 "state_name": "Capital Federal"
-            }
+            },
+            "category_path_from_root": [
+                { "name": "Electrónica, Audio y Video" },
+                { "name": "Reproductores y Accesorios" },
+                { "name": "iPod" }
+            ]
         },
            {
             "id": "MLA2",
@@ -22,7 +27,12 @@
             },
             "address": {
                 "state_name": "Mendoza"
-            }
+            },
+            "category_path_from_root": [
+                { "name": "Electrónica, Audio y Video" },
+                { "name": "Reproductores y Accesorios" },
+                { "name": "iPod" }
+            ]
         },
         {
             "id": "MLA3",
@@ -34,7 +44,12 @@
             },
             "address": {
                 "state_name": "Capital Federal"
-            }
+            },
+            "category_path_from_root": [
+                { "name": "Electrónica, Audio y Video" },
+                { "name": "Reproductores y Accesorios" },
+                { "name": "iPod" }
+            ]
         },
         {
             "id": "MLA4",
@@ -46,7 +61,12 @@
             },
             "address": {
                 "state_name": "Capital Federal"
-            }
+            },
+            "category_path_from_root": [
+                { "name": "Electrónica, Audio y Video" },
+                { "name": "Reproductores y Accesorios" },
+                { "name": "iPod" }
+            ]
         }
     ]
 }

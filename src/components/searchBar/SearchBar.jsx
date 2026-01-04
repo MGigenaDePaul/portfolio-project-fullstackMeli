@@ -1,8 +1,18 @@
 import './SearchBar.css'
 import LogoMeli from '../../assets/LogoMeli.png';
 import { AiOutlineSearch } from "react-icons/ai";
+import { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 
-const SearchBar = ({ handleChange, searchQuery, setSearchQuery}) => {
+const SearchBar = () => {
+    const [searchQuery, setSearchQuery] = useState('');
+    const navigate = useNavigate();
+
+    const handleChange = (event) => {
+        event.preventDefault()
+        navigate(`/items?search=${searchQuery}`)
+    }
+
     return (
         <form onSubmit={handleChange} className='searchBar'>
             <div className='logoWrap'>
