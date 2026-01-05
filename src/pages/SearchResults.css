@@ -59,17 +59,17 @@
 }
 
 .no-results {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 300px;
-    background-color: #fff;
-    max-width: 1200px;
-    margin: 5px auto;
-    padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 300px;
+  background-color: #fff;
+  max-width: 1200px;
+  margin: 5px auto;
+  padding: 20px;
 }
 
 .no-results p {
-    font-size: 20px;
-    color: #666;
+  font-size: 20px;
+  color: #666;
 }
