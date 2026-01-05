@@ -79,3 +79,114 @@
   font-size: 20px;
   color: #666;
 }
+
+/* ========== RESPONSIVE ========== */
+
+/* Tablets */
+@media (max-width: 1024px) {
+  .buttons {
+    grid-template-columns: 0.6fr 1.5fr 0.8fr;
+  }
+
+  .thumbnail {
+    height: 180px;
+    width: 180px;
+  }
+
+  .price {
+    font-size: 28px;
+  }
+
+  .title {
+    font-size: 18px;
+  }
+
+  .state {
+    margin-top: 30px;
+    font-size: 14px;
+  }
+}
+
+/* Móviles */
+@media (max-width: 768px) {
+  .containerProducts {
+    margin-top: 3px;
+  }
+
+  .buttons {
+    grid-template-columns: 1fr;
+    gap: 10px;
+    text-align: center;
+    padding: 15px;
+  }
+
+  .buttons:hover {
+    transform: none;
+  }
+
+  .thumbnail {
+    height: 150px;
+    width: 150px;
+    margin: 0 auto;
+  }
+
+  .container-price-shipping-title {
+    padding: 5px;
+  }
+
+  .price-shipping {
+    justify-content: center;
+    padding: 3px;
+  }
+
+  .price {
+    font-size: 24px;
+  }
+
+  .shipping {
+    width: 24px;
+    height: 24px;
+  }
+
+  .title {
+    font-size: 16px;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5px;
+  }
+
+  .state {
+    align-self: center;
+    margin-top: 10px;
+    font-size: 13px;
+  }
+
+  .no-results p {
+    font-size: 16px;
+  }
+}
+
+/* Móviles pequeños */
+@media (max-width: 480px) {
+  .buttons {
+    padding: 10px;
+  }
+
+  .thumbnail {
+    height: 120px;
+    width: 120px;
+  }
+
+  .price {
+    font-size: 20px;
+  }
+
+  .title {
+    font-size: 14px;
+  }
+
+  .state {
+    font-size: 12px;
+  }
+}
+

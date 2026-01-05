@@ -9,3 +9,37 @@
 .breadcrumb span {
   margin-right: 5px;
 }
+
+/* ========== RESPONSIVE ========== */
+
+/* Tablets */
+@media (max-width: 1024px) {
+  .breadcrumb {
+    margin-left: 100px;
+    font-size: 13px;
+  }
+}
+
+/* Celulares */
+@media (max-width: 768px) {
+  .breadcrumb {
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 12px 0;
+    font-size: 12px;
+  }
+}
+
+/* Celulares pequeños */
+@media (max-width: 480px) {
+  .breadcrumb {
+    margin-left: 10px;
+    margin-right: 10px;
+    padding: 10px 0;
+    font-size: 11px;
+  }
+
+  .breadcrumb span {
+    margin-right: 3px;
+  }
+}

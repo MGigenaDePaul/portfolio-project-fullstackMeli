@@ -18,7 +18,6 @@
 }
 
 .image {
-  /* border: 2px solid orange; */
   height: 700px;
   object-fit: contain;
 }
@@ -64,4 +63,127 @@
 
 .buy-button:hover {
   background-color: rgb(6, 99, 206);
+}
+
+/* ========== RESPONSIVE ========== */
+
+/* Tablets */
+@media (max-width: 1024px) {
+  .containerProductDetails {
+    grid-template-columns: 1.8fr 1fr;
+    height: auto;
+  }
+
+  .image {
+    height: 500px;
+  }
+
+  .titleDescription {
+    font-size: 22px;
+  }
+
+  .description {
+    font-size: 16px;
+  }
+
+  .titleUnique {
+    font-size: 26px;
+  }
+
+  .priceUnique {
+    font-size: 45px;
+  }
+
+  .buy-button {
+    width: 250px;
+  }
+}
+
+/* Móviles */
+@media (max-width: 768px) {
+  .containerProductDetails {
+    grid-template-columns: 1fr;
+    height: auto;
+    margin-top: 3px;
+  }
+
+  .container-img-titleDescription-description {
+    padding: 15px;
+    order: 1;
+  }
+
+  .container-condition-title-price-buy {
+    padding: 15px;
+    order: 2;
+  }
+
+  .image {
+    height: 350px;
+    width: 100%;
+  }
+
+  .titleDescription {
+    font-size: 20px;
+    margin-top: 20px;
+  }
+
+  .description {
+    font-size: 15px;
+  }
+
+  .condition {
+    margin-top: 10px;
+    font-size: 14px;
+  }
+
+  .titleUnique {
+    font-size: 22px;
+    max-width: 100%;
+  }
+
+  .priceUnique {
+    font-size: 36px;
+  }
+
+  .buy-button {
+    width: 100%;
+    height: 45px;
+    font-size: 16px;
+  }
+}
+
+/* Móviles pequeños */
+@media (max-width: 480px) {
+  .container-img-titleDescription-description {
+    padding: 10px;
+  }
+
+  .container-condition-title-price-buy {
+    padding: 10px;
+  }
+
+  .image {
+    height: 280px;
+  }
+
+  .titleDescription {
+    font-size: 18px;
+  }
+
+  .description {
+    font-size: 14px;
+  }
+
+  .titleUnique {
+    font-size: 20px;
+  }
+
+  .priceUnique {
+    font-size: 32px;
+  }
+
+  .buy-button {
+    height: 42px;
+    font-size: 15px;
+  }
 }

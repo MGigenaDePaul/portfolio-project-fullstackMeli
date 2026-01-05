@@ -38,7 +38,7 @@
   height: 30px;
   color: #444442;
   padding: 3px;
-  background-color: none
+  background-color: none;
 }
 
 .searchButton {
@@ -50,4 +50,81 @@
 .searchButton:hover {
   background-color: #dddcd4;
   cursor: pointer;
+}
+
+/* ========== RESPONSIVE ========== */
+
+/* Tablets y celulares grandes */
+@media (max-width: 1024px) {
+  .input {
+    width: 500px;
+  }
+}
+
+/* Celulares */
+@media (max-width: 768px) {
+  .searchBar {
+    height: 60px;
+    padding: 5px;
+  }
+
+  .logoWrap {
+    width: 40px;
+    height: 40px;
+  }
+
+  .input-searchIcon-container {
+    padding: 5px;
+    flex: 1;
+  }
+
+  .input {
+    width: 100%;
+    max-width: none;
+    height: 36px;
+    font-size: 14px;
+  }
+
+  .searchButton {
+    width: 36px;
+    height: 36px;
+  }
+
+  .searchIcon {
+    width: 24px;
+    height: 24px;
+  }
+}
+
+/* Celulares pequeños */
+@media (max-width: 480px) {
+  .searchBar {
+    padding: 5px 10px;
+  }
+
+  .logoWrap {
+    width: 35px;
+    height: 35px;
+    margin-right: 5px;
+  }
+
+  .logoMeli {
+    margin-right: 5px;
+  }
+
+  .input {
+    height: 32px;
+    padding: 8px;
+    font-size: 13px;
+  }
+
+  .searchButton {
+    width: 32px;
+    height: 32px;
+  }
+
+  .searchIcon {
+    width: 20px;
+    height: 20px;
+  }
 }
