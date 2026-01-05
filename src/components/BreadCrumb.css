@@ -1,0 +1,11 @@
+.breadcrumb {
+  padding: 16px;
+  font-size: 14px;
+  color: #666;
+  margin-top: 10px;
+  margin-left: 313px;
+}
+
+.breadcrumb span {
+  margin-right: 5px;
+}

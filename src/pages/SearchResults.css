@@ -1,0 +1,75 @@
+.containerProducts {
+  display: flex;
+  justify-content: center;
+  max-width: 1200px;
+  margin: auto;
+  margin-top: 5px;
+}
+
+.buttons {
+  display: grid;
+  grid-template-columns: 0.5fr 1.5fr 1fr;
+  width: 100%;
+  height: auto;
+  background-color: #ffff;
+  border: none;
+  padding: 10px;
+}
+
+.thumbnail {
+  height: 250px;
+  width: 250px;
+  margin: 5px;
+  object-fit: contain;
+}
+
+.container-price-shipping-title {
+  grid-template-columns: 1fr 1fr;
+  padding: 10px;
+}
+
+.price-shipping {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+}
+
+.price {
+  font-size: 35px;
+  margin-right: 5px;
+}
+
+.shipping {
+  width: 30px;
+  height: 30px;
+}
+
+.title {
+  display: flex;
+  font-size: 20px;
+  margin-top: 10px;
+  text-align: start;
+}
+
+.state {
+  align-self: flex-start;
+  margin-top: 50px;
+  font-size: 15px;
+  color: rgb(148, 146, 146);
+}
+
+.no-results {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 300px;
+    background-color: #fff;
+    max-width: 1200px;
+    margin: 5px auto;
+    padding: 20px;
+}
+
+.no-results p {
+    font-size: 20px;
+    color: #666;
+}

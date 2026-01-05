@@ -1,0 +1,134 @@
+{
+  "results": [
+    {
+      "id": "MLA1",
+      "title": "Apple iPod Touch 5g 16gb Negro Igual A Nuevo",
+      "price": 1980,
+      "thumbnail": "https://static-catalog.tiendamia.com/marketplace_manager_service/production/product_afc5e3ea_mirakl_image_1_large.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Electrónica, Audio y Video" },
+        { "name": "Reproductores y Accesorios" },
+        { "name": "iPod" }
+      ]
+    },
+    {
+      "id": "MLA2",
+      "title": "Apple iPod Touch 5g 16gb Rosa Excelente Estado",
+      "price": 2100,
+      "thumbnail": "https://static-catalog.tiendamia.com/marketplace_manager_service/production/product_ae72bebe_mirakl_image_2_large.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Electrónica, Audio y Video" },
+        { "name": "Reproductores y Accesorios" },
+        { "name": "iPod" }
+      ]
+    },
+    {
+      "id": "MLA3",
+      "title": "Apple iPod Touch 5g 32gb Celeste Usado",
+      "price": 2500,
+      "thumbnail": "https://www.awadelectronics.com/cdn/shop/files/s-l1600_3.webp?v=1732482585",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Electrónica, Audio y Video" },
+        { "name": "Reproductores y Accesorios" },
+        { "name": "iPod" }
+      ]
+    },
+    {
+      "id": "MLA4",
+      "title": "Apple iPod Touch 6g 64gb Dorado Espacial",
+      "price": 3200,
+      "thumbnail": "https://m.media-amazon.com/images/I/71tytvXunnS.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Electrónica, Audio y Video" },
+        { "name": "Reproductores y Accesorios" },
+        { "name": "iPod" }
+      ]
+    },
+    {
+      "id": "MLA5",
+      "title": "Apple iPod Nano 7g 16gb Plata",
+      "price": 1650,
+      "thumbnail": "https://superparts.es/20282-pdt_771/apple-ipod-touch-128gb-plata-6-gen-a0022560.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Electrónica, Audio y Video" },
+        { "name": "Reproductores y Accesorios" },
+        { "name": "iPod" }
+      ]
+    },
+    {
+      "id": "MLA6",
+      "title": "Apple iPod Classic 160gb Negro",
+      "price": 4200,
+      "thumbnail": "https://cdsassets.apple.com/live/7WUAS350/images/ipod/ipod-touch/ipod-touch-4th-gen.png",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Electrónica, Audio y Video" },
+        { "name": "Reproductores y Accesorios" },
+        { "name": "iPod" }
+      ]
+    },
+    {
+      "id": "MLA7",
+      "title": "Apple iPod Shuffle 4g Gris",
+      "price": 1200,
+      "thumbnail": "https://cdsassets.apple.com/live/7WUAS350/images/ipod/ipod-touch/ipod-touch-6th-gen.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Electrónica, Audio y Video" },
+        { "name": "Reproductores y Accesorios" },
+        { "name": "iPod" }
+      ]
+    },
+    {
+      "id": "MLA8",
+      "title": "Reproductor MP3 Sony Walkman NW-E394 8gb Rojo",
+      "price": 2800,
+      "thumbnail": "https://i5.walmartimages.com/seo/Portable-Mp3-Player-USB-Digital-MP3-Music-Player-LCD-Screen-Support-32GB-TF-Card-FM-Radio_3ec1f1a6-9623-4d4d-8cba-1a0e39266a2f.fb32149a7c7b1c034bb2d5475d062de1.jpeg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Electrónica, Audio y Video" },
+        { "name": "Reproductores y Accesorios" },
+        { "name": "iPod" }
+      ]
+    },
+    {
+      "id": "MLA9",
+      "title": "Reproductor MP4 Philips GoGear 16gb Negro",
+      "price": 3100,
+      "thumbnail": "https://m.media-amazon.com/images/I/61xGJE2fVsL._AC_SL1500_.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Electrónica, Audio y Video" },
+        { "name": "Reproductores y Accesorios" },
+        { "name": "iPod" }
+      ]
+    },
+    {
+      "id": "MLA10",
+      "title": "Reproductor MP3 Sandisk Clip Sport Plus 16gb amarillo",
+      "price": 2950,
+      "thumbnail": "https://images-cdn.ubuy.co.in/680714520146d872de066dae-mp3-player-with-bluetooth-walkman-y1.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Electrónica, Audio y Video" },
+        { "name": "Reproductores y Accesorios" },
+        { "name": "iPod" }
+      ]
+    }
+  ]
+}
