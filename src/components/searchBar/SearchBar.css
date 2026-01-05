@@ -26,8 +26,8 @@
 }
 
 .input {
-  width: 600px;
-  height: 30px;
+  width: 800px;
+  height: 40px;
   padding: 10px;
   border: none;
   outline: none;
@@ -38,16 +38,16 @@
   height: 30px;
   color: #444442;
   padding: 3px;
-  background-color: #e7e5ce;
-}
-
-.searchIcon:hover {
-  background-color: #dddcd4;
-  cursor: pointer;
+  background-color: none
 }
 
 .searchButton {
   border: none;
   width: 40px;
-  height: 30px;
+  height: 40px;
+}
+
+.searchButton:hover {
+  background-color: #dddcd4;
+  cursor: pointer;
 }

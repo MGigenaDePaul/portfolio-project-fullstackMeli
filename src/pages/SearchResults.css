@@ -14,6 +14,12 @@
   background-color: #ffff;
   border: none;
   padding: 10px;
+  transition: all 0.3s ease; 
+}
+
+.buttons:hover {
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transform: translateY(-2px);
 }
 
 .thumbnail {
@@ -59,17 +65,17 @@
 }
 
 .no-results {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 300px;
-    background-color: #fff;
-    max-width: 1200px;
-    margin: 5px auto;
-    padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 300px;
+  background-color: #fff;
+  max-width: 1200px;
+  margin: 5px auto;
+  padding: 20px;
 }
 
 .no-results p {
-    font-size: 20px;
-    color: #666;
+  font-size: 20px;
+  color: #666;
 }
