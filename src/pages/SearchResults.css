@@ -14,7 +14,7 @@
   background-color: #ffff;
   border: none;
   padding: 10px;
-  transition: all 0.3s ease; 
+  transition: all 0.3s ease;
 }
 
 .buttons:hover {
@@ -189,4 +189,3 @@
     font-size: 12px;
   }
 }
-
