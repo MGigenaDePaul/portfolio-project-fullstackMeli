@@ -949,6 +949,445 @@
         { "name": "Dormitorio" },
         { "name": "Ropa de Cama" }
       ]
+    },
+    {
+      "id": "MLA75",
+      "title": "Lavandina 1L",
+      "price": 1900,
+      "thumbnail": "https://quimpro.com.ar/wp-content/uploads/2021/10/Lavandina-1l.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Limpieza" },
+        { "name": "Desinfectantes" }
+      ]
+    },
+    {
+      "id": "MLA76",
+      "title": "Desinfectante Multiuso 900ml",
+      "price": 3200,
+      "thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/672925/Limpiador-Desinfectante-Ayud-n-Lavanda-botella-900-Ml-2-871100.jpg?v=637708809655730000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Limpieza" },
+        { "name": "Multiuso" }
+      ]
+    },
+    {
+      "id": "MLA77",
+      "title": "Limpiavidrios 500ml",
+      "price": 2500,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/002/275/253/products/limpiavidrios-cif-gatillo-a1-c078071b9c3672663716589859940406-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Limpieza" },
+        { "name": "Vidrios" }
+      ]
+    },
+    {
+      "id": "MLA78",
+      "title": "Bolsa de Residuos 60L Pack x10",
+      "price": 3400,
+      "thumbnail": "https://media.falabella.com/sodimacAR/1854089_1/w=1160",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Limpieza" },
+        { "name": "Bolsas de residuos" }
+      ]
+    },
+    {
+      "id": "MLA79",
+      "title": "Mop Microfibra Giratorio con Balde",
+      "price": 45900,
+      "thumbnail": "https://tiendanewsan.com.ar/media/wysiwyg/MPLVA03PI_6.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Limpieza" },
+        { "name": "Mops" }
+      ]
+    },
+    {
+      "id": "MLA80",
+      "title": "Leche Entera Larga Vida 1L",
+      "price": 2100,
+      "thumbnail": "https://masonlineprod.vtexassets.com/arquivos/ids/306150/Leche-Larga-Vida-La-Seren-sima-Cl-sica-1-L-1-50530.jpg?v=638736081510230000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Lacteos" },
+        { "name": "Leche" }
+      ]
+    },
+    {
+      "id": "MLA81",
+      "title": "Huevos Blancos Pack x12",
+      "price": 5400,
+      "thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/182150/Huevos-Avicoper-Blancos-Huevos-Blancos-Avicoper-12-U-1-17484.jpg?v=636383425682570000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Frescos" },
+        { "name": "Huevos" }
+      ]
+    },
+    {
+      "id": "MLA82",
+      "title": "Arroz Largo Fino 1kg",
+      "price": 2400,
+      "thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/808868/Arroz-Largo-Fino-Vanguardia-1-Kg-1-843902.jpg?v=638428306432170000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "San Juan" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Almacen" },
+        { "name": "Arroz y Legumbres" }
+      ]
+    },
+    {
+      "id": "MLA83",
+      "title": "Fideos Spaghetti 500g",
+      "price": 1900,
+      "thumbnail": "https://www.maxidescuento.com.ar/33728-large_default/familia-fideos-spaghetti-x-500g-7798433540202.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Almacen" },
+        { "name": "Pastas Secas" }
+      ]
+    },
+    {
+      "id": "MLA84",
+      "title": "Pan Lactal Blanco 500g",
+      "price": 3900,
+      "thumbnail": "https://elnenearg.vtexassets.com/arquivos/ids/171977/PAN-LACTAL-SABORIARTE-BLANCO-X500GR-1-16771.jpg?v=639002973700100000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Panaderia" },
+        { "name": "Pan" }
+      ]
+    },
+    {
+      "id": "MLA85",
+      "title": "Agua Mineral Sin Gas 2L",
+      "price": 1800,
+      "thumbnail": "https://hiperlibertad.vtexassets.com/arquivos/ids/161806/Agua-mineral-sin-gas-Eco-de-los-Andes-2-l-1-8369.jpg?v=637287213458230000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Bebidas" },
+        { "name": "Agua" }
+      ]
+    },
+    {
+      "id": "MLA86",
+      "title": "Agua Mineral Con Gas 2L",
+      "price": 1900,
+      "thumbnail": "https://farmacorp.com/cdn/shop/files/909733_c154ebee-5300-4512-a436-4aa2deb28b7f_1200x1200.jpg?v=1759537978",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Bebidas" },
+        { "name": "Agua" }
+      ]
+    },
+    {
+      "id": "MLA87",
+      "title": "Pack Agua Mineral Sin Gas x6 2L",
+      "price": 9900,
+      "thumbnail": "https://http2.mlstatic.com/D_Q_NP_880487-MLA99845176233_112025-O.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Bebidas" },
+        { "name": "Agua" }
+      ]
+    },
+    {
+      "id": "MLA88",
+      "title": "Bebidas - Gaseosa Cola 2.25L",
+      "price": 5200,
+      "thumbnail": "https://www.casa-segal.com/wp-content/uploads/2020/03/coca-cola-sin-azucares-225L-almacen-gaseosas-casa-segal-mendoza-600x600.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Bebidas" },
+        { "name": "Gaseosas" }
+      ]
+    },
+    {
+      "id": "MLA89",
+      "title": "Jaboncito para Ropa 1L",
+      "price": 4800,
+      "thumbnail": "https://elnenearg.vtexassets.com/arquivos/ids/168917-800-auto?v=638480469685270000&width=800&height=auto&aspect=true",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Limpieza" },
+        { "name": "Lavado de ropa" }
+      ]
+    },
+    {
+      "id": "MLA90",
+      "title": "Comida - Azucar Blanca 1kg",
+      "price": 2600,
+      "thumbnail": "https://img1.elyerromenu.com/images/b-m-shop/azucar-blanca-1kg-w6/img.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "San Juan" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Almacen" },
+        { "name": "Azucar y Endulzantes" }
+      ]
+    },
+    {
+      "id": "MLA91",
+      "title": "Base Liquida Larga Duracion Tono Medio",
+      "price": 15900,
+      "thumbnail": "https://www.uomax.com.ar/11715-large_default/base-l%C3%ADquida-mate-natural-tbronce-vogue.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA92",
+      "title": "Corrector Liquido Alta Cobertura",
+      "price": 9900,
+      "thumbnail": "https://e00-telva.uecdn.es/assets/multimedia/imagenes/2020/03/03/15832559438315.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA93",
+      "title": "Polvo Compacto Matificante",
+      "price": 11500,
+      "thumbnail": "https://production.na01.natura.com/on/demandware.static/-/Sites-avon-ar-storefront-catalog/default/dw8b5ab303/AVNARG-711143_1.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA94",
+      "title": "Mascara de Pestanas Waterproof",
+      "price": 8900,
+      "thumbnail": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1732974220-1726042984-1717239489-1687977999-nyxworththehype-649c7ffde9c35.png?crop=0.955xw:1.00xh;0.0208xw,0&resize=980:*",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Ojos" }
+      ]
+    },
+    {
+      "id": "MLA95",
+      "title": "Delineador Liquido Negro Punta Fina",
+      "price": 7400,
+      "thumbnail": "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/nyx/nyx19714/y/21.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Ojos" }
+      ]
+    },
+    {
+      "id": "MLA96",
+      "title": "Labial Matte Larga Duracion Rojo",
+      "price": 8200,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/002/954/541/products/21-b6a82c9a8f58309c6116897792931751-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "San Juan" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Labios" }
+      ]
+    },
+    {
+      "id": "MLA97",
+      "title": "Pastillas de Freno Delanteras",
+      "price": 45900,
+      "thumbnail": "https://www.4x4.ec/wp-content/uploads/2024/09/Ironman-4x4-Brake-Pads.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehiculos" },
+        { "name": "Repuestos Autos y Camionetas" },
+        { "name": "Frenos" }
+      ]
+    },
+    {
+      "id": "MLA98",
+      "title": "Filtro de Aceite Universal",
+      "price": 8900,
+      "thumbnail": "https://media.autodoc.de/360_photos/7148292/h-preview.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehiculos" },
+        { "name": "Repuestos Autos y Camionetas" },
+        { "name": "Filtros" }
+      ]
+    },
+    {
+      "id": "MLA99",
+      "title": "Filtro de Aire Motor",
+      "price": 12900,
+      "thumbnail": "https://www.pgfilters.com/wp-content/uploads/2023/02/replace-engine-air-filter-extreme-1050x675-1-1024x658.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehiculos" },
+        { "name": "Repuestos Autos y Camionetas" },
+        { "name": "Filtros" }
+      ]
+    },
+    {
+      "id": "MLA100",
+      "title": "Amortiguadores Delanteros Par",
+      "price": 189000,
+      "thumbnail": "https://daytonaarb2c.vtexassets.com/arquivos/ids/159188-800-800?v=638312470487170000&width=800&height=800&aspect=true",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehiculos" },
+        { "name": "Repuestos Autos y Camionetas" },
+        { "name": "Suspension y Direccion" }
+      ]
+    },
+    {
+      "id": "MLA101",
+      "title": "Kit Distribucion Correa y Tensores",
+      "price": 215000,
+      "thumbnail": "https://nipponpartsweb.com.ar/wp-content/uploads/2025/08/D_934701-MLA83526102409_042025-F.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehiculos" },
+        { "name": "Repuestos Autos y Camionetas" },
+        { "name": "Motor" }
+      ]
+    },
+    {
+      "id": "MLA102",
+      "title": "Tecnologia - Notebook Lenovo IdeaPad 15 8GB 256GB SSD",
+      "price": 899000,
+      "thumbnail": "https://images.fravega.com/f1000/f6256ea2b28257b1b7f37bcc129b5fb6.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+    {
+      "id": "MLA103",
+      "title": "Tecnologia - Auriculares Bluetooth Inalambricos",
+      "price": 19900,
+      "thumbnail": "https://int-co.com.ar/wp-content/uploads/2024/10/RDH-205-1_web.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Electronica, Audio y Video" },
+        { "name": "Audio" },
+        { "name": "Auriculares" }
+      ]
+    },
+    {
+      "id": "MLA104",
+      "title": "Tecnologia - Smartwatch Deportivo Resistente al Agua",
+      "price": 35900,
+      "thumbnail": "https://static.bidcom.com.ar/publicacionesML/productos/REL00213/1000x1000-REL00213-A.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Electronica, Audio y Video" },
+        { "name": "Wearables" }
+      ]
+    },
+    {
+      "id": "MLA105",
+      "title": "Tecnologia - Camara de Seguridad WiFi 1080p",
+      "price": 27900,
+      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/390359/1466471.jpg?v=638755830518400000",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Seguridad para el Hogar" },
+        { "name": "Camaras de Seguridad" }
+      ]
+    },
+    {
+      "id": "MLA106",
+      "title": "Tecnologia - Router WiFi Doble Banda AC1200",
+      "price": 54900,
+      "thumbnail": "https://www.cudy.com/cdn/shop/files/WR300-A1_26e62c04-387b-4a02-a18b-b8aeecc6cab6.png?v=1715242342",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Redes" },
+        { "name": "Routers" }
+      ]
+    },
+    {
+      "id": "MLA107",
+      "title": "Tecnologia - Disco SSD 1TB NVMe",
+      "price": 109000,
+      "thumbnail": "https://smarttucuman.com/img/Public/1130/67256-producto-kingston-1tb-pcie-nvme.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Componentes de PC" },
+        { "name": "Discos y Almacenamiento" }
+      ]
+    },
+    {
+      "id": "MLA108",
+      "title": "Tecnologia - Parlante Bluetooth Portatil",
+      "price": 24900,
+      "thumbnail": "https://deonce.com.ar/images/detailed/81/_DSC0969_urff-14.JPG",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Electronica, Audio y Video" },
+        { "name": "Audio" },
+        { "name": "Parlantes" }
+      ]
     }
   ]
 }

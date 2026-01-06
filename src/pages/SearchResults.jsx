@@ -5,16 +5,29 @@ import './SearchResults.css'
 import BreadCrumb from '../components/Breadcrumb'
 import { useNavigate, useSearchParams } from 'react-router-dom'
 
+const normalize = (str = '') =>
+  str
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '') // saca tildes
+
 const SearchResults = () => {
-  console.log('products', productsData.results)
   const navigate = useNavigate()
   const [searchParams] = useSearchParams()
   const query = searchParams.get('search') || ''
+  const q = normalize(query.trim())
 
   const filteredProducts = productsData.results
-    .filter((product) =>
-      product.title.toLowerCase().includes(query.toLowerCase()),
-    )
+    .filter((product) => {
+      if (!q) return true
+      const titleMatch = normalize(product.title).includes(q)
+      const categoryMatch =
+        product.category_path_from_root?.some((cat) =>
+          normalize(cat.name).includes(q),
+        ) ?? false
+
+      return titleMatch || categoryMatch
+    })
     .slice(0, 4)
 
   const categories =
@@ -22,6 +35,7 @@ const SearchResults = () => {
       ? filteredProducts[0]?.category_path_from_root?.map((cat) => cat.name)
       : null
 
+  console.log('categories', categories)
   return (
     <div>
       <SearchBar />
