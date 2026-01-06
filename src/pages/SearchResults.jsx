@@ -17,14 +17,15 @@ const SearchResults = () => {
     )
     .slice(0, 4)
 
-  const categories = filteredProducts[0]?.category_path_from_root?.map(
-    (cat) => cat.name,
-  ) || ['Electrónica, Audio y Video', 'iPad', 'Reproducciones']
+  const categories =
+    filteredProducts.length > 0
+      ? filteredProducts[0]?.category_path_from_root?.map((cat) => cat.name)
+      : null
 
   return (
     <div>
       <SearchBar />
-      <BreadCrumb categories={categories} />
+      {categories && <BreadCrumb categories={categories} />}
       {filteredProducts.length === 0 ? (
         <div className="no-results">
           No se encontraron productos relacionados a <b>"{query}"</b>

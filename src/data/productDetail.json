@@ -139,6 +139,890 @@
         { "name": "Reproductores y Accesorios" },
         { "name": "iPod" }
       ]
+    },
+    {
+      "id": "MLA11",
+      "title": "Aceite Motor Shell Helix HX7 10W-40 4 Litros",
+      "price": 18900,
+      "condition": "new",
+      "sold_quantity": 642,
+      "fullImage": "https://brama.pe/cdn/shop/files/SHELL-ACEITE-HELIX-HX7-10W40-4LT.png?v=1714373099",
+      "description": "Aceite semisintético 10W-40 ideal para motores nafteros. Ayuda a mantener el motor limpio y protegido, mejorando el rendimiento en uso diario. Presentación de 4 litros.",
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Lubricantes y Fluidos" },
+        { "name": "Aceites de Motor" }
+      ]
+    },
+    {
+      "id": "MLA12",
+      "title": "Batería Moura 12x60 Ah para Auto",
+      "price": 125000,
+      "condition": "new",
+      "sold_quantity": 221,
+      "fullImage": "https://acdn-us.mitiendanube.com/stores/649/755/products/3moura-blanco-2211-46f0492d236de0820d16602334217709-1024-1024.webp",
+      "description": "Batería automotriz 12V 60Ah, alta durabilidad y excelente potencia de arranque. Recomendada para uso urbano y ruta. Lista para instalar.",
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Baterías" }
+      ]
+    },
+    {
+      "id": "MLA13",
+      "title": "Samsung Galaxy A14 128GB Negro",
+      "price": 299000,
+      "condition": "new",
+      "sold_quantity": 1054,
+      "fullImage": "https://i0.wp.com/deventas.com/wp-content/uploads/2024/07/ar-galaxy-a14-5g-sm-a146-sm-a146mzkearo-536550262.png?fit=3000%2C2000&ssl=1",
+      "description": "Smartphone Samsung con 128GB de almacenamiento. Pantalla grande ideal para contenido, cámara versátil y batería de larga duración para el día a día.",
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA14",
+      "title": "Samsung Galaxy S21 FE 5G 128GB Verde",
+      "price": 799000,
+      "condition": "used",
+      "sold_quantity": 318,
+      "fullImage": "https://mauricomputacion.com.ar/images/productos/galerias/24210/1002_19801858.webp",
+      "description": "Samsung S21 FE con conectividad 5G y 128GB. Equipo usado en muy buen estado, totalmente funcional. Excelente rendimiento para apps, fotos y juegos.",
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA15",
+      "title": "Smart TV LG 43\" Full HD LED",
+      "price": 459000,
+      "condition": "new",
+      "sold_quantity": 407,
+      "fullImage": "https://www.lg.com/ar/images/televisores/md07547275/gallery/D-1.jpg",
+      "description": "Smart TV LG de 43 pulgadas Full HD. Ideal para streaming y TV digital. Imagen nítida, buen sonido y acceso a apps como YouTube y plataformas de streaming.",
+      "category_path_from_root": [
+        { "name": "Electrónica, Audio y Video" },
+        { "name": "TVs" },
+        { "name": "Smart TV" }
+      ]
+    },
+    {
+      "id": "MLA16",
+      "title": "Lavarropas Drean Next 6.06 Eco 6kg",
+      "price": 389000,
+      "condition": "new",
+      "sold_quantity": 164,
+      "fullImage": "https://pardohogar.vtexassets.com/arquivos/ids/194830/Lavarropas-Carga-Frontal-Drean-6-Kg-600-Rpm-Next-6-06-2.jpg?v=638699759796970000",
+      "description": "Lavarropas automático de 6kg con programas eco y lavado rápido. Ideal para hogares pequeños o medianos. Bajo consumo y fácil de usar.",
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Lavado" },
+        { "name": "Lavarropas" }
+      ]
+    },
+    {
+      "id": "MLA17",
+      "title": "Bicicleta Mountain Bike Rodado 29 Shimano 21 Velocidades",
+      "price": 275000,
+      "condition": "new",
+      "sold_quantity": 298,
+      "fullImage": "https://rodadosmassa.com.ar/wp-content/uploads/2024/07/make-scaled.jpg",
+      "description": "MTB rodado 29 con cambios Shimano 21 velocidades. Ideal para ciudad y caminos de tierra. Cuadro resistente y frenado confiable para uso diario.",
+      "category_path_from_root": [
+        { "name": "Deportes y Fitness" },
+        { "name": "Ciclismo" },
+        { "name": "Bicicletas" }
+      ]
+    },
+    {
+      "id": "MLA18",
+      "title": "Silla Gamer Ergonómica RGB Reclinable",
+      "price": 199000,
+      "condition": "new",
+      "sold_quantity": 512,
+      "fullImage": "https://acdn-us.mitiendanube.com/stores/001/474/949/products/silla-rgb1-37c3a164f9af1131d416201656326798-1024-1024.webp",
+      "description": "Silla gamer con respaldo reclinable, apoyabrazos y diseño ergonómico para largas sesiones. Material cómodo y resistente, ideal para escritorio y gaming.",
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardín" },
+        { "name": "Muebles para el Hogar" },
+        { "name": "Sillas" }
+      ]
+    },
+    {
+      "id": "MLA19",
+      "title": "Cubierta Fate 185/65 R14 Prestiva",
+      "price": 165000,
+      "condition": "new",
+      "sold_quantity": 487,
+      "fullImage": "https://performancecenter.com.ar/wp-content/uploads/2023/12/SENTIVA-30.png",
+      "description": "Neumático para auto 185/65 R14, buen agarre y durabilidad para uso urbano y ruta. Ideal para reposición con medida muy común en Argentina.",
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Neumáticos" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA20",
+      "title": "Kit 2 Escobillas Bosch Aerotwin Universal",
+      "price": 25900,
+      "condition": "new",
+      "sold_quantity": 1321,
+      "fullImage": "https://s1.medias-auto5.be/images_produits/3165141087796_2108/900x900/2-ruitenwissers-bosch-twin-spoiler-550s--587246.jpg",
+      "description": "Juego de escobillas aerodinámicas Bosch, barrido parejo y silencioso. Una de las reposiciones más comunes para mejorar visibilidad con lluvia.",
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Accesorios Exterior" },
+        { "name": "Escobillas" }
+      ]
+    },
+    {
+      "id": "MLA21",
+      "title": "Aceite Motor Total Quartz 7000 10W-40 4L",
+      "price": 21500,
+      "condition": "new",
+      "sold_quantity": 902,
+      "fullImage": "https://arcencohogar.vtexassets.com/arquivos/ids/375743-800-800?v=638481880054900000&width=800&height=800&aspect=true",
+      "description": "Aceite 10W-40 para motores nafta, ideal para mantenimiento periódico. Protege contra el desgaste y ayuda a mantener el motor limpio.",
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Lubricantes y Fluidos" },
+        { "name": "Aceites de Motor" }
+      ]
+    },
+    {
+      "id": "MLA22",
+      "title": "Bujías NGK (Juego x4) para Motor Nafta",
+      "price": 17800,
+      "condition": "new",
+      "sold_quantity": 711,
+      "fullImage": "https://i.ebayimg.com/images/g/yCYAAOSwtpNnicn2/s-l1200.jpg",
+      "description": "Juego de 4 bujías NGK para motores nafta. Repuesto muy común para mejorar arranque, consumo y rendimiento. Compatibilidad según modelo.",
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Repuestos Autos y Camionetas" },
+        { "name": "Encendido" }
+      ]
+    },
+    {
+      "id": "MLA23",
+      "title": "Batería Moura 12x75 Ah para Auto",
+      "price": 159000,
+      "condition": "new",
+      "sold_quantity": 193,
+      "fullImage": "https://http2.mlstatic.com/D_NQ_NP_767720-MLA52555498643_112022-O.webp",
+      "description": "Batería 12V 75Ah con gran potencia de arranque. Ideal para autos con mayor demanda eléctrica. Lista para instalar.",
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Baterías" }
+      ]
+    },
+    {
+      "id": "MLA24",
+      "title": "Kit Luces LED H7 6000K Canbus (Par)",
+      "price": 34900,
+      "condition": "new",
+      "sold_quantity": 1208,
+      "fullImage": "https://http2.mlstatic.com/D_NQ_NP_940316-MLA89645331621_082025-O.webp",
+      "description": "Par de lámparas LED H7 6000K (blanco frío) con sistema Canbus para reducir errores en tablero. Upgrade muy buscado para mejor iluminación.",
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Accesorios Exterior" },
+        { "name": "Iluminación" }
+      ]
+    },
+    {
+      "id": "MLA25",
+      "title": "Compresor de Aire Portátil 12V con Manómetro",
+      "price": 46900,
+      "condition": "new",
+      "sold_quantity": 844,
+      "fullImage": "https://http2.mlstatic.com/D_NQ_NP_940316-MLA89645331621_082025-O.webp",
+      "description": "Inflador portátil 12V para auto, ideal para emergencias y mantenimiento de presión. Incluye manómetro para controlar PSI/bar.",
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Herramientas" }
+      ]
+    },
+    {
+      "id": "MLA26",
+      "title": "Cargador de Batería 12V Automático Inteligente",
+      "price": 55900,
+      "condition": "new",
+      "sold_quantity": 356,
+      "fullImage": "https://static.bidcom.com.ar/publicacionesML/productos/AV000409/1000x1000-AV000409-B.jpg",
+      "description": "Cargador inteligente 12V con modos automáticos. Útil para baterías descargadas o mantenimiento en autos que se usan poco.",
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Herramientas" },
+        { "name": "Cargadores" }
+      ]
+    },
+    {
+      "id": "MLA27",
+      "title": "Stereo Pioneer Bluetooth USB Aux (1 Din)",
+      "price": 129000,
+      "condition": "new",
+      "sold_quantity": 271,
+      "fullImage": "https://exitocol.vteximg.com.br/arquivos/ids/25128188/radio-para-carro-un-din-pioneer-mvh-s235bt-usbbt50w-x4.jpg?v=638641766343430000",
+      "description": "Stereo 1 Din con Bluetooth, USB y entrada auxiliar. Uno de los upgrades más comunes para autos sin conectividad moderna.",
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Audio para Vehículos" }
+      ]
+    },
+    {
+      "id": "MLA28",
+      "title": "Sensor de Estacionamiento 4 Sensores con Display",
+      "price": 29900,
+      "condition": "new",
+      "sold_quantity": 1187,
+      "fullImage": "https://accesoriosmda.com.ar/wp-content/uploads/2020/05/1-1.jpg",
+      "description": "Kit de estacionamiento con 4 sensores y display. Muy buscado para facilitar maniobras en ciudad y evitar golpes al estacionar.",
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Accesorios Interior" },
+        { "name": "Seguridad" }
+      ]
+    },
+    {
+      "id": "MLA29",
+      "title": "Escoba Plástica Reforzada para Interior y Exterior",
+      "price": 4200,
+      "condition": "new",
+      "sold_quantity": 1842,
+      "fullImage": "https://indulimp.com.ar/wp-content/uploads/2023/04/ESCOBA-REFORZADAS.png",
+      "description": "Escoba plástica resistente, ideal para uso diario en interiores y exteriores. Muy buscada para limpieza del hogar.",
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA30",
+      "title": "Balde Plástico 10 Litros Reforzado",
+      "price": 3800,
+      "condition": "new",
+      "sold_quantity": 996,
+      "fullImage": "https://aromenai.com.ar/wp-content/uploads/2023/08/519bd2b5-0e67-4e4d-9f71-7091194ece2e.jpg",
+      "description": "Balde plástico resistente de 10 litros. Producto básico de uso cotidiano para limpieza del hogar.",
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" },
+        { "name": "Baldes y Palanganas" }
+      ]
+    },
+    {
+      "id": "MLA31",
+      "title": "Trapo de Piso Algodón Extra Absorbente",
+      "price": 2900,
+      "condition": "new",
+      "sold_quantity": 2145,
+      "fullImage": "https://indulimp.com.ar/wp-content/uploads/2023/07/28-11044.jpeg",
+      "description": "Trapo de piso de algodón con alta absorción. Indispensable para limpieza diaria.",
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA32",
+      "title": "Lamparita LED Philips 9W Luz Fría E27",
+      "price": 3500,
+      "condition": "new",
+      "sold_quantity": 3210,
+      "fullImage": "https://tccommercear.vtexassets.com/arquivos/ids/160660-800-auto?v=638646850088570000&width=800&height=auto&aspect=true",
+      "description": "Lamparita LED de bajo consumo, larga duración y luz blanca fría. Producto esencial del hogar.",
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardín" },
+        { "name": "Iluminación" }
+      ]
+    },
+    {
+      "id": "MLA33",
+      "title": "Zapatilla Eléctrica 5 Tomas con Interruptor",
+      "price": 8900,
+      "condition": "new",
+      "sold_quantity": 1789,
+      "fullImage": "https://media.falabella.com/sodimacAR/2602229_1/w=1160",
+      "description": "Zapatilla eléctrica con 5 tomas e interruptor general. Muy utilizada en hogares y oficinas.",
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Eléctricas" },
+        { "name": "Zapatillas y Prolongadores" }
+      ]
+    },
+    {
+      "id": "MLA34",
+      "title": "Pava Eléctrica 1.7L Acero Inoxidable",
+      "price": 25900,
+      "condition": "new",
+      "sold_quantity": 654,
+      "fullImage": "https://dcdn-us.mitiendanube.com/stores/001/237/057/products/pe039dip-1-2ce1f11f99651beb9317565809696883-1024-1024.webp",
+      "description": "Pava eléctrica de acero inoxidable con apagado automático. Ideal para mate, té y café.",
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Cocina" },
+        { "name": "Pavas Eléctricas" }
+      ]
+    },
+    {
+      "id": "MLA35",
+      "title": "Termo Acero Inoxidable 1 Litro",
+      "price": 19900,
+      "condition": "new",
+      "sold_quantity": 1342,
+      "fullImage": "https://oldfisherman.com.ar/wp-content/uploads/2024/06/D_NQ_NP_2X_904903-MLA48196518087_112021-F.jpg",
+      "description": "Termo térmico de acero inoxidable, mantiene bebidas calientes o frías por varias horas.",
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Cocina" },
+        { "name": "Termos" }
+      ]
+    },
+    {
+      "id": "MLA36",
+      "title": "Set 3 Táperes Plásticos Herméticos",
+      "price": 7400,
+      "condition": "new",
+      "sold_quantity": 1887,
+      "fullImage": "https://dam.groupeseb.com/m/643e8de7aa365643/Digital-MASTERSEAL-CLIP-CLOSE-COLOR-EDITION-BLUE-SET-OF-4-PIECES.tif?timestamp=20250324105222",
+      "description": "Set de recipientes plásticos con cierre hermético. Uso diario para cocina y almacenamiento.",
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Cocina" },
+        { "name": "Recipientes" }
+      ]
+    },
+    {
+      "id": "MLA37",
+      "title": "Cesto de Basura Plástico 20L con Tapa",
+      "price": 8900,
+      "condition": "new",
+      "sold_quantity": 711,
+      "fullImage": "https://puertobahia.com.ar/wp-content/uploads/2021/07/Cesto-Basura-20-litros.jpg",
+      "description": "Cesto de basura de 20 litros con tapa. Ideal para cocina, baño u oficina.",
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Organización" }
+      ]
+    },
+    {
+      "id": "MLA38",
+      "title": "Perchas Plásticas Reforzadas (Pack x10)",
+      "price": 6200,
+      "condition": "new",
+      "sold_quantity": 1564,
+      "fullImage": "https://www.sina.com.ar/assets/images/producto/0303000249_2.webp?1758981616",
+      "description": "Pack de 10 perchas plásticas resistentes. Producto muy común para organización del placard.",
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Organización" },
+        { "name": "Perchas" }
+      ]
+    },
+    {
+      "id": "MLA39",
+      "title": "Detergente Liquido 750ml Limon",
+      "price": 2100,
+      "condition": "new",
+      "sold_quantity": 4821,
+      "fullImage": "https://jumboargentina.vtexassets.com/arquivos/ids/781293/Detergente-L-quido-Lavavajillas-Magistral-Lim-n-Ultra-Desengrasante-750ml-1-939987.jpg?v=638194917774670000",
+      "description": "Detergente liquido para lavado de vajilla, remueve grasa y deja aroma a limon. Producto de uso diario en cocina.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Limpieza" },
+        { "name": "Lavado de vajilla" }
+      ]
+    },
+    {
+      "id": "MLA40",
+      "title": "Papel Higienico Doble Hoja Pack x12",
+      "price": 9800,
+      "condition": "new",
+      "sold_quantity": 6390,
+      "fullImage": "https://carrefourar.vtexassets.com/arquivos/ids/692559/7793344905140_02.jpg?v=638917364406770000",
+      "description": "Pack x12 rollos doble hoja. Producto esencial del hogar, suave y rendidor para uso cotidiano.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Higiene y cuidado personal" },
+        { "name": "Papel higienico" }
+      ]
+    },
+    {
+      "id": "MLA41",
+      "title": "Shampoo Anticaspa 400ml",
+      "price": 7200,
+      "condition": "new",
+      "sold_quantity": 2107,
+      "fullImage": "https://farmacityar.vtexassets.com/arquivos/ids/203825/138762_shampoo-clear-anticaspa-control-caida-x-400-ml_imagen-1.jpg?v=637377677882270000",
+      "description": "Shampoo anticaspa para uso frecuente. Limpieza profunda y cuidado del cuero cabelludo.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Higiene y cuidado personal" },
+        { "name": "Cabello" }
+      ]
+    },
+    {
+      "id": "MLA42",
+      "title": "Jabon Liquido para Manos 500ml",
+      "price": 3400,
+      "condition": "new",
+      "sold_quantity": 3552,
+      "fullImage": "https://klean.com.ar/wp-content/uploads/2020/06/jabonliquido-klean-dispenser-500ml-crema-scaled.jpg",
+      "description": "Jabon liquido para manos, ideal para baño y cocina. Limpieza diaria con buen rendimiento.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Higiene y cuidado personal" },
+        { "name": "Jabones" }
+      ]
+    },
+    {
+      "id": "MLA43",
+      "title": "Lampara LED 12W Luz Fria E27",
+      "price": 3900,
+      "condition": "new",
+      "sold_quantity": 4988,
+      "fullImage": "https://electrolineas.com.ar/wp-content/uploads/2025/05/LEDLAM010380.jpg",
+      "description": "Lampara LED E27 de 12W, luz fria, bajo consumo y larga duracion. Muy buscada para reemplazo de focos comunes.",
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Iluminacion" }
+      ]
+    },
+    {
+      "id": "MLA44",
+      "title": "Pila Alcalina AA Pack x8",
+      "price": 6500,
+      "condition": "new",
+      "sold_quantity": 2715,
+      "fullImage": "https://arcencohogar.vtexassets.com/arquivos/ids/412158/173746-1.jpg?v=639026532081700000",
+      "description": "Pack de pilas AA alcalinas para controles, juguetes y dispositivos del hogar. Producto super comun y de alta rotacion.",
+      "category_path_from_root": [
+        { "name": "Electronica, Audio y Video" },
+        { "name": "Pilas y cargadores" }
+      ]
+    },
+    {
+      "id": "MLA45",
+      "title": "Cargador USB C 20W Carga Rapida",
+      "price": 14900,
+      "condition": "new",
+      "sold_quantity": 1890,
+      "fullImage": "https://images.fravega.com/f1000/4aed92e50f3682fc9fce4b2f34c2c575.jpg",
+      "description": "Cargador USB C de 20W con carga rapida. Accesorio muy pedido para uso diario con distintos dispositivos.",
+      "category_path_from_root": [
+        { "name": "Electronica, Audio y Video" },
+        { "name": "Accesorios para Celulares" },
+        { "name": "Cargadores" }
+      ]
+    },
+    {
+      "id": "MLA46",
+      "title": "Botella Termica 1 Litro Acero Inoxidable",
+      "price": 17900,
+      "condition": "new",
+      "sold_quantity": 1324,
+      "fullImage": "https://acdn-us.mitiendanube.com/stores/001/693/230/products/botella-termica-acero-inoxidable-1-litro-termy-blanco-fe20c834d7efc293e817570155047922-1024-1024.webp",
+      "description": "Botella termica de 1 litro, mantiene frio o caliente por horas. Muy usada para trabajo, gym y viajes.",
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Cocina" },
+        { "name": "Botellas y vasos" }
+      ]
+    },
+    {
+      "id": "MLA47",
+      "title": "Set Esponjas Multiuso Pack x6",
+      "price": 3600,
+      "condition": "new",
+      "sold_quantity": 4201,
+      "fullImage": "https://images-na.ssl-images-amazon.com/images/I/81U9A3b8DaL._AC_SL1500_.jpg",
+      "description": "Pack de esponjas multiuso para cocina y limpieza general. Producto cotidiano muy buscado por precio y reposicion frecuente.",
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Limpieza" },
+        { "name": "Esponjas y guantes" }
+      ]
+    },
+    {
+      "id": "MLA48",
+      "title": "Guantes de Limpieza Reutilizables Talle M",
+      "price": 2900,
+      "condition": "new",
+      "sold_quantity": 1755,
+      "fullImage": "https://m.media-amazon.com/images/I/61JIT8YiDvL._UY1000_.jpg",
+      "description": "Guantes reutilizables para limpieza del hogar. Protegen las manos y mejoran el agarre durante el lavado.",
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA49",
+      "title": "Cinta Adhesiva Transparente Pack x6",
+      "price": 3100,
+      "condition": "new",
+      "sold_quantity": 2987,
+      "fullImage": "https://jnenvios.com/wp-content/uploads/cinta-transparente-embalar-pack6-40m.png",
+      "description": "Cinta transparente para uso escolar y oficina. Pack x6, muy comun para tareas, embalaje liviano y organizacion.",
+      "category_path_from_root": [
+        { "name": "Libreria" },
+        { "name": "Insumos de oficina" }
+      ]
+    },
+    {
+      "id": "MLA50",
+      "title": "Foco Reflector LED 50W Exterior IP65",
+      "price": 12900,
+      "condition": "new",
+      "sold_quantity": 944,
+      "fullImage": "https://m.media-amazon.com/images/I/61VHPCPcwRL._UF1000,1000_QL80_.jpg",
+      "description": "Reflector LED 50W para exterior con proteccion IP65. Muy usado para patios, entradas, garages y seguridad.",
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Iluminacion" },
+        { "name": "Reflectores" }
+      ]
+    },
+    {
+      "id": "MLA51",
+      "title": "Samsung Galaxy A05 128GB Negro",
+      "price": 249000,
+      "condition": "new",
+      "sold_quantity": 1432,
+      "fullImage": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a055mzkearo/gallery/ar-galaxy-a05-sm-a055-sm-a055mzkearo-541218557?$Q90_1248_936_F_PNG$",
+      "description": "Celular Samsung con 128GB. Buen rendimiento para redes, mensajeria y uso diario. Equipo nuevo y sellado.",
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA52",
+      "title": "Samsung Galaxy A15 128GB Azul y Negro",
+      "price": 329000,
+      "condition": "new",
+      "sold_quantity": 981,
+      "fullImage": "https://previsoraarg.vtexassets.com/arquivos/ids/160019/samsung-galaxy-a15-dual-sim-blue-black-128gb-and-4gb-ram-sm-a155b.jpg?v=638588084851430000",
+      "description": "Samsung Galaxy A15 con 128GB, ideal para multitarea, fotos y streaming. Muy buscado por su relacion precio calidad.",
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA53",
+      "title": "Samsung Galaxy S23 256GB Negro",
+      "price": 1399000,
+      "condition": "new",
+      "sold_quantity": 402,
+      "fullImage": "https://premiumhome.com.ar/wp-content/uploads/2023/08/te2953_b.webp",
+      "description": "Samsung gama alta con 256GB. Excelente camara y rendimiento para juegos y productividad. Equipo nuevo.",
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA54",
+      "title": "Apple iPhone 13 128GB Blanco",
+      "price": 1249000,
+      "condition": "used",
+      "sold_quantity": 318,
+      "fullImage": "https://mercatecno.com/wp-content/uploads/2024/11/Celulares-iPhone13128GB-Blanco-2-1.png",
+      "description": "iPhone 13 de 128GB, equipo usado en muy buen estado y totalmente funcional. Ideal para fotos, video y uso diario.",
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA55",
+      "title": "Agua Mineral Sin Gas 2L",
+      "price": 1800,
+      "condition": "new",
+      "sold_quantity": 7521,
+      "fullImage": "https://arjosimarprod.vtexassets.com/arquivos/ids/164775-800-auto?v=637655013177900000&width=800&height=auto&aspect=true",
+      "description": "Agua mineral sin gas de 2 litros. Producto de consumo diario, ideal para mesa y cocina.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Bebidas" },
+        { "name": "Agua" }
+      ]
+    },
+    {
+      "id": "MLA56",
+      "title": "Agua Mineral Con Gas 2L",
+      "price": 1900,
+      "condition": "new",
+      "sold_quantity": 4980,
+      "fullImage": "https://jumboargentina.vtexassets.com/arquivos/ids/803690-800-600?v=638380030461730000&width=800&height=600&aspect=true",
+      "description": "Agua mineral con gas de 2 litros. Muy pedida para comidas y reuniones.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Bebidas" },
+        { "name": "Agua" }
+      ]
+    },
+    {
+      "id": "MLA57",
+      "title": "Yerba Mate 1kg",
+      "price": 7900,
+      "condition": "new",
+      "sold_quantity": 6210,
+      "fullImage": "https://jumboargentina.vtexassets.com/arquivos/ids/611981/Yerba-Mate-Ma-anita-4flex-1kg-1-853197.jpg?v=637396250130400000",
+      "description": "Yerba mate de 1kg, consumo cotidiano en Argentina. Ideal para mate diario en casa o trabajo.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Almacen" },
+        { "name": "Yerba" }
+      ]
+    },
+    {
+      "id": "MLA58",
+      "title": "Arroz Largo Fino 1kg",
+      "price": 2400,
+      "condition": "new",
+      "sold_quantity": 4387,
+      "fullImage": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/172265/Arroz-Largo-Fino-Dos-Hermanos-1-Kg-1-7869.jpg?v=637915953816400000",
+      "description": "Arroz largo fino 1kg, producto basico de cocina para comidas diarias.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Almacen" },
+        { "name": "Arroz y Legumbres" }
+      ]
+    },
+    {
+      "id": "MLA59",
+      "title": "Fideos Spaghetti 500g",
+      "price": 1900,
+      "condition": "new",
+      "sold_quantity": 5120,
+      "fullImage": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/157323/FIDEOS-LPROVIDENCIA-SPAGHETT-1-4262.jpg?v=637432177440600000",
+      "description": "Fideos tipo spaghetti 500g. Clasico del almacen, rapido y rendidor para comidas diarias.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Almacen" },
+        { "name": "Pastas Secas" }
+      ]
+    },
+    {
+      "id": "MLA60",
+      "title": "Galletitas Dulces 400g",
+      "price": 3200,
+      "condition": "new",
+      "sold_quantity": 3955,
+      "fullImage": "https://clickandfoods.com/cdn/shop/products/7790040929609_01.jpg?v=1597768949",
+      "description": "Galletitas dulces 400g, ideal para merienda y desayuno. Producto de alta rotacion.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Golosinas y Snacks" },
+        { "name": "Galletitas" }
+      ]
+    },
+    {
+      "id": "MLA61",
+      "title": "Atun En Lata 170g",
+      "price": 4200,
+      "condition": "new",
+      "sold_quantity": 2789,
+      "fullImage": "https://ketoandco.com.ar/wp-content/uploads/2024/12/image-13.webp",
+      "description": "Atun en lata 170g, ideal para ensaladas y comidas rapidas. Producto comun de almacen.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Almacen" },
+        { "name": "Conservas" }
+      ]
+    },
+    {
+      "id": "MLA62",
+      "title": "Aceite De Girasol 1.5L",
+      "price": 6900,
+      "condition": "new",
+      "sold_quantity": 2211,
+      "fullImage": "https://masonlineprod.vtexassets.com/arquivos/ids/164676/Aceite-De-Girasol-Canuelas-15-Lt-14809.jpg?v=638791346911800000",
+      "description": "Aceite de girasol 1.5L para cocina diaria. Muy usado para frituras y preparaciones basicas.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Almacen" },
+        { "name": "Aceites y Vinagres" }
+      ]
+    },
+    {
+      "id": "MLA63",
+      "title": "Cama Doble 2 Plazas Estructura Metalica",
+      "price": 189000,
+      "condition": "new",
+      "sold_quantity": 214,
+      "fullImage": "https://dcdn-us.mitiendanube.com/stores/005/609/363/products/ind-0002-2-min-355e4e950cd0b3b01a17422516003288-1024-1024.webp",
+      "description": "Cama doble de 2 plazas con estructura metalica resistente. Ideal para dormitorio principal o invitados.",
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Dormitorio" },
+        { "name": "Camas" }
+      ]
+    },
+    {
+      "id": "MLA64",
+      "title": "Colchon Espuma 2 Plazas Alta Densidad",
+      "price": 259000,
+      "condition": "new",
+      "sold_quantity": 189,
+      "fullImage": "https://images.fravega.com/f1000/84736bf5f6027e4cbd3664ba80be5944.jpg",
+      "description": "Colchon de espuma de alta densidad para 2 plazas. Buen soporte y comodidad para uso diario.",
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Dormitorio" },
+        { "name": "Colchones" }
+      ]
+    },
+    {
+      "id": "MLA65",
+      "title": "Leche Entera Larga Vida 1L",
+      "price": 2100,
+      "condition": "new",
+      "sold_quantity": 8321,
+      "fullImage": "https://masonlineprod.vtexassets.com/arquivos/ids/283731/Leche-La-Serenisima-Larga-Vida-Cl-sica-1-L-2-43469.jpg?v=638736082887300000",
+      "description": "Leche entera larga vida de 1 litro. Producto esencial del desayuno y cocina diaria.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Lacteos" },
+        { "name": "Leche" }
+      ]
+    },
+    {
+      "id": "MLA66",
+      "title": "Leche Descremada Larga Vida 1L",
+      "price": 2150,
+      "condition": "new",
+      "sold_quantity": 5478,
+      "fullImage": "https://masonlineprod.vtexassets.com/arquivos/ids/283733-800-auto?v=638736071384670000&width=800&height=auto&aspect=true",
+      "description": "Leche descremada larga vida, ideal para consumo diario con bajo contenido graso.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Lacteos" },
+        { "name": "Leche" }
+      ]
+    },
+    {
+      "id": "MLA67",
+      "title": "Huevos Blancos Pack x12",
+      "price": 5400,
+      "condition": "new",
+      "sold_quantity": 6240,
+      "fullImage": "https://jumboargentina.vtexassets.com/arquivos/ids/790048/Huevos-Blancos-Extra-Grandes-X12-Ud-C-co-1-939806.jpg?v=638271165808700000",
+      "description": "Pack de 12 huevos blancos frescos. Producto basico para cocina y reposteria.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Frescos" },
+        { "name": "Huevos" }
+      ]
+    },
+    {
+      "id": "MLA68",
+      "title": "Pan Lactal Blanco 500g",
+      "price": 3900,
+      "condition": "new",
+      "sold_quantity": 4125,
+      "fullImage": "https://jumboargentina.vtexassets.com/arquivos/ids/693360/Pan-Blanco-Lactal-Rf-500g-1-885359.jpg?v=637829769920130000",
+      "description": "Pan lactal blanco 500g, ideal para tostadas, sandwiches y desayuno diario.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Panaderia" },
+        { "name": "Pan" }
+      ]
+    },
+    {
+      "id": "MLA69",
+      "title": "Azucar Blanca 1kg",
+      "price": 2600,
+      "condition": "new",
+      "sold_quantity": 3899,
+      "fullImage": "https://ardiaprod.vtexassets.com/arquivos/ids/358689/Azucar-Ledesma-Refinado-Superior-1-Kg-_1.jpg?v=638954574899370000",
+      "description": "Azucar blanca refinada de 1kg. Producto comun para endulzar bebidas y cocinar.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Almacen" },
+        { "name": "Azucar y Endulzantes" }
+      ]
+    },
+    {
+      "id": "MLA70",
+      "title": "Harina De Trigo 000 1kg",
+      "price": 2300,
+      "condition": "new",
+      "sold_quantity": 4567,
+      "fullImage": "https://ardiaprod.vtexassets.com/arquivos/ids/345586/Harina-de-Trigo-000-DIA-1-Kg-_1.jpg?v=638937188232970000",
+      "description": "Harina 000 de trigo para panificados y recetas caseras. Producto basico del almacen.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Almacen" },
+        { "name": "Harinas" }
+      ]
+    },
+    {
+      "id": "MLA71",
+      "title": "Manteca 200g",
+      "price": 2800,
+      "condition": "new",
+      "sold_quantity": 2987,
+      "fullImage": "https://ardiaprod.vtexassets.com/arquivos/ids/343509/Manteca-La-Serenisima-100-Gr-_1.jpg?v=638732575139700000",
+      "description": "Manteca de 200g para cocina y reposteria. Uso diario en comidas y desayunos.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Lacteos" },
+        { "name": "Manteca y Margarina" }
+      ]
+    },
+    {
+      "id": "MLA72",
+      "title": "Queso Cremoso 500g",
+      "price": 8900,
+      "condition": "new",
+      "sold_quantity": 1742,
+      "fullImage": "https://hiperlibertad.vtexassets.com/arquivos/ids/168564/QUESO-CREM-N-CREMOSO-X-500-G-1-10166.jpg?v=637360891413330000",
+      "description": "Queso cremoso de 500g, ideal para sandwiches, pizzas y comidas caseras.",
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Lacteos" },
+        { "name": "Quesos" }
+      ]
+    },
+    {
+      "id": "MLA73",
+      "title": "Almohada Espuma Memory Foam",
+      "price": 24900,
+      "condition": "new",
+      "sold_quantity": 687,
+      "fullImage": "https://m.media-amazon.com/images/I/71gTNlZk5DL._AC_UF894,1000_QL80_.jpg",
+      "description": "Almohada de espuma memory foam, mejora postura y descanso. Muy buscada para dormitorio.",
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Dormitorio" },
+        { "name": "Almohadas" }
+      ]
+    },
+    {
+      "id": "MLA74",
+      "title": "Juego de Sabanas 2 Plazas Algodon",
+      "price": 35900,
+      "condition": "new",
+      "sold_quantity": 534,
+      "fullImage": "https://arcencohogar.vtexassets.com/arquivos/ids/393703/1437005-1.jpg.jpg?v=638808473220700000",
+      "description": "Juego de sabanas de algodon para cama de 2 plazas. Producto comun para renovar dormitorio.",
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Dormitorio" },
+        { "name": "Ropa de Cama" }
+      ]
     }
   ]
 }

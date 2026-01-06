@@ -129,6 +129,826 @@
         { "name": "Reproductores y Accesorios" },
         { "name": "iPod" }
       ]
+    },
+    {
+      "id": "MLA11",
+      "title": "Aceite Motor Shell Helix HX7 10W-40 4 Litros",
+      "price": 18900,
+      "thumbnail": "https://brama.pe/cdn/shop/files/SHELL-ACEITE-HELIX-HX7-10W40-4LT.png?v=1714373099",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Lubricantes y Fluidos" },
+        { "name": "Aceites de Motor" }
+      ]
+    },
+    {
+      "id": "MLA12",
+      "title": "Batería Moura 12x60 Ah para Auto",
+      "price": 125000,
+      "thumbnail": "https://martinelloeletrodomesticos.fbitsstatic.net/img/p/bateria-automotiva-moura-m90td-mge2-mge3-sli-78133/264725-1.jpg?w=482&h=482&v=no-change&qs=ignore",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Baterías" }
+      ]
+    },
+    {
+      "id": "MLA13",
+      "title": "Samsung Galaxy A14 128GB Negro",
+      "price": 299000,
+      "thumbnail": "https://i0.wp.com/deventas.com/wp-content/uploads/2024/07/ar-galaxy-a14-5g-sm-a146-sm-a146mzkearo-536550262.png?fit=3000%2C2000&ssl=1",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA14",
+      "title": "Samsung Galaxy S21 FE 5G 128GB Verde",
+      "price": 799000,
+      "thumbnail": "https://mauricomputacion.com.ar/images/productos/galerias/24210/1002_19801858.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA15",
+      "title": "Smart TV LG 43\" Full HD LED",
+      "price": 459000,
+      "thumbnail": "https://www.lg.com/ar/images/televisores/md07547275/gallery/D-1.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Electrónica, Audio y Video" },
+        { "name": "TVs" },
+        { "name": "Smart TV" }
+      ]
+    },
+    {
+      "id": "MLA16",
+      "title": "Lavarropas Drean Next 6.06 Eco 6kg",
+      "price": 389000,
+      "thumbnail": "https://pardohogar.vtexassets.com/arquivos/ids/194830/Lavarropas-Carga-Frontal-Drean-6-Kg-600-Rpm-Next-6-06-2.jpg?v=638699759796970000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "San Juan" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Lavado" },
+        { "name": "Lavarropas" }
+      ]
+    },
+    {
+      "id": "MLA17",
+      "title": "Bicicleta Mountain Bike Rodado 29 Shimano 21 Velocidades",
+      "price": 275000,
+      "thumbnail": "https://rodadosmassa.com.ar/wp-content/uploads/2024/07/make-scaled.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Deportes y Fitness" },
+        { "name": "Ciclismo" },
+        { "name": "Bicicletas" }
+      ]
+    },
+    {
+      "id": "MLA18",
+      "title": "Silla Gamer Ergonómica RGB Reclinable",
+      "price": 199000,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/474/949/products/silla-rgb1-37c3a164f9af1131d416201656326798-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardín" },
+        { "name": "Muebles para el Hogar" },
+        { "name": "Sillas" }
+      ]
+    },
+    {
+      "id": "MLA19",
+      "title": "Cubierta Fate 185/65 R14 Prestiva",
+      "price": 165000,
+      "thumbnail": "https://performancecenter.com.ar/wp-content/uploads/2023/12/SENTIVA-30.png",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Neumáticos" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA20",
+      "title": "Kit 2 Escobillas Bosch Aerotwin Universal",
+      "price": 25900,
+      "thumbnail": "https://s1.medias-auto5.be/images_produits/3165141087796_2108/900x900/2-ruitenwissers-bosch-twin-spoiler-550s--587246.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Accesorios Exterior" },
+        { "name": "Escobillas" }
+      ]
+    },
+    {
+      "id": "MLA21",
+      "title": "Aceite Motor Total Quartz 7000 10W-40 4L",
+      "price": 21500,
+      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/375743-800-800?v=638481880054900000&width=800&height=800&aspect=true",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Lubricantes y Fluidos" },
+        { "name": "Aceites de Motor" }
+      ]
+    },
+    {
+      "id": "MLA22",
+      "title": "Bujías NGK (Juego x4) para Motor Nafta",
+      "price": 17800,
+      "thumbnail": "https://i.ebayimg.com/images/g/yCYAAOSwtpNnicn2/s-l1200.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Repuestos Autos y Camionetas" },
+        { "name": "Encendido" }
+      ]
+    },
+    {
+      "id": "MLA23",
+      "title": "Batería Moura 12x75 Ah para Auto",
+      "price": 159000,
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_767720-MLA52555498643_112022-O.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Baterías" }
+      ]
+    },
+    {
+      "id": "MLA24",
+      "title": "Kit Luces LED H7 6000K Canbus (Par)",
+      "price": 34900,
+      "thumbnail": "https://m.media-amazon.com/images/I/61ovby93UuL._AC_UF894,1000_QL80_.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Accesorios Exterior" },
+        { "name": "Iluminación" }
+      ]
+    },
+    {
+      "id": "MLA25",
+      "title": "Compresor de Aire Portátil 12V con Manómetro",
+      "price": 46900,
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_940316-MLA89645331621_082025-O.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Herramientas" }
+      ]
+    },
+    {
+      "id": "MLA26",
+      "title": "Cargador de Batería 12V Automático Inteligente",
+      "price": 55900,
+      "thumbnail": "https://static.bidcom.com.ar/publicacionesML/productos/AV000409/1000x1000-AV000409-B.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Herramientas" },
+        { "name": "Cargadores" }
+      ]
+    },
+    {
+      "id": "MLA27",
+      "title": "Stereo Pioneer Bluetooth USB Aux (1 Din)",
+      "price": 129000,
+      "thumbnail": "https://exitocol.vteximg.com.br/arquivos/ids/25128188/radio-para-carro-un-din-pioneer-mvh-s235bt-usbbt50w-x4.jpg?v=638641766343430000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Audio para Vehículos" }
+      ]
+    },
+    {
+      "id": "MLA28",
+      "title": "Sensor de Estacionamiento 4 Sensores con Display",
+      "price": 29900,
+      "thumbnail": "https://accesoriosmda.com.ar/wp-content/uploads/2020/05/1-1.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Accesorios para Vehículos" },
+        { "name": "Accesorios Interior" },
+        { "name": "Seguridad" }
+      ]
+    },
+    {
+      "id": "MLA29",
+      "title": "Escoba Plástica Reforzada para Interior y Exterior",
+      "price": 4200,
+      "thumbnail": "https://indulimp.com.ar/wp-content/uploads/2023/04/ESCOBA-REFORZADAS.png",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA30",
+      "title": "Balde Plástico 10 Litros Reforzado",
+      "price": 3800,
+      "thumbnail": "https://aromenai.com.ar/wp-content/uploads/2023/08/519bd2b5-0e67-4e4d-9f71-7091194ece2e.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" },
+        { "name": "Baldes y Palanganas" }
+      ]
+    },
+    {
+      "id": "MLA31",
+      "title": "Trapo de Piso Algodón Extra Absorbente",
+      "price": 2900,
+      "thumbnail": "https://indulimp.com.ar/wp-content/uploads/2023/07/28-11044.jpeg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA32",
+      "title": "Lamparita LED Philips 9W Luz Fría E27",
+      "price": 3500,
+      "thumbnail": "https://tccommercear.vtexassets.com/arquivos/ids/160660-800-auto?v=638646850088570000&width=800&height=auto&aspect=true",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardín" },
+        { "name": "Iluminación" }
+      ]
+    },
+    {
+      "id": "MLA33",
+      "title": "Zapatilla Eléctrica 5 Tomas con Interruptor",
+      "price": 8900,
+      "thumbnail": "https://media.falabella.com/sodimacAR/2602229_1/w=1160",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Eléctricas" },
+        { "name": "Zapatillas y Prolongadores" }
+      ]
+    },
+    {
+      "id": "MLA34",
+      "title": "Pava Eléctrica 1.7L Acero Inoxidable",
+      "price": 25900,
+      "thumbnail": "https://dcdn-us.mitiendanube.com/stores/001/237/057/products/pe039dip-1-2ce1f11f99651beb9317565809696883-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Cocina" },
+        { "name": "Pavas Eléctricas" }
+      ]
+    },
+    {
+      "id": "MLA35",
+      "title": "Termo Acero Inoxidable 1 Litro",
+      "price": 19900,
+      "thumbnail": "https://oldfisherman.com.ar/wp-content/uploads/2024/06/D_NQ_NP_2X_904903-MLA48196518087_112021-F.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Cocina" },
+        { "name": "Termos" }
+      ]
+    },
+    {
+      "id": "MLA36",
+      "title": "Set 3 Táperes Plásticos Herméticos",
+      "price": 7400,
+      "thumbnail": "https://dam.groupeseb.com/m/643e8de7aa365643/Digital-MASTERSEAL-CLIP-CLOSE-COLOR-EDITION-BLUE-SET-OF-4-PIECES.tif?timestamp=20250324105222",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Cocina" },
+        { "name": "Recipientes" }
+      ]
+    },
+    {
+      "id": "MLA37",
+      "title": "Cesto de Basura Plástico 20L con Tapa",
+      "price": 8900,
+      "thumbnail": "https://puertobahia.com.ar/wp-content/uploads/2021/07/Cesto-Basura-20-litros.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "San Juan" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Organización" }
+      ]
+    },
+    {
+      "id": "MLA38",
+      "title": "Perchas Plásticas Reforzadas (Pack x10)",
+      "price": 6200,
+      "thumbnail": "https://www.sina.com.ar/assets/images/producto/0303000249_2.webp?1758981616",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Organización" },
+        { "name": "Perchas" }
+      ]
+    },
+    {
+      "id": "MLA39",
+      "title": "Detergente Liquido 750ml Limon",
+      "price": 2100,
+      "thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/781293/Detergente-L-quido-Lavavajillas-Magistral-Lim-n-Ultra-Desengrasante-750ml-1-939987.jpg?v=638194917774670000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Limpieza" },
+        { "name": "Lavado de vajilla" }
+      ]
+    },
+    {
+      "id": "MLA40",
+      "title": "Papel Higienico Doble Hoja Pack x12",
+      "price": 9800,
+      "thumbnail": "https://carrefourar.vtexassets.com/arquivos/ids/692559/7793344905140_02.jpg?v=638917364406770000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Higiene y cuidado personal" },
+        { "name": "Papel higienico" }
+      ]
+    },
+    {
+      "id": "MLA41",
+      "title": "Shampoo Anticaspa 400ml",
+      "price": 7200,
+      "thumbnail": "https://farmacityar.vtexassets.com/arquivos/ids/203825/138762_shampoo-clear-anticaspa-control-caida-x-400-ml_imagen-1.jpg?v=637377677882270000",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Higiene y cuidado personal" },
+        { "name": "Cabello" }
+      ]
+    },
+    {
+      "id": "MLA42",
+      "title": "Jabon Liquido para Manos 500ml",
+      "price": 3400,
+      "thumbnail": "https://klean.com.ar/wp-content/uploads/2020/06/jabonliquido-klean-dispenser-500ml-crema-scaled.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Higiene y cuidado personal" },
+        { "name": "Jabones" }
+      ]
+    },
+    {
+      "id": "MLA43",
+      "title": "Lampara LED 12W Luz Fria E27",
+      "price": 3900,
+      "thumbnail": "https://electrolineas.com.ar/wp-content/uploads/2025/05/LEDLAM010380.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Iluminacion" }
+      ]
+    },
+    {
+      "id": "MLA44",
+      "title": "Pila Alcalina AA Pack x8",
+      "price": 6500,
+      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/412158/173746-1.jpg?v=639026532081700000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Electronica, Audio y Video" },
+        { "name": "Pilas y cargadores" }
+      ]
+    },
+    {
+      "id": "MLA45",
+      "title": "Cargador USB C 20W Carga Rapida",
+      "price": 14900,
+      "thumbnail": "https://images.fravega.com/f1000/4aed92e50f3682fc9fce4b2f34c2c575.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Electronica, Audio y Video" },
+        { "name": "Accesorios para Celulares" },
+        { "name": "Cargadores" }
+      ]
+    },
+    {
+      "id": "MLA46",
+      "title": "Botella Termica 1 Litro Acero Inoxidable",
+      "price": 17900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/693/230/products/botella-termica-acero-inoxidable-1-litro-termy-blanco-fe20c834d7efc293e817570155047922-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "San Juan" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Cocina" },
+        { "name": "Botellas y vasos" }
+      ]
+    },
+    {
+      "id": "MLA47",
+      "title": "Set Esponjas Multiuso Pack x6",
+      "price": 3600,
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/81U9A3b8DaL._AC_SL1500_.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Limpieza" },
+        { "name": "Esponjas y guantes" }
+      ]
+    },
+    {
+      "id": "MLA48",
+      "title": "Guantes de Limpieza Reutilizables Talle M",
+      "price": 2900,
+      "thumbnail": "https://m.media-amazon.com/images/I/61JIT8YiDvL._UY1000_.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA49",
+      "title": "Cinta Adhesiva Transparente Pack x6",
+      "price": 3100,
+      "thumbnail": "https://jnenvios.com/wp-content/uploads/cinta-transparente-embalar-pack6-40m.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Libreria" },
+        { "name": "Insumos de oficina" }
+      ]
+    },
+    {
+      "id": "MLA50",
+      "title": "Foco Reflector LED 50W Exterior IP65",
+      "price": 12900,
+      "thumbnail": "https://m.media-amazon.com/images/I/61VHPCPcwRL._UF1000,1000_QL80_.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Iluminacion" },
+        { "name": "Reflectores" }
+      ]
+    },
+    {
+      "id": "MLA51",
+      "title": "Samsung Galaxy A05 128GB Negro",
+      "price": 249000,
+      "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a055mzkearo/gallery/ar-galaxy-a05-sm-a055-sm-a055mzkearo-541218557?$Q90_1248_936_F_PNG$",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA52",
+      "title": "Samsung Galaxy A15 128GB Azul y Negro",
+      "price": 329000,
+      "thumbnail": "https://previsoraarg.vtexassets.com/arquivos/ids/160019/samsung-galaxy-a15-dual-sim-blue-black-128gb-and-4gb-ram-sm-a155b.jpg?v=638588084851430000",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA53",
+      "title": "Samsung Galaxy S23 256GB Negro",
+      "price": 1399000,
+      "thumbnail": "https://premiumhome.com.ar/wp-content/uploads/2023/08/te2953_b.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA54",
+      "title": "Apple iPhone 13 128GB Blanco",
+      "price": 1249000,
+      "thumbnail": "https://mercatecno.com/wp-content/uploads/2024/11/Celulares-iPhone13128GB-Blanco-2-1.png",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA55",
+      "title": "Agua Mineral Sin Gas 2L",
+      "price": 1800,
+      "thumbnail": "https://arjosimarprod.vtexassets.com/arquivos/ids/164775-800-auto?v=637655013177900000&width=800&height=auto&aspect=true",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Bebidas" },
+        { "name": "Agua" }
+      ]
+    },
+    {
+      "id": "MLA56",
+      "title": "Agua Mineral Con Gas 2L",
+      "price": 1900,
+      "thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/803690-800-600?v=638380030461730000&width=800&height=600&aspect=true",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Bebidas" },
+        { "name": "Agua" }
+      ]
+    },
+    {
+      "id": "MLA57",
+      "title": "Yerba Mate 1kg",
+      "price": 7900,
+      "thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/611981/Yerba-Mate-Ma-anita-4flex-1kg-1-853197.jpg?v=637396250130400000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Almacen" },
+        { "name": "Yerba" }
+      ]
+    },
+    {
+      "id": "MLA58",
+      "title": "Arroz Largo Fino 1kg",
+      "price": 2400,
+      "thumbnail": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/172265/Arroz-Largo-Fino-Dos-Hermanos-1-Kg-1-7869.jpg?v=637915953816400000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "San Juan" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Almacen" },
+        { "name": "Arroz y Legumbres" }
+      ]
+    },
+    {
+      "id": "MLA59",
+      "title": "Fideos Spaghetti 500g",
+      "price": 1900,
+      "thumbnail": "https://arcordiezb2c.vteximg.com.br/arquivos/ids/157323/FIDEOS-LPROVIDENCIA-SPAGHETT-1-4262.jpg?v=637432177440600000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Almacen" },
+        { "name": "Pastas Secas" }
+      ]
+    },
+    {
+      "id": "MLA60",
+      "title": "Galletitas Dulces 400g",
+      "price": 3200,
+      "thumbnail": "https://clickandfoods.com/cdn/shop/products/7790040929609_01.jpg?v=1597768949",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Golosinas y Snacks" },
+        { "name": "Galletitas" }
+      ]
+    },
+    {
+      "id": "MLA61",
+      "title": "Atun En Lata 170g",
+      "price": 4200,
+      "thumbnail": "https://ketoandco.com.ar/wp-content/uploads/2024/12/image-13.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Almacen" },
+        { "name": "Conservas" }
+      ]
+    },
+    {
+      "id": "MLA62",
+      "title": "Aceite De Girasol 1.5L",
+      "price": 6900,
+      "thumbnail": "https://masonlineprod.vtexassets.com/arquivos/ids/164676/Aceite-De-Girasol-Canuelas-15-Lt-14809.jpg?v=638791346911800000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Almacen" },
+        { "name": "Aceites y Vinagres" }
+      ]
+    },
+    {
+      "id": "MLA63",
+      "title": "Cama Doble 2 Plazas Estructura Metalica",
+      "price": 189000,
+      "thumbnail": "https://dcdn-us.mitiendanube.com/stores/005/609/363/products/ind-0002-2-min-355e4e950cd0b3b01a17422516003288-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Dormitorio" },
+        { "name": "Camas" }
+      ]
+    },
+    {
+      "id": "MLA64",
+      "title": "Colchon Espuma 2 Plazas Alta Densidad",
+      "price": 259000,
+      "thumbnail": "https://images.fravega.com/f1000/84736bf5f6027e4cbd3664ba80be5944.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Dormitorio" },
+        { "name": "Colchones" }
+      ]
+    },
+    {
+      "id": "MLA65",
+      "title": "Leche Entera Larga Vida 1L",
+      "price": 2100,
+      "thumbnail": "https://masonlineprod.vtexassets.com/arquivos/ids/283731/Leche-La-Serenisima-Larga-Vida-Cl-sica-1-L-2-43469.jpg?v=638736082887300000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Lacteos" },
+        { "name": "Leche" }
+      ]
+    },
+    {
+      "id": "MLA66",
+      "title": "Leche Descremada Larga Vida 1L",
+      "price": 2150,
+      "thumbnail": "https://masonlineprod.vtexassets.com/arquivos/ids/283733-800-auto?v=638736071384670000&width=800&height=auto&aspect=true",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Lacteos" },
+        { "name": "Leche" }
+      ]
+    },
+    {
+      "id": "MLA67",
+      "title": "Huevos Blancos Pack x12",
+      "price": 5400,
+      "thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/790048/Huevos-Blancos-Extra-Grandes-X12-Ud-C-co-1-939806.jpg?v=638271165808700000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Frescos" },
+        { "name": "Huevos" }
+      ]
+    },
+    {
+      "id": "MLA68",
+      "title": "Pan Lactal Blanco 500g",
+      "price": 3900,
+      "thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/693360/Pan-Blanco-Lactal-Rf-500g-1-885359.jpg?v=637829769920130000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Panaderia" },
+        { "name": "Pan" }
+      ]
+    },
+    {
+      "id": "MLA69",
+      "title": "Azucar Blanca 1kg",
+      "price": 2600,
+      "thumbnail": "https://ardiaprod.vtexassets.com/arquivos/ids/358689/Azucar-Ledesma-Refinado-Superior-1-Kg-_1.jpg?v=638954574899370000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "San Juan" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Almacen" },
+        { "name": "Azucar y Endulzantes" }
+      ]
+    },
+    {
+      "id": "MLA70",
+      "title": "Harina De Trigo 000 1kg",
+      "price": 2300,
+      "thumbnail": "https://ardiaprod.vtexassets.com/arquivos/ids/345586/Harina-de-Trigo-000-DIA-1-Kg-_1.jpg?v=638937188232970000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Almacen" },
+        { "name": "Harinas" }
+      ]
+    },
+    {
+      "id": "MLA71",
+      "title": "Manteca 200g",
+      "price": 2800,
+      "thumbnail": "https://ardiaprod.vtexassets.com/arquivos/ids/343509/Manteca-La-Serenisima-100-Gr-_1.jpg?v=638732575139700000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Lacteos" },
+        { "name": "Manteca y Margarina" }
+      ]
+    },
+    {
+      "id": "MLA72",
+      "title": "Queso Cremoso 500g",
+      "price": 8900,
+      "thumbnail": "https://hiperlibertad.vtexassets.com/arquivos/ids/168564/QUESO-CREM-N-CREMOSO-X-500-G-1-10166.jpg?v=637360891413330000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Supermercado" },
+        { "name": "Lacteos" },
+        { "name": "Quesos" }
+      ]
+    },
+    {
+      "id": "MLA73",
+      "title": "Almohada Espuma Memory Foam",
+      "price": 24900,
+      "thumbnail": "https://m.media-amazon.com/images/I/71gTNlZk5DL._AC_UF894,1000_QL80_.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Dormitorio" },
+        { "name": "Almohadas" }
+      ]
+    },
+    {
+      "id": "MLA74",
+      "title": "Juego de Sabanas 2 Plazas Algodon",
+      "price": 35900,
+      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/393703/1437005-1.jpg.jpg?v=638808473220700000",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Dormitorio" },
+        { "name": "Ropa de Cama" }
+      ]
     }
   ]
 }

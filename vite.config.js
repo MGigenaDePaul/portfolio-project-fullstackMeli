@@ -10,7 +10,7 @@ export default defineConfig({
     strictPort: false,
     allowedHosts: [
       'portfolio-project-frontendmeli.onrender.com',
-      '.onrender.com' 
-    ]
-  }
+      '.onrender.com',
+    ],
+  },
 })
