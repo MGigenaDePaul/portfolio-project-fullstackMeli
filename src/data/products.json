@@ -145,7 +145,7 @@
     },
     {
       "id": "MLA12",
-      "title": "Batería Moura 12x60 Ah para Auto",
+      "title": "Batería Moura 12x60 Ah",
       "price": 125000,
       "thumbnail": "https://martinelloeletrodomesticos.fbitsstatic.net/img/p/bateria-automotiva-moura-m90td-mge2-mge3-sli-78133/264725-1.jpg?w=482&h=482&v=no-change&qs=ignore",
       "shipping": { "free_shipping": false },
@@ -242,8 +242,7 @@
       "address": { "state_name": "Buenos Aires" },
       "category_path_from_root": [
         { "name": "Accesorios para Vehículos" },
-        { "name": "Neumáticos" },
-        { "name": "Autos y Camionetas" }
+        { "name": "Neumáticos" }
       ]
     },
     {
@@ -281,13 +280,12 @@
       "address": { "state_name": "Mendoza" },
       "category_path_from_root": [
         { "name": "Accesorios para Vehículos" },
-        { "name": "Repuestos Autos y Camionetas" },
-        { "name": "Encendido" }
+        { "name": "Repuestos" }
       ]
     },
     {
       "id": "MLA23",
-      "title": "Batería Moura 12x75 Ah para Auto",
+      "title": "Batería Moura 12x75 Ah",
       "price": 159000,
       "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_767720-MLA52555498643_112022-O.webp",
       "shipping": { "free_shipping": false },
@@ -1245,8 +1243,7 @@
       "address": { "state_name": "Buenos Aires" },
       "category_path_from_root": [
         { "name": "Accesorios para Vehiculos" },
-        { "name": "Repuestos Autos y Camionetas" },
-        { "name": "Frenos" }
+        { "name": "Repuestos" }
       ]
     },
     {
@@ -1258,7 +1255,6 @@
       "address": { "state_name": "Cordoba" },
       "category_path_from_root": [
         { "name": "Accesorios para Vehiculos" },
-        { "name": "Repuestos Autos y Camionetas" },
         { "name": "Filtros" }
       ]
     },
@@ -1387,6 +1383,136 @@
         { "name": "Electronica, Audio y Video" },
         { "name": "Audio" },
         { "name": "Parlantes" }
+      ]
+    },
+    {
+      "id": "MLA109",
+      "title": "Volkswagen Gol Trend 1.6 2016 Manual",
+      "price": 7800000,
+      "thumbnail": "https://cdncla.lavoz.com.ar/files/avisos/aviso_auto/aviso-auto-volkswagen-gol-trend-15663220.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA110",
+      "title": "Ford Fiesta Kinetic 1.6 2014 Manual",
+      "price": 7450000,
+      "thumbnail": "https://i.ytimg.com/vi/VgiwpOpzxN8/maxresdefault.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA111",
+      "title": "Toyota Corolla 1.8 2013 Automatico",
+      "price": 10900000,
+      "thumbnail": "https://cdncla.lavoz.com.ar/files/avisos/aviso_auto/aviso-auto-toyota-corolla-14203138.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA112",
+      "title": "Chevrolet Onix 1.2 2020 Manual",
+      "price": 12500000,
+      "thumbnail": "https://acnews.blob.core.windows.net/imgnews/paragraph/NPAZ_00760619876d4883bf00743a4d50892e.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA113",
+      "title": "Renault Sandero 1.6 2017 Manual",
+      "price": 8200000,
+      "thumbnail": "https://cdncla.lavoz.com.ar/cdn/aviso_auto/6ogNkbap04iFroUr0XyBPFXzB9TO0wq8/cevzb9qxb.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA114",
+      "title": "Peugeot 208 1.6 2015 Manual",
+      "price": 8350000,
+      "thumbnail": "https://www.auto-data.net/images/f25/file5676925.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA115",
+      "title": "Fiat Palio 1.4 2012 Manual",
+      "price": 6200000,
+      "thumbnail": "https://www.autoo.com.br/fotos/2011/960_640/palio_sporting_053_960_640.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "San Juan" },
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA116",
+      "title": "Volkswagen Polo 1.6 2019 Automatico",
+      "price": 13800000,
+      "thumbnail": "https://cdncla.lavoz.com.ar/files/avisos/aviso_auto/aviso-auto-volkswagen-polo-20c62841-bd38-4684-8c2f-ddbb1aca96f7-882.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA117",
+      "title": "Chevrolet Cruze 1.4 Turbo 2018 Automatico",
+      "price": 16200000,
+      "thumbnail": "https://www.megautos.com/wp-content/uploads/2017/08/Chevrolet-Cruze-LT-2018-sedan.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA118",
+      "title": "Toyota Hilux 2.8 Diesel 2017 Manual",
+      "price": 22500000,
+      "thumbnail": "https://cdncla.lavoz.com.ar/files/avisos/aviso_auto/aviso-auto--15488872.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
       ]
     }
   ]

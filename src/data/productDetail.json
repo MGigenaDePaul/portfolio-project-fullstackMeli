@@ -156,7 +156,7 @@
     },
     {
       "id": "MLA12",
-      "title": "Batería Moura 12x60 Ah para Auto",
+      "title": "Batería Moura 12x60 Ah",
       "price": 125000,
       "condition": "new",
       "sold_quantity": 221,
@@ -261,8 +261,7 @@
       "description": "Neumático para auto 185/65 R14, buen agarre y durabilidad para uso urbano y ruta. Ideal para reposición con medida muy común en Argentina.",
       "category_path_from_root": [
         { "name": "Accesorios para Vehículos" },
-        { "name": "Neumáticos" },
-        { "name": "Autos y Camionetas" }
+        { "name": "Neumáticos" }
       ]
     },
     {
@@ -303,8 +302,7 @@
       "description": "Juego de 4 bujías NGK para motores nafta. Repuesto muy común para mejorar arranque, consumo y rendimiento. Compatibilidad según modelo.",
       "category_path_from_root": [
         { "name": "Accesorios para Vehículos" },
-        { "name": "Repuestos Autos y Camionetas" },
-        { "name": "Encendido" }
+        { "name": "Repuestos" }
       ]
     },
     {
@@ -1495,6 +1493,146 @@
         { "name": "Electronica, Audio y Video" },
         { "name": "Audio" },
         { "name": "Parlantes" }
+      ]
+    },
+    {
+      "id": "MLA109",
+      "title": "Volkswagen Gol Trend 1.6 2016 Manual",
+      "price": 7800000,
+      "condition": "used",
+      "sold_quantity": 7,
+      "fullImage": "https://cdncla.lavoz.com.ar/files/avisos/aviso_auto/aviso-auto-volkswagen-gol-trend-15663220.webp",
+      "description": "Volkswagen Gol Trend 1.6 modelo 2016 con caja manual. Vehiculo usado en buen estado general, ideal para ciudad y ruta. Mantenimiento al dia, papeles al dia. Listo para transferir.",
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA110",
+      "title": "Ford Fiesta Kinetic 1.6 2014 Manual",
+      "price": 7450000,
+      "condition": "used",
+      "sold_quantity": 5,
+      "fullImage": "https://i.ytimg.com/vi/VgiwpOpzxN8/maxresdefault.jpg",
+      "description": "Ford Fiesta Kinetic 1.6 modelo 2014 manual. Auto usado muy cuidado, buen andar y consumo. Ideal primer auto o uso diario. Documentacion completa.",
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA111",
+      "title": "Toyota Corolla 1.8 2013 Automatico",
+      "price": 10900000,
+      "condition": "used",
+      "sold_quantity": 4,
+      "fullImage": "https://cdncla.lavoz.com.ar/files/avisos/aviso_auto/aviso-auto-toyota-corolla-14203138.webp",
+      "description": "Toyota Corolla 1.8 modelo 2013 automatico. Confiable y comodo para viajes. Service realizado en tiempo y forma. Excelente opcion por durabilidad y reventa.",
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA112",
+      "title": "Chevrolet Onix 1.2 2020 Manual",
+      "price": 12500000,
+      "condition": "used",
+      "sold_quantity": 3,
+      "fullImage": "https://acnews.blob.core.windows.net/imgnews/paragraph/NPAZ_00760619876d4883bf00743a4d50892e.jpg",
+      "description": "Chevrolet Onix 1.2 modelo 2020 manual. Auto moderno, economico y practico para ciudad. Buen estado, listo para usar. Papeles al dia.",
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA113",
+      "title": "Renault Sandero 1.6 2017 Manual",
+      "price": 8200000,
+      "condition": "used",
+      "sold_quantity": 6,
+      "fullImage": "https://cdncla.lavoz.com.ar/cdn/aviso_auto/6ogNkbap04iFroUr0XyBPFXzB9TO0wq8/cevzb9qxb.webp",
+      "description": "Renault Sandero 1.6 modelo 2017 manual. Amplio, comodo y rendidor. Ideal para familia o trabajo. Mantenimiento realizado, sin detalles importantes.",
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA114",
+      "title": "Peugeot 208 1.6 2015 Manual",
+      "price": 8350000,
+      "condition": "used",
+      "sold_quantity": 4,
+      "fullImage": "https://www.auto-data.net/images/f25/file5676925.jpg",
+      "description": "Peugeot 208 1.6 modelo 2015 manual. Excelente manejo y confort. Ideal para uso urbano. Papeles al dia y listo para transferir.",
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }  
+      ]
+    },
+    {
+      "id": "MLA115",
+      "title": "Fiat Palio 1.4 2012 Manual",
+      "price": 6200000,
+      "condition": "used",
+      "sold_quantity": 8,
+      "fullImage": "https://www.autoo.com.br/fotos/2011/960_640/palio_sporting_053_960_640.jpg",
+      "description": "Fiat Palio 1.4 modelo 2012 manual. Economico y simple de mantener. Ideal primer auto o para moverse todos los dias. Funcionando perfecto.",
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA116",
+      "title": "Volkswagen Polo 1.6 2019 Automatico",
+      "price": 13800000,
+      "condition": "used",
+      "sold_quantity": 2,
+      "fullImage": "https://cdncla.lavoz.com.ar/files/avisos/aviso_auto/aviso-auto-volkswagen-polo-20c62841-bd38-4684-8c2f-ddbb1aca96f7-882.webp",
+      "description": "Volkswagen Polo 1.6 modelo 2019 automatico. Auto moderno y confortable, ideal para ciudad y ruta. Muy buen estado, services al dia.",
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA117",
+      "title": "Chevrolet Cruze 1.4 Turbo 2018 Automatico",
+      "price": 16200000,
+      "condition": "used",
+      "sold_quantity": 2,
+      "fullImage": "https://www.megautos.com/wp-content/uploads/2017/08/Chevrolet-Cruze-LT-2018-sedan.jpg",
+      "description": "Chevrolet Cruze 1.4 Turbo modelo 2018 automatico. Excelente potencia y confort, muy buen consumo en ruta. Auto cuidado, listo para transferir.",
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
+      ]
+    },
+    {
+      "id": "MLA118",
+      "title": "Toyota Hilux 2.8 Diesel 2017 Manual",
+      "price": 22500000,
+      "condition": "used",
+      "sold_quantity": 1,
+      "fullImage": "https://cdncla.lavoz.com.ar/files/avisos/aviso_auto/aviso-auto--15488872.webp",
+      "description": "Toyota Hilux 2.8 diesel modelo 2017 manual. Camioneta fuerte y confiable para trabajo y ruta. Muy buscada por durabilidad. Documentacion completa.",
+      "category_path_from_root": [
+        { "name": "Autos" },
+        { "name": "Motos y otros" },
+        { "name": "Autos y Camionetas" }
       ]
     }
   ]
