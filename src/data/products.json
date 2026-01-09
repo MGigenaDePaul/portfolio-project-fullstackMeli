@@ -9129,6 +9129,1046 @@
         { "name": "Cuidado de la Piel" },
         { "name": "Kits" }
       ]
+    },
+    {
+      "id": "MLA701",
+      "title": "Set cuchillos cocina acero inoxidable 7 piezas",
+      "price": 69900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/461/661/products/set-x8-plenus-02-73061598d66976e46b17237269763432-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Cuchilleria" }
+      ]
+    },
+    {
+      "id": "MLA702",
+      "title": "Tabla de cortar bambu grande 40cm",
+      "price": 21900,
+      "thumbnail": "https://m.media-amazon.com/images/I/415mrVx0psL.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Utensilios" }
+      ]
+    },
+    {
+      "id": "MLA703",
+      "title": "Sarten antiadherente 24cm apta induccion",
+      "price": 45900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/102/583/products/sarten-acero-inoxidable-intuition-24-cm-todo-tipo-cocina-tefal-tienda-pepino-1-737566922b786b323d17271087467852-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Baterias y Sartenes" }
+      ]
+    },
+    {
+      "id": "MLA704",
+      "title": "Olla acero inoxidable 5 litros con tapa",
+      "price": 62900,
+      "thumbnail": "https://images-na.ssl-images-amazon.com/images/I/71jxcH+a+4L._SL1500_.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Ollas" }
+      ]
+    },
+    {
+      "id": "MLA705",
+      "title": "Bateria de cocina 10 piezas antiadherente",
+      "price": 189900,
+      "thumbnail": "https://images.fravega.com/f500/2214c545c31e017dcb78241ee6522a4b.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Baterias y Sartenes" }
+      ]
+    },
+    {
+      "id": "MLA706",
+      "title": "Set utensilios silicona 12 piezas con soporte",
+      "price": 39900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/004/616/743/products/set-utensilios-68012-silicona-12-piezas-carol-cod-624554-webp-2-8d10ce8d70b497f73817502720735780-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Entre Rios" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Utensilios" }
+      ]
+    },
+    {
+      "id": "MLA707",
+      "title": "Colador acero inoxidable 20cm",
+      "price": 17900,
+      "thumbnail": "https://www.giraudoequipamiento.com/mods/html/fil/Model/Product/17630/al1280035-1.jpg.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "San Juan" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Utensilios" }
+      ]
+    },
+    {
+      "id": "MLA708",
+      "title": "Rallador 4 caras acero inoxidable",
+      "price": 15900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/102/583/products/rallador-manual-4-caras-acero-inoxidable-clasico-cocina-queso-verduras-lacor-tienda-pepino-11-675f885646d90ab9e316403722264538-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Tucuman" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Utensilios" }
+      ]
+    },
+    {
+      "id": "MLA709",
+      "title": "Mandolina ajustable para vegetales con protector",
+      "price": 29900,
+      "thumbnail": "https://m.media-amazon.com/images/I/71hfNiLPqZL._AC_UF894,1000_QL80_.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Utensilios" }
+      ]
+    },
+    {
+      "id": "MLA710",
+      "title": "Balanza digital cocina hasta 10kg",
+      "price": 25900,
+      "thumbnail": "https://static.bidcom.com.ar/publicacionesML/productos/BALANZ03/1000x1000-BALANZ03.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Accesorios" }
+      ]
+    },
+    {
+      "id": "MLA711",
+      "title": "Termometro digital cocina para carnes",
+      "price": 21900,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVpHQItVYey8_RO9ySlHp6VW50zCiYPJSnpw&s",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Accesorios" }
+      ]
+    },
+    {
+      "id": "MLA712",
+      "title": "Set tazas medidoras y cucharas medidoras x10",
+      "price": 17900,
+      "thumbnail": "https://i5.walmartimages.com/asr/391f577d-ba0b-4a46-8597-13db8fa015fb.9806480dfb0afe6e8c0ca15998c787db.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Accesorios" }
+      ]
+    },
+    {
+      "id": "MLA713",
+      "title": "Bowls mezcladores acero inoxidable set x5",
+      "price": 36900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/499/576/products/bowlllh1-f086bbc630ce4c1a1216578909891518-640-0.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Neuquen" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Accesorios" }
+      ]
+    },
+    {
+      "id": "MLA714",
+      "title": "Tupper hermetico vidrio set x6 apto horno",
+      "price": 69900,
+      "thumbnail": "https://http2.mlstatic.com/D_Q_NP_975197-MLU73904207307_012024-O.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Almacenamiento" }
+      ]
+    },
+    {
+      "id": "MLA715",
+      "title": "Contenedores hermeticos plastico set x12",
+      "price": 45900,
+      "thumbnail": "https://carrefourar.vtexassets.com/arquivos/ids/748608-800-450?v=638967416148730000&width=800&height=450&aspect=true",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Almacenamiento" }
+      ]
+    },
+    {
+      "id": "MLA716",
+      "title": "Frascos especieros vidrio con tapas set x12",
+      "price": 38900,
+      "thumbnail": "https://d2eebw31vcx88p.cloudfront.net/garbarino/uploads/36fa9bb20bb0ea015c63b8d2fbd6442037c5e575.jpg.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Almacenamiento" }
+      ]
+    },
+    {
+      "id": "MLA717",
+      "title": "Organizador especias giratorio 16 frascos",
+      "price": 69900,
+      "thumbnail": "https://ambienteurbano.com.ar/adminlogin/imagenes/3255-2202180157-espegircuadrax16a.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Almacenamiento" }
+      ]
+    },
+    {
+      "id": "MLA718",
+      "title": "Cafetera italiana moka 6 tazas aluminio",
+      "price": 39900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/022/820/products/bialetti-6-tazas1-d745e670e42e3fd68f16952222985384-640-0.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Cafe y Te" },
+        { "name": "Cafeteras" }
+      ]
+    },
+    {
+      "id": "MLA719",
+      "title": "Cafetera de filtro 1.2L programable",
+      "price": 99900,
+      "thumbnail": "https://riiing.com.ar/wp-content/uploads/2025/07/QCM-2060BD-04-1024x1024.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Cafe y Te" },
+        { "name": "Cafeteras" }
+      ]
+    },
+    {
+      "id": "MLA720",
+      "title": "Cafetera espresso manual 15 bar",
+      "price": 229900,
+      "thumbnail": "https://img.pccomponentes.com/articles/42/428956/2599-tm-electron-cafetera-expresso-15-bares-inox-comprar.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Cafe y Te" },
+        { "name": "Cafeteras" }
+      ]
+    },
+    {
+      "id": "MLA721",
+      "title": "Molinillo cafe electrico 200W",
+      "price": 69900,
+      "thumbnail": "https://ae01.alicdn.com/kf/S57a21b22e37747d287c83fadd01a44e2x.jpg_960x960.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Cafe y Te" },
+        { "name": "Accesorios" }
+      ]
+    },
+    {
+      "id": "MLA722",
+      "title": "Tetera electrica acero inoxidable 1.7L",
+      "price": 79900,
+      "thumbnail": "https://assets.tramontina.com.br/upload/tramon/imagens/FAR/69091011IXM002G.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Neuquen" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Cafe y Te" },
+        { "name": "Pavas Electricas" }
+      ]
+    },
+    {
+      "id": "MLA723",
+      "title": "Pava electrica temperatura regulable 1.5L",
+      "price": 89900,
+      "thumbnail": "https://riiing.com.ar/wp-content/uploads/2024/09/SL-EK1510IX_1-1-1024x1024.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Cafe y Te" },
+        { "name": "Pavas Electricas" }
+      ]
+    },
+    {
+      "id": "MLA724",
+      "title": "Tostadora electrica 2 ranuras 850W",
+      "price": 69900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/005/969/912/products/030t_led32861-2025-07-28t121556-260-4934194de010492bb317537157707491-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Electrodomesticos" },
+        { "name": "Desayuno" }
+      ]
+    },
+    {
+      "id": "MLA725",
+      "title": "Sandwichera grill antiadherente",
+      "price": 64900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/005/566/415/products/hog0230ace-panini-grill-1000w-portada-1-1cd3bf87210653278617385966953794-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Electrodomesticos" },
+        { "name": "Cocina" }
+      ]
+    },
+    {
+      "id": "MLA726",
+      "title": "Licuadora vaso vidrio 600W 1.5L",
+      "price": 99900,
+      "thumbnail": "https://vstorearg.vtexassets.com/arquivos/ids/166549/131871034630.jpg?v=638887941082530000",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Electrodomesticos" },
+        { "name": "Licuadoras" }
+      ]
+    },
+    {
+      "id": "MLA727",
+      "title": "Procesadora de alimentos 800W 2L",
+      "price": 149900,
+      "thumbnail": "https://m.media-amazon.com/images/I/81gN4wh7FHL._AC_UF894,1000_QL80_.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Electrodomesticos" },
+        { "name": "Procesadoras" }
+      ]
+    },
+    {
+      "id": "MLA728",
+      "title": "Batidora de mano 5 velocidades 300W",
+      "price": 54900,
+      "thumbnail": "https://philco.com.ar/media/wysiwyg/bm8738pp_idfbsm0002_1200x922.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Electrodomesticos" },
+        { "name": "Batidoras" }
+      ]
+    },
+    {
+      "id": "MLA729",
+      "title": "Batidora planetaria 1200W bowl acero 5L",
+      "price": 349900,
+      "thumbnail": "https://yuhmak.vtexassets.com/arquivos/ids/246193-800-auto?v=638968298553700000&width=800&height=auto&aspect=true",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Electrodomesticos" },
+        { "name": "Batidoras" }
+      ]
+    },
+    {
+      "id": "MLA730",
+      "title": "Air fryer 5.5L digital 1700W",
+      "price": 249900,
+      "thumbnail": "https://yuhmak.vtexassets.com/arquivos/ids/242566-800-auto?v=638897370341800000&width=800&height=auto&aspect=true",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Electrodomesticos" },
+        { "name": "Freidoras" }
+      ]
+    },
+    {
+      "id": "MLA731",
+      "title": "Freidora sin aceite 3.5L compacta",
+      "price": 179900,
+      "thumbnail": "https://dcdn-us.mitiendanube.com/stores/006/961/237/products/d_843913-mla95217409614_102025-b-8f74a1da7e9be8152e17634178685225-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Neuquen" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Electrodomesticos" },
+        { "name": "Freidoras" }
+      ]
+    },
+    {
+      "id": "MLA732",
+      "title": "Horno electrico 45L con conveccion",
+      "price": 229900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/005/618/241/products/uc-45cn-e259340fe4f30e0fe717380960529141-640-0-1-0734d7ad5a5a6c235b17382550354956-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Electrodomesticos" },
+        { "name": "Hornos" }
+      ]
+    },
+    {
+      "id": "MLA733",
+      "title": "Microondas 20L digital 700W",
+      "price": 199900,
+      "thumbnail": "https://chaiaonline.com.ar/wp-content/uploads/2025/03/130807.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Electrodomesticos" },
+        { "name": "Microondas" }
+      ]
+    },
+    {
+      "id": "MLA734",
+      "title": "Molinillo picador electrico 500ml",
+      "price": 44900,
+      "thumbnail": "https://tiendanewsan.com.ar/media/wysiwyg/PI23PHP_IAFBSM0009.JPG",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Electrodomesticos" },
+        { "name": "Picadores" }
+      ]
+    },
+    {
+      "id": "MLA735",
+      "title": "Minipimer licuadora de mano 800W",
+      "price": 99900,
+      "thumbnail": "https://previsoraarg.vtexassets.com/arquivos/ids/160050-800-auto?v=638594082819130000&width=800&height=auto&aspect=true",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Electrodomesticos" },
+        { "name": "Licuadoras" }
+      ]
+    },
+    {
+      "id": "MLA736",
+      "title": "Exprimidor citricos electrico 40W",
+      "price": 54900,
+      "thumbnail": "https://riiing.com.ar/wp-content/uploads/2024/08/ae920-01-1024x1024.png",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Neuquen" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomesticos" },
+        { "name": "Electrodomesticos" },
+        { "name": "Exprimidores" }
+      ]
+    },
+    {
+      "id": "MLA737",
+      "title": "Dispensador jabon cocina acero + esponja",
+      "price": 19900,
+      "thumbnail": "https://assets.tramontina.com.br/upload/tramon/imagens/TEC/94532045PDM001G.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "San Juan" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Accesorios" }
+      ]
+    },
+    {
+      "id": "MLA738",
+      "title": "Secaplatos escurridor acero inoxidable",
+      "price": 69900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/929/820/products/ke894bxcg-9-acce5ccc4a0a927d1417377598394595-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Organizacion" }
+      ]
+    },
+    {
+      "id": "MLA739",
+      "title": "Organizador bajo mesada 2 niveles",
+      "price": 39900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/005/344/958/products/8-b0d1d5c36f9b48ab6a17341115658444-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Organizacion" }
+      ]
+    },
+    {
+      "id": "MLA740",
+      "title": "Frascos vidrio con tapa bambu set x8",
+      "price": 45900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/998/449/products/frascoscirculares31-7dff5291bba6c30d6616439062748038-640-0.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Almacenamiento" }
+      ]
+    },
+    {
+      "id": "MLA741",
+      "title": "Papel aluminio premium 30m pack x3",
+      "price": 16900,
+      "thumbnail": "https://cropafresh.com/wp-content/uploads/2025/02/aluminio-1.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Insumos" }
+      ]
+    },
+    {
+      "id": "MLA742",
+      "title": "Film transparente cocina 100m",
+      "price": 13900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/006/104/650/products/005-1-5cdf55a4a8e91d1cd717495695399582-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Entre Rios" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Insumos" }
+      ]
+    },
+    {
+      "id": "MLA743",
+      "title": "Papel manteca para horno 50 hojas",
+      "price": 12900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/003/469/204/products/6965-rollo-manteca-x-50-mtrs-linea-profesional-3c341466820ba39f1b17577444705515-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Chaco" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Insumos" }
+      ]
+    },
+    {
+      "id": "MLA744",
+      "title": "Set moldes silicona reposteria x6",
+      "price": 29900,
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_715665-MLA76710812631_052024-O.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "San Luis" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Reposteria" }
+      ]
+    },
+    {
+      "id": "MLA745",
+      "title": "Molde budin antiadherente 30cm",
+      "price": 21900,
+      "thumbnail": "https://www.originalprofesional.com.ar/img/articulos/molde_para_budin_grande_30_cm_set_x_2_recipe_right_2_imagen3.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Neuquen" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Reposteria" }
+      ]
+    },
+    {
+      "id": "MLA746",
+      "title": "Bandeja horno grande 42x30 antiadherente",
+      "price": 24900,
+      "thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/864720/Bandeja-Horno-Antiadherente-Krea-3-1008119.jpg?v=638804902373500000",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Reposteria" }
+      ]
+    },
+    {
+      "id": "MLA747",
+      "title": "Espatulas silicona reposteria set x5",
+      "price": 17900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/968/411/products/1000828126-140b50ec0c7208502e17557784873406-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Reposteria" }
+      ]
+    },
+    {
+      "id": "MLA748",
+      "title": "Manga pastelera reutilizable + picos x12",
+      "price": 19900,
+      "thumbnail": "https://dulcessabores.com.ar/wp-content/uploads/2021/05/MLA814078565-1.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Reposteria" }
+      ]
+    },
+    {
+      "id": "MLA749",
+      "title": "Rodillo amasar madera 45cm",
+      "price": 16900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/002/211/880/products/palo-de-amasar-221-7604393dbaec041fba16778681887933-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Reposteria" }
+      ]
+    },
+    {
+      "id": "MLA750",
+      "title": "Molde hamburguesas prensa aluminio",
+      "price": 27900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/005/872/669/products/to23-5-14424c5429f9ea936817573447219722-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Entre Rios" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Accesorios" }
+      ]
+    },
+    {
+      "id": "MLA751",
+      "title": "Molde hielos silicona grande pack x2",
+      "price": 14900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/002/679/445/products/lbm873-2-f088b2e0d479b46b6c17454326098345-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Chaco" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Accesorios" }
+      ]
+    },
+    {
+      "id": "MLA752",
+      "title": "Centrifuga secadora de ensalada manual",
+      "price": 29900,
+      "thumbnail": "https://m.media-amazon.com/images/I/61itdOlyyWL.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "San Juan" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Utensilios" }
+      ]
+    },
+    {
+      "id": "MLA753",
+      "title": "Set cucharones acero inoxidable x6",
+      "price": 24900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/003/538/553/products/4891003728598-set-de-cucharas-acero-inoxidable-estilo-coreanas-x6-42e57d3cbb229f635d17284817401530-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "San Luis" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Utensilios" }
+      ]
+    },
+    {
+      "id": "MLA754",
+      "title": "Pelapapas acero inoxidable ergonomico",
+      "price": 9900,
+      "thumbnail": "https://distribuidorafenix.com.ar/wp-content/uploads/2025/06/pelapapas-de-acero-carol.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Utensilios" }
+      ]
+    },
+    {
+      "id": "MLA755",
+      "title": "Triturador ajo acero inoxidable",
+      "price": 12900,
+      "thumbnail": "https://m.media-amazon.com/images/I/61-VM5jA1uL.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Utensilios" }
+      ]
+    },
+    {
+      "id": "MLA756",
+      "title": "Abrelatas manual reforzado",
+      "price": 11900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/003/028/products/1234100-dfd273725afc7cfef817609917868190-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Utensilios" }
+      ]
+    },
+    {
+      "id": "MLA757",
+      "title": "Sacacorchos tipo mozo + corta capsulas",
+      "price": 15900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/461/661/products/saca-corchos-mozo_mesa-de-trabajo-11-50ed863b1460c277f116376777610867-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Accesorios" }
+      ]
+    },
+    {
+      "id": "MLA758",
+      "title": "Set copas vino vidrio x6",
+      "price": 45900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/487/825/products/product-310704893-1765725406341-7467a7fac56ad9d53117657254080377-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Neuquen" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Vajilla" }
+      ]
+    },
+    {
+      "id": "MLA759",
+      "title": "Set vasos vidrio 450ml x6",
+      "price": 27900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/004/557/959/products/vasos-alto-fume-kingdom-1-16023b0692f3053e8717137964538981-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Entre Rios" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Vajilla" }
+      ]
+    },
+    {
+      "id": "MLA760",
+      "title": "Vajilla porcelana blanca set x18",
+      "price": 129900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/398/455/products/platos-ceramicos-apilados-en-blanco-0e2011ff33238cd2fc17599520985037-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Vajilla" }
+      ]
+    },
+    {
+      "id": "MLA761",
+      "title": "Cubiertos acero inoxidable set x24",
+      "price": 79900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/130/818/products/cuberteria-verona-2_fd6eabf6-cf12-42ad-9455-784fc507b189-04bc1a72afc72c0b7817024002873691-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Cubiertos" }
+      ]
+    },
+    {
+      "id": "MLA762",
+      "title": "Set cubiertos negros mate x24 premium",
+      "price": 99900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/002/976/021/products/23764n-24_1-2f5868cdb303fe4abb17460398276810-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Cubiertos" }
+      ]
+    },
+    {
+      "id": "MLA763",
+      "title": "Jarra termica 1L acero inoxidable",
+      "price": 64900,
+      "thumbnail": "https://tramontinaar.vtexassets.com/arquivos/ids/171097-800-450?v=638252805040330000&width=800&height=450&aspect=true",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Termos y Mate" }
+      ]
+    },
+    {
+      "id": "MLA764",
+      "title": "Termo 1L pico cebador para mate",
+      "price": 79900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/003/859/300/products/termo-blanco-brillo1-2e613f4468fdb5b8bd17011778742184-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "San Juan" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Termos y Mate" }
+      ]
+    },
+    {
+      "id": "MLA765",
+      "title": "Set mate premium calabaza + bombilla + yerbera",
+      "price": 69900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/006/260/095/products/mtp03-mate-torpedo-premium-calabaza-suela-4063c6c67e3894f35917514328045061-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Entre Rios" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Termos y Mate" }
+      ]
+    },
+    {
+      "id": "MLA766",
+      "title": "Bombilla acero inoxidable desmontable",
+      "price": 14900,
+      "thumbnail": "https://www.deliargentina.com/image/catalog/product/BOMBILLAS/Bombilla%20Hexagonal%20Inoxidable%20Largo%2014%20cm%20con%20Filtro%20Desmontable.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Termos y Mate" }
+      ]
+    },
+    {
+      "id": "MLA767",
+      "title": "Mate termico acero inoxidable 250ml",
+      "price": 25900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/103/133/products/mate-blanco-7769fe387b65d312e616991041793772-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Termos y Mate" }
+      ]
+    },
+    {
+      "id": "MLA768",
+      "title": "Especiero sal y pimienta molinos vidrio set x2",
+      "price": 24900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/102/583/products/set-salero-pimentero-vidrio-tienda-pepino-4-4dffe439dd088b1ab217429893252891-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Accesorios" }
+      ]
+    },
+    {
+      "id": "MLA769",
+      "title": "Set recipientes meal prep 1L pack x10",
+      "price": 34900,
+      "thumbnail": "https://m.media-amazon.com/images/I/81uDEwwpneL._AC_SL1500_.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Almacenamiento" }
+      ]
+    },
+    {
+      "id": "MLA770",
+      "title": "Bolsas hermeticas reutilizables silicona set x6",
+      "price": 29900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/102/583/products/set-6-tapasa-silicona-antigoteo-anti-derrame-apto-calor-frio-tienda-pepino-91-826ebbf0e1850b660416684498752513-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Neuquen" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Almacenamiento" }
+      ]
+    },
+    {
+      "id": "MLA771",
+      "title": "Piedra para afilar cuchillos doble grano",
+      "price": 32900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/003/028/products/1151755-64f156534a614dc90b17609921976883-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Cuchilleria" }
+      ]
+    },
+    {
+      "id": "MLA772",
+      "title": "Afilador cuchillos manual 3 etapas",
+      "price": 19900,
+      "thumbnail": "https://nextcell.com.ar/wp-content/uploads/2025/10/sin-titulo-153-007f05ff7ea58e57aa16630541140894-1024-1024.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Cuchilleria" }
+      ]
+    },
+    {
+      "id": "MLA773",
+      "title": "Wok antiadherente 28cm con tapa vidrio",
+      "price": 69900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/005/872/669/products/day18-01-f5ec360d1081c128f117561297400581-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Baterias y Sartenes" }
+      ]
+    },
+    {
+      "id": "MLA774",
+      "title": "Olla a presion 6L aluminio reforzado",
+      "price": 109900,
+      "thumbnail": "https://homeelements.vtexassets.com/arquivos/ids/157035-800-800?v=638730059403270000&width=800&height=800&aspect=true",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Ollas" }
+      ]
+    },
+    {
+      "id": "MLA775",
+      "title": "Olla vaporera acero inoxidable 2 niveles",
+      "price": 79900,
+      "thumbnail": "https://m.media-amazon.com/images/I/61yrn8LdC7L.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Neuquen" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Ollas" }
+      ]
+    },
+    {
+      "id": "MLA776",
+      "title": "Fuente horno vidrio set x3",
+      "price": 59900,
+      "thumbnail": "https://www.delbazar.com/wp-content/uploads/2022/07/set-3-fuentes-vidrio-3.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Horneado" }
+      ]
+    },
+    {
+      "id": "MLA777",
+      "title": "Pizzera antiadherente 32cm",
+      "price": 19900,
+      "thumbnail": "https://bunny-cdn.ventasxmayor.com/6060d74cd1d2d2d24cd1d2d2d26363/public/40470824010803028/1755887962604-imagendewhatsapp2025-08-22alas03.35.416cfe2dec.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Horneado" }
+      ]
+    },
+    {
+      "id": "MLA778",
+      "title": "Molinillo sal pimienta electrico set x2",
+      "price": 49900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/102/583/products/oxo-good-grips-molinillo-sal-contorneado-si-desorden-gris-talla-unica-tienda-pepino-2-9e1210f70860da036d17562402348842-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Accesorios" }
+      ]
+    },
+    {
+      "id": "MLA779",
+      "title": "Encendedor electrico recargable cocina",
+      "price": 18900,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/005/864/262/products/1-ca4b3daac17cc1eaa817576311243168-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Accesorios" }
+      ]
+    },
+    {
+      "id": "MLA780",
+      "title": "Dispensador aceite vinagre vidrio set x2",
+      "price": 24900,
+      "thumbnail": "https://www.rioshopdeco.com.ar/14536-Imagen_producto/set-x2-aceitera-y-vinagrera-art-yt-694.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Entre Rios" },
+      "category_path_from_root": [
+        { "name": "Hogar, Muebles y Jardin" },
+        { "name": "Cocina" },
+        { "name": "Accesorios" }
+      ]
     }
   ]
 }
