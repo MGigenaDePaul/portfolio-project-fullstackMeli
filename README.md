@@ -47,4 +47,17 @@ npm run dev
 http://localhost:5173
 ```
 
+COMMAND THAT SAVES A LOT OF TIME when you add more products to products.json and want to copy the same products to productDetail.json
+```bash node scripts/makeProductDetail.js src/data/products.json src/data/productDetail.json```
+What this command does:
+Reads all products from products.json
+Reads existing product details from productDetail.json (details array)
+Adds missing products to productDetail.json
+Keeps existing products untouched (descriptions, images, sold_quantity, etc.)
+Updates products only if they don’t exist yet
+Sorts all products by ID (e.g. MLA1 → MLA620)
+Saves the result without deleting any existing data
+Safe to run multiple times (idempotent).
+
+
 Developed as a technical challenge for Mercado Libre.

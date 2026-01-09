@@ -4,12 +4,18 @@ import freeShipping from '../assets/thumbnails/shipping-back-removed.png'
 import './SearchResults.css'
 import BreadCrumb from '../components/Breadcrumb'
 import { useNavigate, useSearchParams } from 'react-router-dom'
-
-const normalize = (str = '') =>
-  str
-    .toLowerCase()
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '') // saca tildes
+import {
+  normalize,
+  isVehicleIntent,
+  isVehicleCategory,
+  buildSearchText,
+  isCameraIntent,
+  isSecurityModifier,
+  isSecurityCameraProduct,
+  extractCarBrand,
+  matchesQuery,
+  isCameraProduct,
+} from '../helpers/helpers.js'
 
 const SearchResults = () => {
   const navigate = useNavigate()
@@ -17,25 +23,60 @@ const SearchResults = () => {
   const query = searchParams.get('search') || ''
   const q = normalize(query.trim())
 
-  const filteredProducts = productsData.results
-    .filter((product) => {
-      if (!q) return true
-      const titleMatch = normalize(product.title).includes(q)
-      const categoryMatch =
-        product.category_path_from_root?.some((cat) =>
-          normalize(cat.name).includes(q),
-        ) ?? false
+  const all = productsData.results
 
-      return titleMatch || categoryMatch
-    })
-    .slice(0, 4)
+  // 1) Búsqueda general (lo que ya tenías, pero mejor: con buildSearchText)
+  const generalMatches = all.filter((p) => {
+    if (!q) return true
+    return matchesQuery(p, q)
+  })
+
+  let filteredProducts = generalMatches
+
+  if (q) {
+    // A) INTENCIÓN: VEHÍCULOS (autos por marca)
+    if (isVehicleIntent(q)) {
+      let vehicleMatches = generalMatches.filter((p) => isVehicleCategory(p))
+
+      // Si hay marca en la query, filtramos dentro de autos
+      const brand = extractCarBrand(q)
+      if (brand) {
+        vehicleMatches = vehicleMatches.filter((p) =>
+          buildSearchText(p).includes(brand),
+        )
+      }
+
+      if (vehicleMatches.length > 0) {
+        filteredProducts = vehicleMatches
+      }
+    }
+
+    // B) INTENCIÓN: CÁMARAS
+    if (isCameraIntent(q)) {
+      const wantsSecurity = isSecurityModifier(q)
+
+      const onlyCameras = all.filter((p) => isCameraProduct(p))
+
+      // 2) distinguimos si es camara de seguridad o no.
+      const cameraMatches = onlyCameras.filter((p) => {
+        const isSecurity = isSecurityCameraProduct(p)
+        if (!wantsSecurity) return !isSecurity
+        return isSecurity
+      })
+
+      if (cameraMatches.length > 0) {
+        filteredProducts = cameraMatches
+      }
+    }
+  }
+
+  filteredProducts = filteredProducts.slice(0, 4)
 
   const categories =
     filteredProducts.length > 0
       ? filteredProducts[0]?.category_path_from_root?.map((cat) => cat.name)
       : null
 
-  console.log('categories', categories)
   return (
     <div>
       <SearchBar />
@@ -61,7 +102,7 @@ const SearchResults = () => {
                   <p className="price">
                     $ {product.price.toLocaleString('es-AR')}
                   </p>
-                  {product.shipping.free_shipping === true && (
+                  {product.shipping?.free_shipping === true && (
                     <img
                       className="shipping"
                       src={freeShipping}
@@ -71,7 +112,7 @@ const SearchResults = () => {
                 </div>
                 <p className="title">{product.title}</p>
               </div>
-              <p className="state">{product.address.state_name}</p>
+              <p className="state">{product.address?.state_name}</p>
             </button>
           </div>
         ))
