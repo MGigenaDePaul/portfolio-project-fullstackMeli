@@ -679,7 +679,7 @@
       "id": "MLA54",
       "title": "Apple iPhone 13 128GB Blanco",
       "price": 1249000,
-      "thumbnail": "https://mercatecno.com/wp-content/uploads/2024/11/Celulares-iPhone13128GB-Blanco-2-1.png",
+      "thumbnail": "https://compras.casasuiza.com.py/1563-large_default/iphone-13-128-gb-blanco.jpg",
       "shipping": { "free_shipping": false },
       "address": { "state_name": "Mendoza" },
       "category_path_from_root": [
@@ -1299,7 +1299,7 @@
     },
     {
       "id": "MLA102",
-      "title": "Tecnologia - Notebook Lenovo IdeaPad 15 8GB 256GB SSD",
+      "title": "Notebook Lenovo IdeaPad 15 8GB 256GB SSD",
       "price": 899000,
       "thumbnail": "https://images.fravega.com/f1000/f6256ea2b28257b1b7f37bcc129b5fb6.jpg",
       "shipping": { "free_shipping": true },
@@ -1311,7 +1311,7 @@
     },
     {
       "id": "MLA103",
-      "title": "Tecnologia - Auriculares Bluetooth Inalambricos",
+      "title": "Auriculares Bluetooth Inalambricos",
       "price": 19900,
       "thumbnail": "https://int-co.com.ar/wp-content/uploads/2024/10/RDH-205-1_web.webp",
       "shipping": { "free_shipping": true },
@@ -1324,7 +1324,7 @@
     },
     {
       "id": "MLA104",
-      "title": "Tecnologia - Smartwatch Deportivo Resistente al Agua",
+      "title": "Smartwatch Deportivo Resistente al Agua",
       "price": 35900,
       "thumbnail": "https://static.bidcom.com.ar/publicacionesML/productos/REL00213/1000x1000-REL00213-A.jpg",
       "shipping": { "free_shipping": false },
@@ -1336,7 +1336,7 @@
     },
     {
       "id": "MLA105",
-      "title": "Tecnologia - Camara de Seguridad WiFi 1080p",
+      "title": "Camara de Seguridad WiFi 1080p",
       "price": 27900,
       "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/390359/1466471.jpg?v=638755830518400000",
       "shipping": { "free_shipping": true },
@@ -1348,7 +1348,7 @@
     },
     {
       "id": "MLA106",
-      "title": "Tecnologia - Router WiFi Doble Banda AC1200",
+      "title": "Router WiFi Doble Banda AC1200",
       "price": 54900,
       "thumbnail": "https://www.cudy.com/cdn/shop/files/WR300-A1_26e62c04-387b-4a02-a18b-b8aeecc6cab6.png?v=1715242342",
       "shipping": { "free_shipping": false },
@@ -1361,7 +1361,7 @@
     },
     {
       "id": "MLA107",
-      "title": "Tecnologia - Disco SSD 1TB NVMe",
+      "title": "Disco SSD 1TB NVMe",
       "price": 109000,
       "thumbnail": "https://smarttucuman.com/img/Public/1130/67256-producto-kingston-1tb-pcie-nvme.jpg",
       "shipping": { "free_shipping": true },
@@ -1374,7 +1374,7 @@
     },
     {
       "id": "MLA108",
-      "title": "Tecnologia - Parlante Bluetooth Portatil",
+      "title": "Parlante Bluetooth Portatil",
       "price": 24900,
       "thumbnail": "https://deonce.com.ar/images/detailed/81/_DSC0969_urff-14.JPG",
       "shipping": { "free_shipping": false },
@@ -3400,7 +3400,7 @@
       "id": "MLA262",
       "title": "Cable USB C 2m Reforzado",
       "price": 9900,
-      "thumbnail": "https://picsum.photos/seed/MLA262/600/400",
+      "thumbnail": "https://media.adeo.com/media/3754727/media.jpeg",
       "shipping": { "free_shipping": true },
       "address": { "state_name": "Cordoba" },
       "category_path_from_root": [
@@ -3440,7 +3440,7 @@
       "id": "MLA265",
       "title": "Webcam Full HD 1080p",
       "price": 32900,
-      "thumbnail": "https://picsum.photos/seed/MLA265/600/400",
+      "thumbnail": "https://www.kelyx.com.ar/images/000000000041730228266webcam-kelyx-1.jpg",
       "shipping": { "free_shipping": true },
       "address": { "state_name": "Cordoba" },
       "category_path_from_root": [
@@ -3505,7 +3505,7 @@
       "id": "MLA270",
       "title": "Smart TV 50 4K",
       "price": 699000,
-      "thumbnail": "https://picsum.photos/seed/MLA270/600/400",
+      "thumbnail": "https://images.fravega.com/f1000/d7ca24bf5639a7db78c31aa9fa963be8.jpg",
       "shipping": { "free_shipping": true },
       "address": { "state_name": "Capital Federal" },
       "category_path_from_root": [
@@ -3519,7 +3519,7 @@
       "id": "MLA271",
       "title": "Consola de Videojuegos 1TB",
       "price": 1299000,
-      "thumbnail": "https://picsum.photos/seed/MLA271/600/400",
+      "thumbnail": "https://nextgames.com.ar/img/Public/1040-producto-steam-deck-1-1423.jpg",
       "shipping": { "free_shipping": false },
       "address": { "state_name": "Buenos Aires" },
       "category_path_from_root": [
@@ -4491,7 +4491,7 @@
       "id": "MLA345",
       "title": "Camisa Manga Corta Estampada",
       "price": 35900,
-      "thumbnail": "https://picsum.photos/seed/MLA345/600/400",
+      "thumbnail": "https://duxon.uy/cdn/shop/files/IMG-20231212-WA0014.jpg?v=1707239180",
       "shipping": { "free_shipping": true },
       "address": { "state_name": "Tucuman" },
       "category_path_from_root": [
@@ -4940,7 +4940,7 @@
       "id": "MLA379",
       "title": "Vestido Corto Denim",
       "price": 64900,
-      "thumbnail": "https://picsum.photos/seed/MLA379/600/400",
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/245/791/products/5d31d7d0-a2c5-4a85-a115-11c7223b07ab-188533c5bf0c9c4a7f17582609873233-1024-1024.webp",
       "shipping": { "free_shipping": false },
       "address": { "state_name": "Mendoza" },
       "category_path_from_root": [
@@ -4953,7 +4953,7 @@
       "id": "MLA380",
       "title": "Vestido Fiesta Rojo",
       "price": 89900,
-      "thumbnail": "https://picsum.photos/seed/MLA380/600/400",
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/509/469/products/axioma-post-4661-b79a343a9188cd114317336089127724-1024-1024.webp",
       "shipping": { "free_shipping": true },
       "address": { "state_name": "Tucuman" },
       "category_path_from_root": [
@@ -5019,7 +5019,7 @@
       "id": "MLA385",
       "title": "Pollera Short Deportiva",
       "price": 35900,
-      "thumbnail": "https://picsum.photos/seed/MLA385/600/400",
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/919/712/products/pollera-short-head-club-basic-skort-black-1-671a7f6de1d350a5d617551251495207-1024-1024.webp",
       "shipping": { "free_shipping": false },
       "address": { "state_name": "Tucuman" },
       "category_path_from_root": [
@@ -5033,7 +5033,7 @@
       "id": "MLA386",
       "title": "Boxer Algodon Pack 3",
       "price": 19900,
-      "thumbnail": "https://picsum.photos/seed/MLA386/600/400",
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/792/594/products/chatgpt-image-19-ago-2025-13_22_17-2afae890296d7c57e917556256355639-1024-1024.webp",
       "shipping": { "free_shipping": true },
       "address": { "state_name": "Buenos Aires" },
       "category_path_from_root": [
@@ -6870,9 +6870,9 @@
     },
     {
       "id": "MLA527",
-      "title": "https://image.made-in-china.com/2f0j00rjnlMtWzAyoI/17-Inch-Matt-Black-Machine-Face-Full-Painting-New-Design-Car-Alloy-Wheels-Wheel-5X114-3-Rims-for-Sale-1-Piece-Forged-Alloy-Wheel.webp",
+      "title": "Rueda de aluminio",
       "price": 389900,
-      "thumbnail": "https://picsum.photos/seed/MLA527/600/400",
+      "thumbnail": "https://image.made-in-china.com/2f0j00rjnlMtWzAyoI/17-Inch-Matt-Black-Machine-Face-Full-Painting-New-Design-Car-Alloy-Wheels-Wheel-5X114-3-Rims-for-Sale-1-Piece-Forged-Alloy-Wheel.webp",
       "shipping": { "free_shipping": true },
       "address": { "state_name": "Buenos Aires" },
       "category_path_from_root": [
@@ -9043,7 +9043,7 @@
       "id": "MLA694",
       "title": "Espejo con luz LED para maquillaje",
       "price": 69900,
-      "thumbnail": "https://picsum.photos/seed/MLA694/600/400",
+      "thumbnail": "https://www.soscomputacion.com.ar/10802-thickbox_default/espejo-redondo-luz-led-maquillaje-doble-plegable-my-foldaway.jpg",
       "shipping": { "free_shipping": true },
       "address": { "state_name": "Cordoba" },
       "category_path_from_root": [
@@ -9095,7 +9095,7 @@
       "id": "MLA698",
       "title": "Set labiales liquidos matte x6 tonos nude",
       "price": 34900,
-      "thumbnail": "https://www.pigmentta.com/wp-content/uploads/2023/02/Kit-Labiales-Lip-Addict-Nudes-X6-Trendy-1.jpg",
+      "thumbnail": "https://m.media-amazon.com/images/I/71ntQy2-mYL._SL1500_.jpg",
       "shipping": { "free_shipping": true },
       "address": { "state_name": "Santa Fe" },
       "category_path_from_root": [
@@ -14110,6 +14110,4956 @@
         { "name": "Ropa" },
         { "name": "Camisas" }
       ]
+    },
+    {
+      "id": "MLA1061",
+      "title": "iPhone 12 64GB",
+      "price": 699000,
+      "thumbnail": "https://www.megatone.net/images//Articulos/zoom2x/209/MKT1244ETC-1.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1062",
+      "title": "iPhone 12 128GB",
+      "price": 749000,
+      "thumbnail": "https://www.megatone.net/images/Articulos/zoom2x/209/MKT1312ETC-1.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1063",
+      "title": "iPhone 12 mini 64GB",
+      "price": 629000,
+      "thumbnail": "https://www.tandilphone.com.ar/contenido/productos/original/1706732018.jpeg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1064",
+      "title": "iPhone 12 mini 128GB",
+      "price": 679000,
+      "thumbnail": "https://www.compumacypc.com.ar/wp-content/uploads/iphone12mini.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1065",
+      "title": "iPhone 12 Pro Max 128GB",
+      "price": 899000,
+      "thumbnail": "https://laplatacells.com.ar/img/Public/1169/98855-producto-3-11.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Neuquen" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1066",
+      "title": "iPhone 12 Pro 256GB",
+      "price": 969000,
+      "thumbnail": "https://i5.walmartimages.com/seo/Open-Box-Apple-iPhone-12-Pro-AP-2341M-256GB-Gold-US-Model-Factory-Unlocked-Cell-Phone_2d458bd0-9317-460b-af7d-db97bc90c45f.fff1a62d78c15c7129fdb89d82f0ac74.jpeg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Entre Rios" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1067",
+      "title": "iPhone 12 Pro Max 128GB",
+      "price": 999000,
+      "thumbnail": "https://images.fravega.com/f1000/bc44e5a1861d4a030e6cb82abc9c2211.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1068",
+      "title": "iPhone 13 128GB",
+      "price": 829000,
+      "thumbnail": "https://www.cordobadigital.net/wp-content/uploads/2024/04/iPhone-13-128gb-Blue.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1069",
+      "title": "iPhone 13 256GB",
+      "price": 899000,
+      "thumbnail": "https://rongahogar.com.ar/storage/2024/07/00000722_1.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1070",
+      "title": "iPhone 13 mini 128GB",
+      "price": 769000,
+      "thumbnail": "https://static-catalog.tiendamia.com/marketplace_manager_service/production/product_cf5be65e_mirakl_image_1_large.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1071",
+      "title": "iPhone 13 Pro 128GB",
+      "price": 999000,
+      "thumbnail": "https://tienda.personal.com.ar/images/720/webp/Iphone_13_Pro_256_GB_Silver_e8506d2154.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Neuquen" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1072",
+      "title": "iPhone 13 Pro 256GB",
+      "price": 1099000,
+      "thumbnail": "https://www.megatone.net/images/Articulos/zoom2x/209/01/MKT0238ETC_2.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Entre Rios" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1073",
+      "title": "iPhone 13 Pro Max 256GB",
+      "price": 1199000,
+      "thumbnail": "https://buy.gazelle.com/cdn/shop/files/iPhone_13_Pro_Max_-_Sierra_Blue_-_Overlap_Trans-cropped.jpg?v=1757019254",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1074",
+      "title": "iPhone 14 128GB",
+      "price": 949000,
+      "thumbnail": "https://dcdn-us.mitiendanube.com/stores/001/555/911/products/iphone-14-black-d61713d18bdf31d02417016951877100-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1075",
+      "title": "iPhone 14 Plus 128GB",
+      "price": 999000,
+      "thumbnail": "https://www.thekase.com/on/demandware.static/-/Sites-tk-product/default/dw9bb9b132/38995919/164394_large.png",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1076",
+      "title": "iPhone 14 Pro 128GB",
+      "price": 1199000,
+      "thumbnail": "https://www.cordobadigital.net/wp-content/uploads/2022/10/iPhone-14-Pro-Argentina.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1077",
+      "title": "iPhone 14 Pro Max 256GB",
+      "price": 1399000,
+      "thumbnail": "https://www.radioshackla.com/media/catalog/product/4/6/462159300019_bwftl328ghylij7u.png?optimize=medium&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700&format=jpeg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Neuquen" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1078",
+      "title": "iPhone 15 128GB",
+      "price": 1299000,
+      "thumbnail": "https://www.musicplanet.com.ar/web/image/product.image/1677/image_1024/iPhone%2015%20-%20128GB%20-%20Green%20?unique=add10d7",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Entre Rios" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1079",
+      "title": "iPhone 15 Pro 256GB",
+      "price": 1599000,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/443/907/products/15promaxqw-5673c7228b1d4c7efb17245976970936-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1080",
+      "title": "iPhone 15 Pro Max 256GB",
+      "price": 1799000,
+      "thumbnail": "https://www.cordobadigital.net/wp-content/uploads/2024/01/iPhone-15-Pro-Max-2-scaled.jpeg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Celulares y Telefonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Apple" }
+      ]
+    },
+    {
+      "id": "MLA1081",
+      "title": "Samsung Galaxy S24 256GB",
+      "price": 1899000,
+      "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-s721bzkmaro/gallery/ar-galaxy-s24-fe-s721-sm-s721bzkmaro-543972603?$Q90_1248_936_F_PNG$",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1082",
+      "title": "Samsung Galaxy S24+ 256GB",
+      "price": 2199000,
+      "thumbnail": "https://www.megatone.net/images/Articulos/zoom2x/209/MKT0542MHM-1.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1083",
+      "title": "Samsung Galaxy S24 Ultra 512GB",
+      "price": 2999000,
+      "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-s928blgvaro/gallery/ar-galaxy-s24-s928-508644-sm-s928blgvaro-541864326?$Q90_1248_936_F_PNG$",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1084",
+      "title": "Samsung Galaxy Z Flip5 256GB",
+      "price": 2399000,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/005/990/736/products/9beaa6f1338747d785a307d9fdc949af-bc47d62cd81e0e71f017433740823165-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1085",
+      "title": "Samsung Galaxy Z Fold5 512GB",
+      "price": 3899000,
+      "thumbnail": "https://tienda.personal.com.ar/images/720/webp/Samsung_Galaxy_Z_Fold5_512_GB_Icy_Blue1_fe360a17a3.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Neuquén" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1086",
+      "title": "Samsung Galaxy A55 5G 256GB",
+      "price": 899000,
+      "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a556ezyparo/gallery/ar-galaxy-a55-5g-sm-a556-sm-a556ezyparo-544072596?$Q90_1248_936_F_PNG$",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Entre Ríos" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1087",
+      "title": "Samsung Galaxy A35 5G 128GB",
+      "price": 699000,
+      "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a356ezkearo/gallery/ar-galaxy-a35-5g-sm-a356-sm-a356ezkearo-544072175?$Q90_1248_936_F_PNG$",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1088",
+      "title": "Samsung Galaxy S23 FE 5G 256GB",
+      "price": 1199000,
+      "thumbnail": "https://stylewatch.vtexassets.com/arquivos/ids/241677/Smartphone_Samsung_SMS711BLGMARO_01.jpg?v=638350703288500000",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1089",
+      "title": "Samsung Galaxy S23 Ultra 512GB",
+      "price": 2599000,
+      "thumbnail": "https://www.cordobadigital.net/wp-content/uploads/2023/11/S23-Ultra-cream.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1090",
+      "title": "Samsung Galaxy A54 5G 256GB",
+      "price": 799000,
+      "thumbnail": "https://samsungar.vtexassets.com/arquivos/ids/205847/Samsung-120127461-ar-galaxy-a54-5g-sm-a546-455651-sm-a546ezkfaro-536287468--Download-Source-.png?v=638815473988030000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+
+    {
+      "id": "MLA1091",
+      "title": "Motorola Edge 50 Pro 256GB",
+      "price": 1299000,
+      "thumbnail": "https://bioscomputacion.com.ar/img/Public/1161/23821-producto-motorola-edge-50-pro-morado.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Motorola" }
+      ]
+    },
+    {
+      "id": "MLA1092",
+      "title": "Motorola Moto G84 5G 256GB",
+      "price": 599000,
+      "thumbnail": "https://loquiero.com.ar/wp-content/uploads/2024/07/G84-5G-1.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Motorola" }
+      ]
+    },
+    {
+      "id": "MLA1093",
+      "title": "Motorola Moto G54 5G 128GB",
+      "price": 429000,
+      "thumbnail": "https://armoto.vtexassets.com/arquivos/ids/165276/2023_Cancun5G_Row_BASICPACK_Ambrosia_PDPHERO.png?v=638787043274630000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Motorola" }
+      ]
+    },
+    {
+      "id": "MLA1094",
+      "title": "Motorola Razr 40 Ultra 512GB",
+      "price": 2399000,
+      "thumbnail": "https://images.fravega.com/f1000/6826ed07df24afd3333b70c008e0f7ba.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Motorola" }
+      ]
+    },
+    {
+      "id": "MLA1095",
+      "title": "Huawei P60 Pro 256GB",
+      "price": 1799000,
+      "thumbnail": "https://www.huaweicentral.com/wp-content/uploads/2023/03/Huawei-P60-Pro-1.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Neuquén" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Huawei" }
+      ]
+    },
+    {
+      "id": "MLA1096",
+      "title": "Huawei Nova 11 256GB",
+      "price": 799000,
+      "thumbnail": "https://cellucity.co.za/wp-content/uploads/2023/09/Huawei-nova-11-in-Black.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Entre Ríos" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Huawei" }
+      ]
+    },
+    {
+      "id": "MLA1097",
+      "title": "Xiaomi 14 512GB",
+      "price": 1699000,
+      "thumbnail": "https://www.megatone.net/images/Articulos/zoom2x/209/MKT0184AFF-1.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Xiaomi" }
+      ]
+    },
+    {
+      "id": "MLA1098",
+      "title": "Xiaomi Redmi Note 13 Pro 5G 256GB",
+      "price": 799000,
+      "thumbnail": "https://www.cordobadigital.net/wp-content/uploads/2024/04/Redmi-Note-13-Pro-Plus.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Xiaomi" }
+      ]
+    },
+    {
+      "id": "MLA1099",
+      "title": "Xiaomi Poco X6 Pro 5G 256GB",
+      "price": 749000,
+      "thumbnail": "https://www.necxus.com.ar/products_image/35843/1000x1000_1.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Xiaomi" }
+      ]
+    },
+    {
+      "id": "MLA1100",
+      "title": "Google Pixel 8 Pro 256GB",
+      "price": 1899000,
+      "thumbnail": "https://m.media-amazon.com/images/I/71h9zq4viSL.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Google" }
+      ]
+    },
+    {
+      "id": "MLA1101",
+      "title": "OnePlus 12 256GB",
+      "price": 1799000,
+      "thumbnail": "https://image01.oneplus.net/media/202405/28/b96848b7acd10dafde32203d12f6fea7.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Neuquén" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "OnePlus" }
+      ]
+    },
+    {
+      "id": "MLA1102",
+      "title": "Oppo Reno 11 Pro 256GB",
+      "price": 1099000,
+      "thumbnail": "https://f.fcdn.app/imgs/8e7f65/www.zonatecno.com.uy/zoteuy/ca00/original/catalogo/104848_104848_1/1500-1500/celular-oppo-reno-11-256gb-12gb-5g-verde-celular-oppo-reno-11-256gb-12gb-5g-verde.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Entre Ríos" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Oppo" }
+      ]
+    },
+    {
+      "id": "MLA1103",
+      "title": "Realme GT 6 256GB",
+      "price": 999000,
+      "thumbnail": "https://tecno-center.minegocio-go.com/web/image/product.template/15189/image",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Realme" }
+      ]
+    },
+    {
+      "id": "MLA1104",
+      "title": "Honor Magic6 Pro 512GB",
+      "price": 2199000,
+      "thumbnail": "https://soytechno.com/wp-content/uploads/2024/11/Honor-Magic-6-Pro-12GB-512GB-BVL-N49-Epi-Green-3.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Honor" }
+      ]
+    },
+    {
+      "id": "MLA1105",
+      "title": "Sony Xperia 1 V 256GB",
+      "price": 2499000,
+      "thumbnail": "https://celularesindustriales.com.ar/wp-content/uploads/wp-image44347742322918.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Sony" }
+      ]
+    },
+    {
+      "id": "MLA1106",
+      "title": "Nokia X30 5G 128GB",
+      "price": 699000,
+      "thumbnail": "https://dakauf.eu/wp-content/uploads/2024/06/Nokia-X30-Dual-Sim-5G-6GB-RAM-128GB-Cloudy-Blue.png",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Nokia" }
+      ]
+    },
+    {
+      "id": "MLA1107",
+      "title": "Asus ROG Phone 8 256GB",
+      "price": 2299000,
+      "thumbnail": "https://d2e6ccujb3mkqf.cloudfront.net/3e9cacc6-a1d0-49a2-b377-45f508325b70-2_99cd2fc5-26e7-4330-b12f-cab2ae328286.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Neuquén" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Asus" }
+      ]
+    },
+    {
+      "id": "MLA1108",
+      "title": "Vivo V30 256GB",
+      "price": 949000,
+      "thumbnail": "https://tiendadonde.com/cdn/shop/files/001_1732748638.jpg?v=1732748680&width=1024",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Entre Ríos" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Vivo" }
+      ]
+    },
+    {
+      "id": "MLA1109",
+      "title": "ZTE Axon 50 Ultra 256GB",
+      "price": 1199000,
+      "thumbnail": "https://zte.cl/wp-content/uploads/2023/11/Axon-50-5G-2-1.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "ZTE" }
+      ]
+    },
+    {
+      "id": "MLA1110",
+      "title": "TCL 50 Pro 5G 256GB",
+      "price": 749000,
+      "thumbnail": "https://aws-obg-image-lb-1.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-50-nxtpaper-5g-pro/id-images/8.jpg?t=1721122048151&w=800",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "TCL" }
+      ]
+    },
+    {
+      "id": "MLA1111",
+      "title": "Samsung Galaxy S25 256GB",
+      "price": 2099000,
+      "thumbnail": "https://statics.qloud.ar/274/02-10-2025-04-10-03_SM-A366EZAFARO-2025-10-02T164923.476.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1112",
+      "title": "Samsung Galaxy S25+ 256GB",
+      "price": 2399000,
+      "thumbnail": "https://shop.samsung.com/latin/pub/media/catalog/product/cache/a69170b4a4f0666a52473c2224ba9220/s/m/sm-jl1578f2v1uvx1gplus_set-cut-all_002_2_3.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1113",
+      "title": "Samsung Galaxy S25 Ultra 512GB",
+      "price": 3299000,
+      "thumbnail": "https://bairesit.com.ar/Image/0/750_750-celular-samsung-galaxy-s25-1_1000x1000.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1114",
+      "title": "Samsung Galaxy Z Flip6 256GB",
+      "price": 2599000,
+      "thumbnail": "https://tiendadiggit.com.ar/web/image/product.template/258155/image_1024?unique=6d7b096",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1115",
+      "title": "Samsung Galaxy Z Fold6 512GB",
+      "price": 4199000,
+      "thumbnail": "https://static.wixstatic.com/media/354058_a4d2fe290ddc4a758b149f743bc0998f~mv2.png/v1/fill/w_600,h_600,al_c,q_85,enc_avif,quality_auto/354058_a4d2fe290ddc4a758b149f743bc0998f~mv2.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Neuquén" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1116",
+      "title": "Samsung Galaxy A76 5G 256GB",
+      "price": 949000,
+      "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-a366ezkfaro/gallery/ar-galaxy-a36-5g-sm-a366-sm-a366ezkfaro-545676833?$Q90_1248_936_F_PNG$",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Entre Ríos" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1117",
+      "title": "Samsung Galaxy A66 5G 256GB",
+      "price": 849000,
+      "thumbnail": "https://mcprod.jumbo.ae/media/catalog/product/s/m/sm-a366_galaxy-a36-5g_awesome-lime_front.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1118",
+      "title": "Samsung Galaxy S24 FE 5G 256GB",
+      "price": 1299000,
+      "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-s721blbmaro/gallery/ar-galaxy-s24-fe-s721-sm-s721blbmaro-543972545?$Q90_1248_936_F_PNG$",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1119",
+      "title": "Samsung Galaxy S24 FE+ 256GB",
+      "price": 1499000,
+      "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-s721bzamaro/gallery/ar-galaxy-s24-fe-s721-sm-s721bzamaro-543972583?$Q90_1248_936_F_PNG$",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+    {
+      "id": "MLA1120",
+      "title": "Samsung Galaxy A80 5G 256GB",
+      "price": 779000,
+      "thumbnail": "https://i.blogs.es/0ff446/11_galaxya80_allcolors_combo1/1366_2000.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Samsung" }
+      ]
+    },
+
+    {
+      "id": "MLA1121",
+      "title": "Motorola Edge 60 Ultra 256GB",
+      "price": 1399000,
+      "thumbnail": "https://cdn01.laanonima.com.ar/web/images/fotos/b/0000119000/61326_1.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Motorola" }
+      ]
+    },
+    {
+      "id": "MLA1122",
+      "title": "Motorola Moto G94 5G 256GB",
+      "price": 629000,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/443/907/products/g344-b4594a3f84f2c2e8ed17253989342988-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Motorola" }
+      ]
+    },
+    {
+      "id": "MLA1123",
+      "title": "Motorola Razr 50 512GB",
+      "price": 2699000,
+      "thumbnail": "https://tienda.claro.com.ar/staticContent/Claro/images/catalog/productos/646x1000/70012783_3.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Motorola" }
+      ]
+    },
+    {
+      "id": "MLA1124",
+      "title": "Huawei P70 Pro 512GB",
+      "price": 1999000,
+      "thumbnail": "https://cyberteamcr.com/wp-content/uploads/2024/07/w1500h1500fitpad-8.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Neuquén" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Huawei" }
+      ]
+    },
+    {
+      "id": "MLA1125",
+      "title": "Huawei Nova 13 256GB",
+      "price": 899000,
+      "thumbnail": "https://bioscomputacion.com.ar/img/Public/1161/79900-producto-s-l1200-4.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Entre Ríos" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Huawei" }
+      ]
+    },
+    {
+      "id": "MLA1126",
+      "title": "Xiaomi 15 512GB",
+      "price": 1799000,
+      "thumbnail": "https://omnitech.ar/wp-content/uploads/2025/06/mi15-ultra.jpg.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Xiaomi" }
+      ]
+    },
+    {
+      "id": "MLA1127",
+      "title": "Xiaomi Redmi Note 14 Pro 5G 256GB",
+      "price": 829000,
+      "thumbnail": "https://www.cordobadigital.net/wp-content/uploads/2025/01/Note-14-pro-5g-verde.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Xiaomi" }
+      ]
+    },
+    {
+      "id": "MLA1128",
+      "title": "Xiaomi Poco X7 Pro 5G 256GB",
+      "price": 779000,
+      "thumbnail": "https://carrefourar.vtexassets.com/arquivos/ids/670346/image-1845a56e9300471185cf528879e1d93e.jpg?v=638852409678830000",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Xiaomi" }
+      ]
+    },
+    {
+      "id": "MLA1129",
+      "title": "Google Pixel 9 Pro 256GB",
+      "price": 1999000,
+      "thumbnail": "https://dcdn-us.mitiendanube.com/stores/004/793/919/products/f9eed720-357378b01a92be761317443185513857-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Google" }
+      ]
+    },
+    {
+      "id": "MLA1130",
+      "title": "OnePlus 13 256GB",
+      "price": 1899000,
+      "thumbnail": "https://mgv.com.ar/wp-content/uploads/2025/08/OnePlus-13t-Pink.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Neuquén" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "OnePlus" }
+      ]
+    },
+    {
+      "id": "MLA1131",
+      "title": "Oppo Find X7 Pro 256GB",
+      "price": 1299000,
+      "thumbnail": "https://fb-es.mrvcdn.com/kf/E3ff444af3f0c417fa4be086392e1bc42M.png",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Entre Ríos" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Oppo" }
+      ]
+    },
+    {
+      "id": "MLA1132",
+      "title": "Realme GT 7 256GB",
+      "price": 1099000,
+      "thumbnail": "https://http2.mlstatic.com/D_Q_NP_714000-MLA96423996868_102025-O.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Realme" }
+      ]
+    },
+    {
+      "id": "MLA1133",
+      "title": "Honor Magic7 Pro 512GB",
+      "price": 2399000,
+      "thumbnail": "https://img02.honorfile.com/eu/es/honor/pms/product/6936520858750/group/800_800_90Percent_BA85B0348E7FD4AC60119E2CC523F43232837D79D04B30CFmp.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Honor" }
+      ]
+    },
+    {
+      "id": "MLA1134",
+      "title": "Sony Xperia 2 V 256GB",
+      "price": 2599000,
+      "thumbnail": "https://img.yec.tw/zp/MerchandiseImages/2528CECABC-SP-14931351.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Sony" }
+      ]
+    },
+    {
+      "id": "MLA1135",
+      "title": "Nokia X40 5G 128GB",
+      "price": 799000,
+      "thumbnail": "https://www.techspecs.info/_next/image/?url=https%3A%2F%2Fwww.techspecs.info%2Fuploads%2FNokia_X400_5_G_1b0ba6050f.png&w=3840&q=75",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Nokia" }
+      ]
+    },
+    {
+      "id": "MLA1136",
+      "title": "Asus ROG Phone 9 256GB",
+      "price": 2499000,
+      "thumbnail": "https://dlcdnwebimgs.asus.com/gain/8D85BFE0-F7E5-406E-96D7-79D35CB96648",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Neuquén" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Asus" }
+      ]
+    },
+    {
+      "id": "MLA1137",
+      "title": "Vivo X100 Pro 256GB",
+      "price": 1599000,
+      "thumbnail": "https://tradingshenzhen.com/13789-large_default/vivo-x100-pro-12gb256gb.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Entre Ríos" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "Vivo" }
+      ]
+    },
+    {
+      "id": "MLA1138",
+      "title": "ZTE Nubia Z60 Ultra 256GB",
+      "price": 1199000,
+      "thumbnail": "https://i.blogs.es/fb8a8d/nubia-z60-ultra-pantalla/650_1200.jpeg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "ZTE" }
+      ]
+    },
+    {
+      "id": "MLA1139",
+      "title": "TCL 60 Ultra 5G 256GB",
+      "price": 899000,
+      "thumbnail": "https://aws-obg-image-lb-4.tcl.com/content/dam/brandsite/region/global/products/smartphones/tcl-nxtpaper-60-ultra/id-white-02/1.png?t=1765173061055&w=800",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Córdoba" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "TCL" }
+      ]
+    },
+    {
+      "id": "MLA1140",
+      "title": "BlackBerry KEY3 128GB",
+      "price": 699000,
+      "thumbnail": "https://preview.redd.it/the-demand-is-high-enouth-its-time-to-release-blackberry-v0-d4mg2ouqj3me1.png?auto=webp&s=1e2a8337ff18512777890967514ed0f1a58609ec",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Celulares y Teléfonos" },
+        { "name": "Celulares y Smartphones" },
+        { "name": "BlackBerry" }
+      ]
+    },
+    {
+      "results": [
+        {
+          "id": "MLA1141",
+          "title": "Laptop Lenovo IdeaPad 3 Ryzen 5 8gb 256gb Ssd",
+          "price": 689999,
+          "thumbnail": "https://images.fravega.com/f1000/aa3a022ac1e54c8e35d69b3d916d33a6.jpg",
+          "shipping": { "free_shipping": true },
+          "address": { "state_name": "Capital Federal" },
+          "category_path_from_root": [
+            { "name": "Computacion" },
+            { "name": "Laptops" }
+          ]
+        },
+        {
+          "id": "MLA1142",
+          "title": "Laptop HP Pavilion 15 i5 8gb 512gb Ssd",
+          "price": 899999,
+          "thumbnail": "https://mauricomputacion.com.ar/images/productos/galerias/24349/1007_1304435506.webp",
+          "shipping": { "free_shipping": false },
+          "address": { "state_name": "Buenos Aires" },
+          "category_path_from_root": [
+            { "name": "Computacion" },
+            { "name": "Laptops" }
+          ]
+        },
+        {
+          "id": "MLA1143",
+          "title": "Laptop Dell Inspiron 14 i5 16gb 512gb Ssd",
+          "price": 1049999,
+          "thumbnail": "https://tunotebook.com.ar/wp-content/uploads/2025/10/2-5-717x717.jpg",
+          "shipping": { "free_shipping": true },
+          "address": { "state_name": "Cordoba" },
+          "category_path_from_root": [
+            { "name": "Computacion" },
+            { "name": "Laptops" }
+          ]
+        },
+        {
+          "id": "MLA1144",
+          "title": "Laptop Asus VivoBook 15 i3 8gb 256gb Ssd",
+          "price": 579999,
+          "thumbnail": "https://saturnohogar.vtexassets.com/arquivos/ids/161040-800-800?v=638877537174200000&width=800&height=800&aspect=true",
+          "shipping": { "free_shipping": true },
+          "address": { "state_name": "Santa Fe" },
+          "category_path_from_root": [
+            { "name": "Computacion" },
+            { "name": "Laptops" }
+          ]
+        },
+        {
+          "id": "MLA1145",
+          "title": "Laptop Acer Aspire 5 Ryzen 7 16gb 512gb Ssd",
+          "price": 1129999,
+          "thumbnail": "https://www.intermaco.com.ar/productos/A515-48M-R8HC-4.jpg",
+          "shipping": { "free_shipping": false },
+          "address": { "state_name": "Mendoza" },
+          "category_path_from_root": [
+            { "name": "Computacion" },
+            { "name": "Laptops" }
+          ]
+        },
+
+        {
+          "id": "MLA1146",
+          "title": "Laptop Apple MacBook Air M1 8gb 256gb",
+          "price": 1599999,
+          "thumbnail": "https://bioscomputacion.com.ar/img/Public/1161/76669-producto-b329259-1.jpg",
+          "shipping": { "free_shipping": true },
+          "address": { "state_name": "Capital Federal" },
+          "category_path_from_root": [
+            { "name": "Computacion" },
+            { "name": "Laptops" }
+          ]
+        },
+        {
+          "id": "MLA1147",
+          "title": "Laptop Samsung Galaxy Book i5 8gb 512gb",
+          "price": 989999,
+          "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/ar/np750xfg-kb2ar/gallery/ar-galaxy-book3-156-inch-int-np750xfga-471550-np750xfg-kb2ar-537500187?$Q90_1248_936_F_PNG$",
+          "shipping": { "free_shipping": false },
+          "address": { "state_name": "Buenos Aires" },
+          "category_path_from_root": [
+            { "name": "Computacion" },
+            { "name": "Laptops" }
+          ]
+        },
+        {
+          "id": "MLA1148",
+          "title": "Laptop MSI Modern 14 i7 16gb 512gb Ssd",
+          "price": 1249999,
+          "thumbnail": "https://statics.qloud.ar/4002/31-05-2025-11-05-13_1.jpeg",
+          "shipping": { "free_shipping": true },
+          "address": { "state_name": "Cordoba" },
+          "category_path_from_root": [
+            { "name": "Computacion" },
+            { "name": "Laptops" }
+          ]
+        },
+        {
+          "id": "MLA1149",
+          "title": "Laptop Lenovo ThinkPad E14 i5 16gb 512gb",
+          "price": 1099999,
+          "thumbnail": "https://p1-ofp.static.pub/medias/bWFzdGVyfHJvb3R8Mjk0MjQyfGltYWdlL3BuZ3xoZWYvaDY0LzE0MTExNzE4NDczNzU4LnBuZ3w3NzUyNzZlMGRiMDNhMjRiMGE3Mzc4MDFmMGZmMDU0ZTA5NzM2OTQyOWM5YmVkNzMwZDc5NmI3NDYyNTIxZWQz/22tpe14e4n1.png",
+          "shipping": { "free_shipping": true },
+          "address": { "state_name": "Rosario" },
+          "category_path_from_root": [
+            { "name": "Computacion" },
+            { "name": "Laptops" }
+          ]
+        },
+        {
+          "id": "MLA1150",
+          "title": "Laptop HP Victus 15 Ryzen 5 16gb 512gb",
+          "price": 1199999,
+          "thumbnail": "https://mla-s1-p.mlstatic.com/847614-MLA79389936495_092024-F.jpg",
+          "shipping": { "free_shipping": false },
+          "address": { "state_name": "La Plata" },
+          "category_path_from_root": [
+            { "name": "Computacion" },
+            { "name": "Laptops" }
+          ]
+        },
+
+        {
+          "id": "MLA1151",
+          "title": "Laptop Dell XPS 13 i7 16gb 1tb Ssd",
+          "price": 1899999,
+          "thumbnail": "https://m.media-amazon.com/images/I/91gvyjFVFgL.jpg_BO30,255,255,255_UF900,850_SR1910,1000,0,C_QL100_.jpg",
+          "shipping": { "free_shipping": true },
+          "address": { "state_name": "Capital Federal" },
+          "category_path_from_root": [
+            { "name": "Computacion" },
+            { "name": "Laptops" }
+          ]
+        },
+        {
+          "id": "MLA1152",
+          "title": "Laptop Asus TUF Gaming i5 16gb 512gb",
+          "price": 1299999,
+          "thumbnail": "https://digify.com.ar/wp-content/uploads/1667412222_tuf-3.png",
+          "shipping": { "free_shipping": false },
+          "address": { "state_name": "Cordoba" },
+          "category_path_from_root": [
+            { "name": "Computacion" },
+            { "name": "Laptops" }
+          ]
+        },
+        {
+          "id": "MLA1153",
+          "title": "Laptop Acer Nitro 5 Ryzen 7 16gb 1tb",
+          "price": 1399999,
+          "thumbnail": "https://maxtecno.com.ar/wp-content/uploads/Sin-titulo-450.png",
+          "shipping": { "free_shipping": true },
+          "address": { "state_name": "Mendoza" },
+          "category_path_from_root": [
+            { "name": "Computacion" },
+            { "name": "Laptops" }
+          ]
+        },
+        {
+          "id": "MLA1154",
+          "title": "Laptop Lenovo Legion 5 Ryzen 7 16gb",
+          "price": 1499999,
+          "thumbnail": "https://acdn-us.mitiendanube.com/stores/005/990/736/products/55c9c0d0ac734701af885ceb265e3b2a-d293af988ebf172f2417433759106972-1024-1024.webp",
+          "shipping": { "free_shipping": true },
+          "address": { "state_name": "Buenos Aires" },
+          "category_path_from_root": [
+            { "name": "Computacion" },
+            { "name": "Laptops" }
+          ]
+        },
+        {
+          "id": "MLA1155",
+          "title": "Laptop HP Envy 13 i7 16gb 512gb",
+          "price": 1349999,
+          "thumbnail": "https://i5.walmartimages.com/seo/HP-ENVY-13-3-4K-Ultra-HD-Touch-Screen-Laptop-Intel-Core-i7-8GB-Memory-512GB-SSD-Natural-Silver_ed9ce385-1592-4be6-9c58-c4796c208222.2bcd28d872b6f5ac4134dd2018f9fbc4.jpeg",
+          "shipping": { "free_shipping": false },
+          "address": { "state_name": "Santa Fe" },
+          "category_path_from_root": [
+            { "name": "Computacion" },
+            { "name": "Laptops" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "MLA1156",
+      "title": "Laptop Asus TUF Gaming i5 16gb 512gb",
+      "price": 1299999,
+      "thumbnail": "https://hard-digital.com.ar/public/files/Notebook%20Asus%20Tuf%20Gaming%20F15%20I5-11400h%20Rtx%203050%2016gb%20512gb%20Ssd/3.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+    {
+      "id": "MLA1157",
+      "title": "Laptop Acer Nitro 5 Ryzen 7 16gb 1tb",
+      "price": 1399999,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxkdsOgfzGP7As10V-xfZMtO1vAaU0myRBJw&s",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+    {
+      "id": "MLA1158",
+      "title": "Laptop Lenovo Legion 5 Ryzen 7 16gb",
+      "price": 1499999,
+      "thumbnail": "https://images.fravega.com/f1000/ff887d9fb23f51ce462c08bb5d15467f.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+    {
+      "id": "MLA1159",
+      "title": "Laptop HP Victus Gaming i5 16gb 512gb",
+      "price": 1249999,
+      "thumbnail": "https://omnitech.ar/wp-content/uploads/2024/12/Hero-Image-2@2x.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+
+    {
+      "id": "MLA1160",
+      "title": "Laptop MSI Katana i7 16gb 1tb",
+      "price": 1599999,
+      "thumbnail": "https://casatecno.com.ar/img/Public/1108/11053-producto-msi-katana-17-b13vek-1294ar-2.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+    {
+      "id": "MLA1161",
+      "title": "Laptop Dell G15 Gaming Ryzen 5 16gb",
+      "price": 1349999,
+      "thumbnail": "https://www.intermaco.com.ar/productos/CKMM2-3.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+    {
+      "id": "MLA1162",
+      "title": "Laptop Asus ROG Strix i7 16gb 1tb",
+      "price": 1899999,
+      "thumbnail": "https://smarts.com.ar/wp-content/uploads/G615JMR-AS74-32GB-Asus-ROG-G16_04.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+
+    {
+      "id": "MLA1163",
+      "title": "Laptop Lenovo IdeaPad 1 Ryzen 3 8gb",
+      "price": 459999,
+      "thumbnail": "https://www.oscarbarbieri.com/pub/media/catalog/product/cache/7baadf0dec41407c7702efdbff940ecb/9/7/973398-1600-auto.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+    {
+      "id": "MLA1164",
+      "title": "Laptop HP 14 i3 8gb 256gb",
+      "price": 499999,
+      "thumbnail": "https://www.computershopping.com.ar/Images/Productos/Grandes/HP-14-CF3047LA_Foto0g.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+    {
+      "id": "MLA1165",
+      "title": "Laptop Acer Aspire 3 Ryzen 3 8gb",
+      "price": 479999,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/006/128/324/products/34-56ad238926f29dcd3017612493840578-1024-1024.webp",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+
+    {
+      "id": "MLA1166",
+      "title": "Laptop Lenovo IdeaPad 3 Ryzen 5 8gb",
+      "price": 629999,
+      "thumbnail": "https://www.megatone.net/images//Articulos/zoom2x/200/MKT0210LNV-1.png",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+    {
+      "id": "MLA1167",
+      "title": "Laptop HP Pavilion i5 8gb 512gb",
+      "price": 789999,
+      "thumbnail": "https://masonlineprod.vtexassets.com/arquivos/ids/337790-800-auto?v=638658339798370000&width=800&height=auto&aspect=true",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+    {
+      "id": "MLA1168",
+      "title": "Laptop Dell Inspiron 15 i5 16gb",
+      "price": 899999,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvIH3sYXq58l2lmf0_xF39pcLB9hgYA4-RJA&s",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+
+    {
+      "id": "MLA1169",
+      "title": "Laptop Apple MacBook Air M1 8gb",
+      "price": 1599999,
+      "thumbnail": "https://sistema.langtecnologia.com.ar/img/qloud/1628/9000_5.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+    {
+      "id": "MLA1170",
+      "title": "Laptop Apple MacBook Pro M2 16gb",
+      "price": 2399999,
+      "thumbnail": "https://images.fravega.com/f500/7459c40ec9ed4cd8d930fef1f7168c05.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+
+    {
+      "id": "MLA1171",
+      "title": "Laptop Dell XPS 13 i7 16gb",
+      "price": 1999999,
+      "thumbnail": "https://omnitech.ar/wp-content/uploads/2025/06/dell-xps-13-9300.jpg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+    {
+      "id": "MLA1172",
+      "title": "Laptop Lenovo ThinkPad X1 i7",
+      "price": 1899999,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/005/990/736/products/carbong10b-816eac9aff13e2e36b17441522426125-1024-1024.webp",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+
+    {
+      "id": "MLA1173",
+      "title": "Laptop Asus ZenBook i7 16gb",
+      "price": 1799999,
+      "thumbnail": "https://www.venex.com.ar/products_images/1585592176_ux434flc_i7_10510u_16gb_ssd_512gb_optane_32gb_gfmx2502gb_14_w10_3.jpg",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+    {
+      "id": "MLA1174",
+      "title": "Laptop MSI Prestige i7 16gb",
+      "price": 1699999,
+      "thumbnail": "https://static.nb.com.ar/i/nb_msi-notebook-prestige-14-evo-b13m-i7-16gb-1tb-intel-iris-xe-graphics_ver_396b41b07514b9164f0f91cb55c9d5e9.jpeg",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Laptops" }
+      ]
+    },
+    {
+      "id": "MLA1175",
+      "title": "Monitor Samsung 24 Pulgadas Full Hd",
+      "price": 259999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1175",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Monitores" }
+      ]
+    },
+    {
+      "id": "MLA1176",
+      "title": "Monitor LG 27 Pulgadas Ips Full Hd",
+      "price": 329999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1176",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Monitores" }
+      ]
+    },
+    {
+      "id": "MLA1177",
+      "title": "Monitor Asus Gaming 24 144hz",
+      "price": 399999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1177",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Monitores" }
+      ]
+    },
+    {
+      "id": "MLA1178",
+      "title": "Monitor AOC 22 Pulgadas Hd",
+      "price": 199999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1178",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Monitores" }
+      ]
+    },
+    {
+      "id": "MLA1179",
+      "title": "Monitor Dell 27 Pulgadas Qhd",
+      "price": 489999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1179",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Monitores" }
+      ]
+    },
+
+    {
+      "id": "MLA1180",
+      "title": "Pc Escritorio Ryzen 5 16gb 512gb Ssd",
+      "price": 899999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1180",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "PCs de Escritorio" }
+      ]
+    },
+    {
+      "id": "MLA1181",
+      "title": "Pc Gamer Intel i5 16gb Rtx 3060",
+      "price": 1399999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1181",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "PCs de Escritorio" }
+      ]
+    },
+    {
+      "id": "MLA1182",
+      "title": "Pc Oficina Intel i3 8gb 256gb",
+      "price": 549999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1182",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "PCs de Escritorio" }
+      ]
+    },
+    {
+      "id": "MLA1183",
+      "title": "Pc Gamer Ryzen 7 32gb Rtx 4070",
+      "price": 1999999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1183",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "PCs de Escritorio" }
+      ]
+    },
+    {
+      "id": "MLA1184",
+      "title": "Mini Pc Intel Nuc i5 16gb",
+      "price": 749999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1184",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "PCs de Escritorio" }
+      ]
+    },
+
+    {
+      "id": "MLA1185",
+      "title": "Teclado Mecanico Redragon Kumara",
+      "price": 89999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1185",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Perifericos" }
+      ]
+    },
+    {
+      "id": "MLA1186",
+      "title": "Mouse Logitech G203 Gaming",
+      "price": 69999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1186",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Perifericos" }
+      ]
+    },
+    {
+      "id": "MLA1187",
+      "title": "Auriculares Hyperx Cloud Stinger",
+      "price": 119999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1187",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Perifericos" }
+      ]
+    },
+    {
+      "id": "MLA1188",
+      "title": "Mousepad Gamer Xl Antideslizante",
+      "price": 29999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1188",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Perifericos" }
+      ]
+    },
+    {
+      "id": "MLA1189",
+      "title": "Webcam Logitech C920 Full Hd",
+      "price": 159999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1189",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Perifericos" }
+      ]
+    },
+
+    {
+      "id": "MLA1190",
+      "title": "Parlantes Edifier R1280db",
+      "price": 279999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1190",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Perifericos" }
+      ]
+    },
+    {
+      "id": "MLA1191",
+      "title": "Joystick Pc Xbox Series Original",
+      "price": 139999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1191",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Perifericos" }
+      ]
+    },
+    {
+      "id": "MLA1192",
+      "title": "Teclado Logitech K120 Usb",
+      "price": 24999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1192",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Perifericos" }
+      ]
+    },
+    {
+      "id": "MLA1193",
+      "title": "Mouse Inalambrico Microsoft",
+      "price": 34999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1193",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Perifericos" }
+      ]
+    },
+    {
+      "id": "MLA1194",
+      "title": "Camara Streaming Elgato Facecam",
+      "price": 229999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1194",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Perifericos" }
+      ]
+    },
+    {
+      "id": "MLA1195",
+      "title": "Procesador Ryzen 5 5600g",
+      "price": 289999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1195",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Componentes" }
+      ]
+    },
+    {
+      "id": "MLA1196",
+      "title": "Procesador Intel Core i5 12400",
+      "price": 319999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1196",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Componentes" }
+      ]
+    },
+    {
+      "id": "MLA1197",
+      "title": "Placa De Video Nvidia Rtx 3060 12gb",
+      "price": 899999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1197",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Componentes" }
+      ]
+    },
+    {
+      "id": "MLA1198",
+      "title": "Placa De Video Rtx 4070 12gb",
+      "price": 1399999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1198",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Componentes" }
+      ]
+    },
+    {
+      "id": "MLA1199",
+      "title": "Memoria Ram 16gb Ddr4 3200mhz",
+      "price": 89999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1199",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Componentes" }
+      ]
+    },
+
+    {
+      "id": "MLA1200",
+      "title": "Memoria Ram 32gb Ddr5 5200mhz",
+      "price": 179999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1200",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Componentes" }
+      ]
+    },
+    {
+      "id": "MLA1201",
+      "title": "Disco Solido Ssd Nvme 1tb",
+      "price": 129999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1201",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Componentes" }
+      ]
+    },
+    {
+      "id": "MLA1202",
+      "title": "Disco Solido Ssd 480gb",
+      "price": 59999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1202",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Componentes" }
+      ]
+    },
+    {
+      "id": "MLA1203",
+      "title": "Fuente Pc 750w Certificada 80 Plus",
+      "price": 149999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1203",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Componentes" }
+      ]
+    },
+    {
+      "id": "MLA1204",
+      "title": "Gabinete Gamer Vidrio Templado",
+      "price": 139999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1204",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Componentes" }
+      ]
+    },
+
+    {
+      "id": "MLA1205",
+      "title": "Motherboard B550 Am4",
+      "price": 219999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1205",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Componentes" }
+      ]
+    },
+    {
+      "id": "MLA1206",
+      "title": "Motherboard Z690 Intel",
+      "price": 299999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1206",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Computacion" },
+        { "name": "Componentes" }
+      ]
+    },
+
+    {
+      "id": "MLA1207",
+      "title": "Playstation 5 825gb",
+      "price": 1899999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1207",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Consolas y Videojuegos" },
+        { "name": "Consolas" }
+      ]
+    },
+    {
+      "id": "MLA1208",
+      "title": "Xbox Series X 1tb",
+      "price": 1799999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1208",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Consolas y Videojuegos" },
+        { "name": "Consolas" }
+      ]
+    },
+    {
+      "id": "MLA1209",
+      "title": "Xbox Series S 512gb",
+      "price": 999999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1209",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Consolas y Videojuegos" },
+        { "name": "Consolas" }
+      ]
+    },
+    {
+      "id": "MLA1210",
+      "title": "Nintendo Switch OLED",
+      "price": 899999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1210",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Consolas y Videojuegos" },
+        { "name": "Consolas" }
+      ]
+    },
+    {
+      "id": "MLA1211",
+      "title": "Nintendo Switch Lite",
+      "price": 599999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1211",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Consolas y Videojuegos" },
+        { "name": "Consolas" }
+      ]
+    },
+
+    {
+      "id": "MLA1212",
+      "title": "Playstation 4 Slim 1tb",
+      "price": 1099999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1212",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Consolas y Videojuegos" },
+        { "name": "Consolas" }
+      ]
+    },
+    {
+      "id": "MLA1213",
+      "title": "Joystick Ps5 Dualsense",
+      "price": 139999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1213",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Consolas y Videojuegos" },
+        { "name": "Accesorios" }
+      ]
+    },
+    {
+      "id": "MLA1214",
+      "title": "Joystick Xbox Series Original",
+      "price": 129999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1214",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Consolas y Videojuegos" },
+        { "name": "Accesorios" }
+      ]
+    },
+    {
+      "id": "MLA1215",
+      "title": "Base Carga Dual Ps5",
+      "price": 69999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1215",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Consolas y Videojuegos" },
+        { "name": "Accesorios" }
+      ]
+    },
+    {
+      "id": "MLA1216",
+      "title": "Aspiradora Trineo Philips 1800w",
+      "price": 349999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1216",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA1217",
+      "title": "Aspiradora Vertical Inalambrica",
+      "price": 289999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1217",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA1218",
+      "title": "Robot Aspirador Xiaomi Vacuum",
+      "price": 599999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1218",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA1219",
+      "title": "Aspiradora Liliana 1600w",
+      "price": 219999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1219",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA1220",
+      "title": "Aspiradora Industrial 30 Litros",
+      "price": 479999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1220",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+
+    {
+      "id": "MLA1221",
+      "title": "Hidrolavadora Karcher K2",
+      "price": 399999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1221",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA1222",
+      "title": "Hidrolavadora Black And Decker",
+      "price": 429999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1222",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA1223",
+      "title": "Hidrolavadora Electrica 1400w",
+      "price": 319999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1223",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+
+    {
+      "id": "MLA1224",
+      "title": "Mopa Electrica Giratoria",
+      "price": 199999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1224",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA1225",
+      "title": "Trapeador Spray Microfibra",
+      "price": 49999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1225",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+
+    {
+      "id": "MLA1226",
+      "title": "Aspiradora Mano Inalambrica",
+      "price": 149999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1226",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA1227",
+      "title": "Robot Aspirador Con Mopa",
+      "price": 649999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1227",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+
+    {
+      "id": "MLA1228",
+      "title": "Escoba Electrica Recargable",
+      "price": 179999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1228",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA1229",
+      "title": "Aspiradora Con Bolsa 2000w",
+      "price": 269999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1229",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA1230",
+      "title": "Hidrolavadora Alta Presion 1800w",
+      "price": 459999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1230",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Hogar y Electrodomésticos" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA1231",
+      "title": "Perfume Mujer Chanel Chance 100ml",
+      "price": 219999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1231",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1232",
+      "title": "Perfume Mujer Dior J'adore 100ml",
+      "price": 239999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1232",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1233",
+      "title": "Perfume Mujer Carolina Herrera Good Girl",
+      "price": 259999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1233",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1234",
+      "title": "Perfume Mujer Yves Saint Laurent Libre",
+      "price": 249999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1234",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1235",
+      "title": "Perfume Mujer Lancôme La Vie Est Belle",
+      "price": 269999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1235",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1236",
+      "title": "Perfume Mujer Paco Rabanne Olympea",
+      "price": 229999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1236",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1237",
+      "title": "Perfume Mujer Versace Bright Crystal",
+      "price": 219999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1237",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1238",
+      "title": "Labial Liquido Maybelline Matte",
+      "price": 24999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1238",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1239",
+      "title": "Labial Mac Ruby Woo",
+      "price": 39999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1239",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1240",
+      "title": "Labial Revlon Colorstay",
+      "price": 27999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1240",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1241",
+      "title": "Mascara De Pestañas Maybelline Sky High",
+      "price": 29999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1241",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1242",
+      "title": "Mascara De Pestañas L'Oréal Volume",
+      "price": 27999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1242",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1243",
+      "title": "Esponja Maquillaje Beauty Blender",
+      "price": 19999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1243",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1244",
+      "title": "Esponja Maquillaje Set X3",
+      "price": 15999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1244",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1245",
+      "title": "Rubor Compacto Maybelline",
+      "price": 24999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1245",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1246",
+      "title": "Rubor Liquido Rare Beauty",
+      "price": 34999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1246",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1247",
+      "title": "Corrector Liquido L'Oréal",
+      "price": 22999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1247",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1248",
+      "title": "Iluminador Compacto Mac",
+      "price": 45999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1248",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1249",
+      "title": "Base Liquida Maybelline Fit Me",
+      "price": 31999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1249",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1250",
+      "title": "Polvo Compacto Translucido",
+      "price": 19999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1250",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1251",
+      "title": "Set Brochas Maquillaje Profesional X10",
+      "price": 45999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1251",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1252",
+      "title": "Brocha Kabuki Para Base",
+      "price": 19999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1252",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1253",
+      "title": "Brocha Para Rubor Y Contorno",
+      "price": 17999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1253",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1254",
+      "title": "Base Liquida L'Oréal Infallible",
+      "price": 37999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1254",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1255",
+      "title": "Base Liquida Mac Studio Fix",
+      "price": 59999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1255",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1256",
+      "title": "Corrector Liquido Maybelline Fit Me",
+      "price": 22999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1256",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1257",
+      "title": "Corrector Alta Cobertura Revlon",
+      "price": 24999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1257",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1258",
+      "title": "Arqueador De Pestañas Profesional",
+      "price": 15999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1258",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1259",
+      "title": "Neceser Maquillaje Impermeable",
+      "price": 29999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1259",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1260",
+      "title": "Neceser Grande Para Maquillaje",
+      "price": 34999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1260",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1261",
+      "title": "Tinta De Labios Larga Duracion",
+      "price": 24999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1261",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1262",
+      "title": "Tinta De Labios Romand",
+      "price": 27999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1262",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1263",
+      "title": "Paleta Sombras Nude X12",
+      "price": 39999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1263",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1264",
+      "title": "Paleta Sombras Urban Colors",
+      "price": 45999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1264",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1265",
+      "title": "Iluminador Compacto Golden Glow",
+      "price": 27999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1265",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1266",
+      "title": "Iluminador Liquido Rare Beauty",
+      "price": 49999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1266",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1267",
+      "title": "Delineador Liquido Negro Maybelline",
+      "price": 21999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1267",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1268",
+      "title": "Delineador En Gel Waterproof",
+      "price": 24999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1268",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1269",
+      "title": "Lapiz Delineador Marron Ojos",
+      "price": 15999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1269",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1270",
+      "title": "Mascara Pestañas Waterproof",
+      "price": 27999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1270",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1271",
+      "title": "Mascara Alargadora De Pestañas",
+      "price": 25999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1271",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1272",
+      "title": "Paleta Sombras Tonos Rosados",
+      "price": 38999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1272",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1273",
+      "title": "Paleta Sombras Ojos X18 Colores",
+      "price": 45999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1273",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1274",
+      "title": "Lapiz Para Cejas Waterproof",
+      "price": 19999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1274",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1275",
+      "title": "Gel Fijador De Cejas Transparente",
+      "price": 22999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1275",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1276",
+      "title": "Pestañas Postizas Naturales",
+      "price": 17999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1276",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1277",
+      "title": "Limpiador Facial Espuma Suave",
+      "price": 24999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1277",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1278",
+      "title": "Agua Micelar Desmaquillante",
+      "price": 21999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1278",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1279",
+      "title": "Serum Facial Acido Hialuronico",
+      "price": 31999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1279",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1280",
+      "title": "Serum Vitamina C Iluminador",
+      "price": 34999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1280",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1281",
+      "title": "Labial Kiko Milano Velvet Passion",
+      "price": 34999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1281",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1282",
+      "title": "Labial Kiko Milano Unlimited Double Touch",
+      "price": 37999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1282",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1283",
+      "title": "Labial Kiko Milano Smart Fusion",
+      "price": 29999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1283",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1284",
+      "title": "Labial Kiko Milano Creamy Colour",
+      "price": 32999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1284",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1285",
+      "title": "Gloss Labial Sephora Collection Shine",
+      "price": 27999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1285",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1286",
+      "title": "Gloss Sephora Collection Plumping",
+      "price": 31999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1286",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1287",
+      "title": "Gloss Labial Sephora Ultra Shine",
+      "price": 29999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1287",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1288",
+      "title": "Rimel Maybelline Lash Sensational",
+      "price": 29999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1288",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1289",
+      "title": "Rimel Maybelline Sky High",
+      "price": 31999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1289",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1290",
+      "title": "Rimel Maybelline Colossal Volumen",
+      "price": 27999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1290",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1291",
+      "title": "Labial Kiko Milano Gossamer Emotion",
+      "price": 32999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1291",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1292",
+      "title": "Labial Kiko Milano Jelly Stylo",
+      "price": 30999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1292",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1293",
+      "title": "Labial Kiko Milano Smart Satin",
+      "price": 28999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1293",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1294",
+      "title": "Gloss Sephora Collection Outrageous",
+      "price": 32999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1294",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1295",
+      "title": "Gloss Sephora Collection Moisturizing",
+      "price": 29999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1295",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1296",
+      "title": "Gloss Sephora Collection Clear Shine",
+      "price": 27999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1296",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1297",
+      "title": "Rimel Maybelline Sky High Waterproof",
+      "price": 33999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1297",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1298",
+      "title": "Rimel Maybelline Lash Sensational Waterproof",
+      "price": 32999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1298",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1299",
+      "title": "Rimel Maybelline The Falsies",
+      "price": 31999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1299",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+
+    {
+      "id": "MLA1300",
+      "title": "Rimel Maybelline Great Lash",
+      "price": 25999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1300",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1301",
+      "title": "Cartera Mujer Cuero Ecologico Negra",
+      "price": 89999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1301",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Moda" },
+        { "name": "Accesorios" },
+        { "name": "Carteras y Bolsos" }
+      ]
+    },
+    {
+      "id": "MLA1302",
+      "title": "Cartera Mujer Bandolera Beige",
+      "price": 74999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1302",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Moda" },
+        { "name": "Accesorios" },
+        { "name": "Carteras y Bolsos" }
+      ]
+    },
+    {
+      "id": "MLA1303",
+      "title": "Bolso Mujer Tote Grande",
+      "price": 99999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1303",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Moda" },
+        { "name": "Accesorios" },
+        { "name": "Carteras y Bolsos" }
+      ]
+    },
+    {
+      "id": "MLA1304",
+      "title": "Bolso Mujer Cuero Sintetico Marron",
+      "price": 109999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1304",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Moda" },
+        { "name": "Accesorios" },
+        { "name": "Carteras y Bolsos" }
+      ]
+    },
+
+    {
+      "id": "MLA1305",
+      "title": "Top Mujer Basico Algodon Blanco",
+      "price": 24999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1305",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Moda" },
+        { "name": "Ropa Mujer" },
+        { "name": "Tops" }
+      ]
+    },
+    {
+      "id": "MLA1306",
+      "title": "Top Mujer Corto Negro",
+      "price": 27999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1306",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Moda" },
+        { "name": "Ropa Mujer" },
+        { "name": "Tops" }
+      ]
+    },
+    {
+      "id": "MLA1307",
+      "title": "Top Mujer Satinado Para Salir",
+      "price": 34999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1307",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Moda" },
+        { "name": "Ropa Mujer" },
+        { "name": "Tops" }
+      ]
+    },
+
+    {
+      "id": "MLA1308",
+      "title": "Vestido Mujer Corto Noche",
+      "price": 69999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1308",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Moda" },
+        { "name": "Ropa Mujer" },
+        { "name": "Vestidos" }
+      ]
+    },
+    {
+      "id": "MLA1309",
+      "title": "Vestido Mujer Ajustado Negro",
+      "price": 74999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1309",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Moda" },
+        { "name": "Ropa Mujer" },
+        { "name": "Vestidos" }
+      ]
+    },
+    {
+      "id": "MLA1310",
+      "title": "Vestido Mujer Largo Elegante",
+      "price": 119999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1310",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Moda" },
+        { "name": "Ropa Mujer" },
+        { "name": "Vestidos" }
+      ]
+    },
+    {
+      "id": "MLA1311",
+      "title": "Crema Facial Nivea Soft Hidratante",
+      "price": 18999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1311",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1312",
+      "title": "Crema Facial Nivea Q10 Antiarrugas",
+      "price": 25999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1312",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1313",
+      "title": "Crema Facial L'Oréal Revitalift",
+      "price": 34999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1313",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1314",
+      "title": "Crema Facial L'Oréal Hidra Total 5",
+      "price": 28999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1314",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1315",
+      "title": "Crema Facial Neutrogena Hydro Boost",
+      "price": 32999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1315",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1316",
+      "title": "Crema Facial Neutrogena Anti Acne",
+      "price": 27999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1316",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1317",
+      "title": "Crema Facial La Roche Posay Effaclar",
+      "price": 49999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1317",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1318",
+      "title": "Crema Facial La Roche Posay Hydraphase",
+      "price": 52999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1318",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1319",
+      "title": "Crema Facial Eucerin Hyaluron Filler",
+      "price": 54999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1319",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1320",
+      "title": "Crema Facial Vichy Liftactiv",
+      "price": 57999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1320",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Maquillaje" },
+        { "name": "Rostro" }
+      ]
+    },
+    {
+      "id": "MLA1321",
+      "title": "Perfume Hombre Dior Sauvage 100ml",
+      "price": 259999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1321",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1322",
+      "title": "Perfume Hombre Armani Acqua Di Gio 100ml",
+      "price": 249999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1322",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1323",
+      "title": "Perfume Hombre Paco Rabanne Invictus",
+      "price": 239999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1323",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1324",
+      "title": "Perfume Hombre Versace Eros 100ml",
+      "price": 229999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1324",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1325",
+      "title": "Perfume Hombre Hugo Boss Bottled",
+      "price": 199999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1325",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+
+    {
+      "id": "MLA1326",
+      "title": "Crema Facial Hombre Nivea Men",
+      "price": 17999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1326",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1327",
+      "title": "Crema After Shave Nivea Men Sensitive",
+      "price": 19999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1327",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1328",
+      "title": "Crema Facial Hombre L'Oréal Men Expert",
+      "price": 26999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1328",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1329",
+      "title": "Crema Hidratante Hombre Eucerin Men",
+      "price": 38999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1329",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+
+    {
+      "id": "MLA1330",
+      "title": "Desodorante Axe Dark Temptation",
+      "price": 8999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1330",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1331",
+      "title": "Desodorante Rexona Men Clinical",
+      "price": 12999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1331",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1332",
+      "title": "Desodorante Dove Men Care",
+      "price": 11999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1332",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1333",
+      "title": "Desodorante Old Spice Original",
+      "price": 10999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1333",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+
+    {
+      "id": "MLA1334",
+      "title": "Afeitadora Philips OneBlade",
+      "price": 79999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1334",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1335",
+      "title": "Afeitadora Philips Series 3000",
+      "price": 99999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1335",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1336",
+      "title": "Afeitadora Braun Series 3",
+      "price": 119999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1336",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1337",
+      "title": "Maquina Cortar Pelo Wahl Home",
+      "price": 89999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1337",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1338",
+      "title": "Espuma Afeitar Gillette Sensitive",
+      "price": 10999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1338",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1339",
+      "title": "Perfume Hombre Calvin Klein One 100ml",
+      "price": 189999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1339",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1340",
+      "title": "Perfume Hombre Hugo Boss The Scent",
+      "price": 229999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1340",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1341",
+      "title": "Perfume Hombre Jean Paul Gaultier Le Male",
+      "price": 239999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1341",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+
+    {
+      "id": "MLA1342",
+      "title": "Crema Facial Hombre L'Oreal Men Expert Hydra",
+      "price": 27999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1342",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1343",
+      "title": "Crema Facial Hombre Nivea Men Anti Age",
+      "price": 25999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1343",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1344",
+      "title": "Crema Hidratante Hombre Dove Men Care",
+      "price": 23999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1344",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+
+    {
+      "id": "MLA1345",
+      "title": "Desodorante Old Spice Deep Sea",
+      "price": 11999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1345",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1346",
+      "title": "Desodorante Rexona Men Invisible",
+      "price": 12999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1346",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1347",
+      "title": "Desodorante Axe Black",
+      "price": 9999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1347",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1348",
+      "title": "Desodorante Adidas Ice Dive",
+      "price": 10999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1348",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+
+    {
+      "id": "MLA1349",
+      "title": "Afeitadora Gillette Fusion Proglide",
+      "price": 34999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1349",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1350",
+      "title": "Repuestos Gillette Mach3 X4",
+      "price": 27999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1350",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+
+    {
+      "id": "MLA1351",
+      "title": "After Shave Gillette Sensitive",
+      "price": 14999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1351",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1352",
+      "title": "Gel Afeitar Nivea Men Protect",
+      "price": 13999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1352",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1353",
+      "title": "Perfume Hombre Dolce Gabbana The One",
+      "price": 229999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1353",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1354",
+      "title": "Perfume Hombre Yves Saint Laurent Y",
+      "price": 249999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1354",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1355",
+      "title": "Perfume Hombre Afnan 9pm",
+      "price": 159999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1355",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+
+    {
+      "id": "MLA1356",
+      "title": "Crema Facial Hombre Vichy Homme",
+      "price": 48999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1356",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1357",
+      "title": "Crema Facial Hombre La Roche Posay Men",
+      "price": 52999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1357",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+
+    {
+      "id": "MLA1358",
+      "title": "Desodorante Unisex Dove Original",
+      "price": 9999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1358",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1359",
+      "title": "Desodorante Unisex Rexona Cotton Dry",
+      "price": 10999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1359",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+
+    {
+      "id": "MLA1360",
+      "title": "Aceite Para Barba Bulldog Original",
+      "price": 19999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1360",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1361",
+      "title": "Balsamo Para Barba Nivea Men",
+      "price": 17999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1361",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+
+    {
+      "id": "MLA1362",
+      "title": "Shampoo Hombre Head And Shoulders Men",
+      "price": 14999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1362",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1363",
+      "title": "Shampoo Hombre Clear Men Anticaspa",
+      "price": 13999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1363",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+
+    {
+      "id": "MLA1364",
+      "title": "Gel De Ducha Hombre Axe Black",
+      "price": 11999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1364",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1365",
+      "title": "Gel De Ducha Hombre Dove Men Care",
+      "price": 12999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1365",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Belleza y Cuidado Personal" },
+        { "name": "Cuidado Personal" },
+        { "name": "Hombre" }
+      ]
+    },
+    {
+      "id": "MLA1366",
+      "title": "Cortadora De Pasto Black And Decker 1200w",
+      "price": 349999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1366",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Jardinería" },
+        { "name": "Cortadoras de Pasto" }
+      ]
+    },
+    {
+      "id": "MLA1367",
+      "title": "Cortadora De Pasto Bosch Arm 32",
+      "price": 399999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1367",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Jardinería" },
+        { "name": "Cortadoras de Pasto" }
+      ]
+    },
+    {
+      "id": "MLA1368",
+      "title": "Cortadora De Pasto Gamma 1400w",
+      "price": 319999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1368",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Jardinería" },
+        { "name": "Cortadoras de Pasto" }
+      ]
+    },
+    {
+      "id": "MLA1369",
+      "title": "Cortadora De Pasto Makita Electrica",
+      "price": 459999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1369",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Jardinería" },
+        { "name": "Cortadoras de Pasto" }
+      ]
+    },
+    {
+      "id": "MLA1370",
+      "title": "Cortadora De Pasto Stihl Nafta",
+      "price": 699999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1370",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Jardinería" },
+        { "name": "Cortadoras de Pasto" }
+      ]
+    },
+    {
+      "id": "MLA1371",
+      "title": "Cortadora De Pasto Husqvarna 21 Pulgadas",
+      "price": 899999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1371",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Jardinería" },
+        { "name": "Cortadoras de Pasto" }
+      ]
+    },
+    {
+      "id": "MLA1372",
+      "title": "Cortadora De Pasto Hyundai Electrica",
+      "price": 369999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1372",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Jardinería" },
+        { "name": "Cortadoras de Pasto" }
+      ]
+    },
+    {
+      "id": "MLA1373",
+      "title": "Cortadora De Pasto Petri Electrica",
+      "price": 289999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1373",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Jardinería" },
+        { "name": "Cortadoras de Pasto" }
+      ]
+    },
+    {
+      "id": "MLA1374",
+      "title": "Cortadora De Pasto Tramontina 1300w",
+      "price": 339999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1374",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Jardinería" },
+        { "name": "Cortadoras de Pasto" }
+      ]
+    },
+    {
+      "id": "MLA1375",
+      "title": "Cortadora De Pasto Einhell Electrica",
+      "price": 359999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1375",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Jardinería" },
+        { "name": "Cortadoras de Pasto" }
+      ]
+    },
+    {
+      "id": "MLA1376",
+      "title": "Taladro Percutor Bosch 650w",
+      "price": 189999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1376",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Taladros" }
+      ]
+    },
+    {
+      "id": "MLA1377",
+      "title": "Taladro Inalambrico Makita 18v",
+      "price": 299999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1377",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Taladros" }
+      ]
+    },
+    {
+      "id": "MLA1378",
+      "title": "Atornillador Inalambrico Black And Decker",
+      "price": 159999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1378",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Atornilladores" }
+      ]
+    },
+    {
+      "id": "MLA1379",
+      "title": "Atornillador Inalambrico Stanley 12v",
+      "price": 179999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1379",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Atornilladores" }
+      ]
+    },
+
+    {
+      "id": "MLA1380",
+      "title": "Amoladora Angular Bosch 850w",
+      "price": 169999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1380",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Amoladoras" }
+      ]
+    },
+    {
+      "id": "MLA1381",
+      "title": "Amoladora Angular Makita 710w",
+      "price": 199999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1381",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Amoladoras" }
+      ]
+    },
+
+    {
+      "id": "MLA1382",
+      "title": "Sierra Circular Bosch 7 1/4",
+      "price": 349999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1382",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Sierras" }
+      ]
+    },
+    {
+      "id": "MLA1383",
+      "title": "Sierra Caladora Black And Decker",
+      "price": 189999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1383",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Sierras" }
+      ]
+    },
+
+    {
+      "id": "MLA1384",
+      "title": "Hidrolavadora Karcher K3",
+      "price": 499999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1384",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA1385",
+      "title": "Compresor De Aire Gamma 24l",
+      "price": 459999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1385",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Compresores" }
+      ]
+    },
+
+    {
+      "id": "MLA1386",
+      "title": "Soldadora Inverter Lusqtoff 200a",
+      "price": 379999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1386",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Soldadoras" }
+      ]
+    },
+    {
+      "id": "MLA1387",
+      "title": "Soldadora Inverter Stanley",
+      "price": 419999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1387",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Soldadoras" }
+      ]
+    },
+
+    {
+      "id": "MLA1388",
+      "title": "Generador Electrico Gamma 2500w",
+      "price": 899999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1388",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Generadores" }
+      ]
+    },
+    {
+      "id": "MLA1389",
+      "title": "Generador Electrico Hyundai 3500w",
+      "price": 1199999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1389",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Generadores" }
+      ]
+    },
+    {
+      "id": "MLA1390",
+      "title": "Taladro Percutor DeWalt 710w",
+      "price": 229999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1390",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Taladros" }
+      ]
+    },
+    {
+      "id": "MLA1391",
+      "title": "Taladro Inalambrico Bosch 18v",
+      "price": 319999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1391",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Taladros" }
+      ]
+    },
+    {
+      "id": "MLA1392",
+      "title": "Atornillador Inalambrico Makita 12v",
+      "price": 279999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1392",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Atornilladores" }
+      ]
+    },
+    {
+      "id": "MLA1393",
+      "title": "Atornillador Inalambrico DeWalt 20v",
+      "price": 349999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1393",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Atornilladores" }
+      ]
+    },
+
+    {
+      "id": "MLA1394",
+      "title": "Amoladora Angular DeWalt 900w",
+      "price": 219999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1394",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Amoladoras" }
+      ]
+    },
+    {
+      "id": "MLA1395",
+      "title": "Amoladora Angular Makita 9557",
+      "price": 239999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1395",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Amoladoras" }
+      ]
+    },
+
+    {
+      "id": "MLA1396",
+      "title": "Sierra Circular DeWalt 7 1/4",
+      "price": 429999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1396",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Sierras" }
+      ]
+    },
+    {
+      "id": "MLA1397",
+      "title": "Sierra Caladora Bosch Profesional",
+      "price": 319999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1397",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Sierras" }
+      ]
+    },
+
+    {
+      "id": "MLA1398",
+      "title": "Hidrolavadora Karcher K5",
+      "price": 699999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1398",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Limpieza" }
+      ]
+    },
+    {
+      "id": "MLA1399",
+      "title": "Aspiradora Industrial Karcher 20l",
+      "price": 559999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1399",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Limpieza" }
+      ]
+    },
+
+    {
+      "id": "MLA1400",
+      "title": "Motosierra Stihl Ms 180",
+      "price": 849999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1400",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Jardinería" }
+      ]
+    },
+    {
+      "id": "MLA1401",
+      "title": "Motosierra Husqvarna 120",
+      "price": 899999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1401",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Jardinería" }
+      ]
+    },
+    {
+      "id": "MLA1402",
+      "title": "Rotomartillo Bosch Profesional 800w",
+      "price": 379999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1402",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Rotomartillos" }
+      ]
+    },
+    {
+      "id": "MLA1403",
+      "title": "Rotomartillo DeWalt 20v Inalambrico",
+      "price": 549999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1403",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Rotomartillos" }
+      ]
+    },
+
+    {
+      "id": "MLA1404",
+      "title": "Sierra Sensitiva Makita 355mm",
+      "price": 489999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1404",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Sierras" }
+      ]
+    },
+    {
+      "id": "MLA1405",
+      "title": "Sierra Ingletadora Bosch 10 Pulgadas",
+      "price": 629999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1405",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Sierras" }
+      ]
+    },
+
+    {
+      "id": "MLA1406",
+      "title": "Lijadora Orbital Black And Decker",
+      "price": 199999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1406",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Lijadoras" }
+      ]
+    },
+    {
+      "id": "MLA1407",
+      "title": "Lijadora Orbital Bosch 240w",
+      "price": 239999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1407",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Herramientas Electricas" },
+        { "name": "Lijadoras" }
+      ]
+    },
+
+    {
+      "id": "MLA1408",
+      "title": "Compresor De Aire Stanley 50l",
+      "price": 599999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1408",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Compresores" }
+      ]
+    },
+    {
+      "id": "MLA1409",
+      "title": "Compresor De Aire Einhell 24l",
+      "price": 449999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1409",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Compresores" }
+      ]
+    },
+
+    {
+      "id": "MLA1410",
+      "title": "Soldadora Inverter Esab 160a",
+      "price": 699999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1410",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Soldadoras" }
+      ]
+    },
+    {
+      "id": "MLA1411",
+      "title": "Soldadora Inverter Lincoln Electric",
+      "price": 749999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1411",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Soldadoras" }
+      ]
+    },
+
+    {
+      "id": "MLA1412",
+      "title": "Generador Electrico Honda 3000w",
+      "price": 1499999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1412",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Generadores" }
+      ]
+    },
+    {
+      "id": "MLA1413",
+      "title": "Generador Electrico Briggs Stratton",
+      "price": 1299999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1413",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [
+        { "name": "Herramientas" },
+        { "name": "Generadores" }
+      ]
+    },
+    {
+      "id": "MLA1414",
+      "title": "Lapicera BIC Cristal Azul",
+      "price": 1999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1414",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1415",
+      "title": "Lapicera Gel Pilot G2 Negra",
+      "price": 4999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1415",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1416",
+      "title": "Set Lapices De Colores Faber Castell",
+      "price": 15999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1416",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1417",
+      "title": "Resaltadores Stabilo Boss X4",
+      "price": 19999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1417",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1418",
+      "title": "Cuaderno Rivadavia A4 Tapa Dura",
+      "price": 12999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1418",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1419",
+      "title": "Repuesto Hojas A4 Rayado X96",
+      "price": 8999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1419",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1420",
+      "title": "Cartuchera Escolar Grande",
+      "price": 14999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1420",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1421",
+      "title": "Mochila Escolar Reforzada",
+      "price": 59999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1421",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1422",
+      "title": "Corrector Cinta Pelikan",
+      "price": 6999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1422",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1423",
+      "title": "Goma De Borrar Maped",
+      "price": 1999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1423",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1424",
+      "title": "Sacapuntas Maped Metal",
+      "price": 2499,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1424",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1425",
+      "title": "Regla Escolar 30cm",
+      "price": 1999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1425",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1426",
+      "title": "Marcadores Sharpie Permanentes X4",
+      "price": 16999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1426",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1427",
+      "title": "Marcadores Stabilo Point 88 X10",
+      "price": 23999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1427",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1428",
+      "title": "Marcadores Faber Castell X12",
+      "price": 19999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1428",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+
+    {
+      "id": "MLA1429",
+      "title": "Tempera Alba Escolar X6",
+      "price": 12999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1429",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1430",
+      "title": "Acuarelas Pelikan Escolar X12",
+      "price": 14999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1430",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+
+    {
+      "id": "MLA1431",
+      "title": "Plasticola Escolar Pritt 250g",
+      "price": 10999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1431",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1432",
+      "title": "Pegamento En Barra Pritt 21g",
+      "price": 7999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1432",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1433",
+      "title": "Pegamento Vinilico Pelikan 250g",
+      "price": 8999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1433",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+
+    {
+      "id": "MLA1434",
+      "title": "Tijera Escolar Maped 13cm",
+      "price": 6999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1434",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1435",
+      "title": "Tijera Escolar Maped 16cm",
+      "price": 7999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1435",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+
+    {
+      "id": "MLA1436",
+      "title": "Hojas Canson A4 Color X20",
+      "price": 8999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1436",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1437",
+      "title": "Cartulina Escolar Éxito X10",
+      "price": 5999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1437",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+
+    {
+      "id": "MLA1438",
+      "title": "Carpeta Escolar A4 Con Anillos",
+      "price": 18999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1438",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1439",
+      "title": "Carpeta Rivadavia 3 Anillos",
+      "price": 21999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1439",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+
+    {
+      "id": "MLA1440",
+      "title": "Calculadora Casio Escolar",
+      "price": 59999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1440",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1441",
+      "title": "Calculadora Casio Cientifica FX",
+      "price": 79999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1441",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1442",
+      "title": "Lapiz Negro Faber Castell Grip",
+      "price": 2499,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1442",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1443",
+      "title": "Lapiz Negro Bic Evolution",
+      "price": 1999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1443",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+
+    {
+      "id": "MLA1444",
+      "title": "Boligrafo Bic Cristal Negro",
+      "price": 1999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1444",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1445",
+      "title": "Boligrafo Pilot G2 Azul",
+      "price": 5499,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1445",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+
+    {
+      "id": "MLA1446",
+      "title": "Marcadores Para Pizarra Bic X4",
+      "price": 15999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1446",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1447",
+      "title": "Marcadores Para Pizarra Faber Castell",
+      "price": 17999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1447",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+
+    {
+      "id": "MLA1448",
+      "title": "Cuaderno Universitario Rivadavia",
+      "price": 16999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1448",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1449",
+      "title": "Cuaderno Universitario Tilibra",
+      "price": 18999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1449",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+
+    {
+      "id": "MLA1450",
+      "title": "Repuesto Hojas Rivadavia A4 Rayado",
+      "price": 9999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1450",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Cordoba" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1451",
+      "title": "Repuesto Hojas Gloria A4 Cuadriculado",
+      "price": 9499,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1451",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Rosario" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+
+    {
+      "id": "MLA1452",
+      "title": "Carpeta Escolar Plastica Filgo",
+      "price": 15999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1452",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Santa Fe" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1453",
+      "title": "Carpeta Escolar A4 Tilibra",
+      "price": 17999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1453",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Mendoza" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+
+    {
+      "id": "MLA1454",
+      "title": "Compas Escolar Maped Precision",
+      "price": 12999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1454",
+      "shipping": { "free_shipping": false },
+      "address": { "state_name": "Capital Federal" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
+    },
+    {
+      "id": "MLA1455",
+      "title": "Set Geometria Maped X4",
+      "price": 9999,
+      "thumbnail": "https://via.placeholder.com/300x300.png?text=MLA1455",
+      "shipping": { "free_shipping": true },
+      "address": { "state_name": "Buenos Aires" },
+      "category_path_from_root": [{ "name": "Libreria" }, { "name": "Escuela" }]
     }
   ]
 }

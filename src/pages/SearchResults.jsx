@@ -6,8 +6,8 @@ import BreadCrumb from '../components/Breadcrumb'
 import { useNavigate, useSearchParams } from 'react-router-dom'
 import {
   normalize,
-  isVehicleIntent,
-  isVehicleCategory,
+  isCarIntent,
+  isCarCategory,
   buildSearchText,
   isCameraIntent,
   isSecurityModifier,
@@ -15,6 +15,25 @@ import {
   extractCarBrand,
   matchesQuery,
   isCameraProduct,
+  isClothingIntent,
+  isClothingCategory,
+  getClothingSubcategory,
+  isClothingSubcategory,
+  isMeatIntent,
+  isMeatCategory,
+  getMeatSubcategory,
+  isMeatSubcategory,
+  isBikeIntent,
+  isBikeCategory,
+  getBikeSubcategory,
+  isBikeSubcategory,
+  isPhoneIntent,
+  isPhoneProduct,
+  parsePhoneQuery,
+  matchesPhoneSpecs,
+  isMotoIntent,
+  isMotoCategory,
+  extractMotoBrand,
 } from '../helpers/helpers.js'
 
 const SearchResults = () => {
@@ -25,7 +44,7 @@ const SearchResults = () => {
 
   const all = productsData.results
 
-  // 1) Búsqueda general (lo que ya tenías, pero mejor: con buildSearchText)
+  // 1) Búsqueda general 
   const generalMatches = all.filter((p) => {
     if (!q) return true
     return matchesQuery(p, q)
@@ -34,9 +53,25 @@ const SearchResults = () => {
   let filteredProducts = generalMatches
 
   if (q) {
-    // A) INTENCIÓN: VEHÍCULOS (autos por marca)
-    if (isVehicleIntent(q)) {
-      let vehicleMatches = generalMatches.filter((p) => isVehicleCategory(p))
+    // INTENCION: MOTOS
+    if (isMotoIntent(q)) {
+      let motoMatches = all.filter((p) => isMotoCategory(p))
+
+      const brand = extractMotoBrand(q)
+      if (brand) {
+        motoMatches = motoMatches.filter((p) =>
+          buildSearchText(p).includes(brand),
+        )
+      }
+
+      if (motoMatches.length > 0) {
+        filteredProducts = motoMatches
+      }
+    }
+
+    // INTENCIÓN: AUTOS (autos por marca)
+    if (isCarIntent(q)) {
+      let vehicleMatches = generalMatches.filter((p) => isCarCategory(p))
 
       // Si hay marca en la query, filtramos dentro de autos
       const brand = extractCarBrand(q)
@@ -51,7 +86,20 @@ const SearchResults = () => {
       }
     }
 
-    // B) INTENCIÓN: CÁMARAS
+    // INTENCIÓN: BICICLETAS (por categoría real)
+    if (isBikeIntent(q)) {
+      const subcat = getBikeSubcategory(q)
+
+      const bikeMatches = all
+        .filter((p) => isBikeCategory(p))
+        .filter((p) => isBikeSubcategory(p, subcat))
+
+      if (bikeMatches.length > 0) {
+        filteredProducts = bikeMatches
+      }
+    }
+
+    // INTENCIÓN: CÁMARAS
     if (isCameraIntent(q)) {
       const wantsSecurity = isSecurityModifier(q)
 
@@ -66,6 +114,46 @@ const SearchResults = () => {
 
       if (cameraMatches.length > 0) {
         filteredProducts = cameraMatches
+      }
+    }
+
+    // INTENCIÓN: ROPA (por categoría real + subcategoría si aplica)
+    if (isClothingIntent(q)) {
+      const subcat = getClothingSubcategory(q) // ej: "pantalones"
+      const clothingMatches = all
+        .filter((p) => isClothingCategory(p))
+        .filter((p) => isClothingSubcategory(p, subcat))
+
+      if (clothingMatches.length > 0) {
+        filteredProducts = clothingMatches
+      }
+    }
+
+    // INTENCIÓN: CARNES (por categoría real + subcategoría si aplica)
+    if (isMeatIntent(q)) {
+      const subcat = getMeatSubcategory(q) // ej: "cordero"
+      const meatMatches = all
+        .filter((p) => isMeatCategory(p))
+        .filter((p) => isMeatSubcategory(p, subcat))
+
+      if (meatMatches.length > 0) {
+        filteredProducts = meatMatches
+      }
+    }
+
+    // INTENCIÓN: CELULARES / TECNOLOGÍA (phones)
+    if (isPhoneIntent(q)) {
+      // 1) base: solo productos que son teléfonos
+      let phoneMatches = all.filter((p) => isPhoneProduct(p))
+
+      // 2) specs genéricos desde la query (marca, modelo, pro/max/mini, 5g, gb, etc.)
+      const specs = parsePhoneQuery(q)
+
+      // 3) filtra por specs (sirve para iPhone, Xiaomi, Huawei, etc.)
+      phoneMatches = phoneMatches.filter((p) => matchesPhoneSpecs(p, specs))
+
+      if (phoneMatches.length > 0) {
+        filteredProducts = phoneMatches
       }
     }
   }
