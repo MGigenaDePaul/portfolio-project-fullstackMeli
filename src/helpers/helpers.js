@@ -645,3 +645,29 @@ export const matchesPhoneSpecs = (product, specs) => {
 
   return true
 }
+
+// ----------------------------- tecnologia > tipo de producto -------------------------------------------------
+export const isTechIntent = (q = '') => {
+  const tokens = q
+    .toLowerCase()
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .split(/\s+/)
+
+  const techKeywords = new Set([
+    'auriculares',
+    'parlantes',
+    'smartwatch',
+    'smartwatches',
+    'laptop',
+    'laptops',
+    'notebook',
+    'notebooks',
+    'celular',
+    'celulares',
+    'consola',
+    'consolas',
+  ])
+
+  return tokens.some((t) => techKeywords.has(t))
+}

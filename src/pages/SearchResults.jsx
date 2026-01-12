@@ -34,6 +34,7 @@ import {
   isMotoIntent,
   isMotoCategory,
   extractMotoBrand,
+  isTechIntent,
 } from '../helpers/helpers.js'
 
 const SearchResults = () => {
@@ -44,7 +45,7 @@ const SearchResults = () => {
 
   const all = productsData.results
 
-  // 1) Búsqueda general 
+  // 1) Búsqueda general
   const generalMatches = all.filter((p) => {
     if (!q) return true
     return matchesQuery(p, q)
