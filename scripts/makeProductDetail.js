@@ -15,7 +15,7 @@ if (!inputProducts) {
 const idNum = (id) => Number(String(id).replace('MLA', ''))
 const inRange = (p) => {
   const n = idNum(p.id)
-  return n >= 0 && n <= 1500 // aca pongo el rango de productos nuevos por id que voy a copiar
+  return n >= 0 && n <= 1530 // aca pongo el rango de productos nuevos por id que voy a copiar
 }
 
 const normalize = (s = '') =>

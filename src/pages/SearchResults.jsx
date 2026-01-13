@@ -44,7 +44,7 @@ const SearchResults = () => {
   const q = normalize(query.trim())
 
   const all = productsData.results
-
+  console.log('length products:', all.length)
   // 1) Búsqueda general
   const generalMatches = all.filter((p) => {
     if (!q) return true
