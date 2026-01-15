@@ -5,9 +5,13 @@ import process from 'process'
 const inputProducts = process.argv[2]
 const outputDetail = process.argv[3] || 'src/data/productDetail.json'
 
+// Flags opcionales
+const REFRESH_DESCRIPTION = process.argv.includes('--refresh-description') // si querés regenerar description cuando cambia title
+const REFRESH_CONDITION = process.argv.includes('--refresh-condition') // si querés forzar condition='new' siempre
+
 if (!inputProducts) {
   console.error(
-    'Usage: node scripts/makeProductDetail.js <products.json> <productDetail.json>',
+    'Usage: node scripts/makeProductDetail.js <products.json> <productDetail.json> [--refresh-description] [--refresh-condition]',
   )
   process.exit(1)
 }
@@ -31,7 +35,11 @@ const soldQty = (p) => {
   const t = normalize(p.title)
 
   if (cats.includes('vehiculos')) {
-    if (t.includes('bugatti') || t.includes('pagani') || t.includes('koenigsegg'))
+    if (
+      t.includes('bugatti') ||
+      t.includes('pagani') ||
+      t.includes('koenigsegg')
+    )
       return rand(0, 3)
     return rand(1, 40)
   }
@@ -67,8 +75,13 @@ const existing = Array.isArray(existingRaw?.details) ? existingRaw.details : []
 const map = new Map(existing.map((p) => [p.id, p]))
 
 let added = 0
-let updatedImages = 0
 let removed = 0
+let updated = 0
+let updatedImages = 0
+let updatedPrice = 0
+let updatedTitle = 0
+let updatedCategory = 0
+let updatedDescription = 0
 
 // ---------- 1) eliminar IDs que ya no existen ----------
 for (const d of existing) {
@@ -83,13 +96,51 @@ for (const p of products) {
   const prev = map.get(p.id)
 
   if (prev) {
-    // ✅ solo cambiar thumbnails => fullImage
-    prev.fullImage = p.thumbnail ?? prev.fullImage
-    updatedImages++
-    // (Opcional) si querés mantener sincronizado title/price/cats, descomentá:
-    // prev.title = p.title ?? prev.title
-    // prev.price = p.price ?? prev.price
-    // prev.category_path_from_root = p.category_path_from_root ?? prev.category_path_from_root
+    let changed = false
+
+    // ✅ sincronizar campos "base" desde products.json
+    if (p.title != null && p.title !== prev.title) {
+      prev.title = p.title
+      updatedTitle++
+      changed = true
+
+      // opcional: refrescar description si title cambia
+      if (REFRESH_DESCRIPTION) {
+        prev.description = descriptionFor(p)
+        updatedDescription++
+      }
+    }
+
+    if (typeof p.price === 'number' && p.price !== prev.price) {
+      prev.price = p.price
+      updatedPrice++
+      changed = true
+    }
+
+    if (Array.isArray(p.category_path_from_root)) {
+      const nextCat = JSON.stringify(p.category_path_from_root)
+      const prevCat = JSON.stringify(prev.category_path_from_root ?? [])
+      if (nextCat !== prevCat) {
+        prev.category_path_from_root = p.category_path_from_root
+        updatedCategory++
+        changed = true
+      }
+    }
+
+    // ✅ imágenes: thumbnail -> fullImage
+    if (p.thumbnail != null && p.thumbnail !== prev.fullImage) {
+      prev.fullImage = p.thumbnail
+      updatedImages++
+      changed = true
+    }
+
+    // opcional: forzar condition='new'
+    if (REFRESH_CONDITION && prev.condition !== 'new') {
+      prev.condition = 'new'
+      changed = true
+    }
+
+    if (changed) updated++
     map.set(p.id, prev)
   } else {
     // ✅ crear nuevo
@@ -108,10 +159,16 @@ for (const p of products) {
 }
 
 // ---------- guardar ----------
-const merged = Array.from(map.values()).sort((a, b) => idNum(a.id) - idNum(b.id))
+const merged = Array.from(map.values()).sort(
+  (a, b) => idNum(a.id) - idNum(b.id),
+)
 
-fs.writeFileSync(outputDetail, JSON.stringify({ details: merged }, null, 2), 'utf-8')
+fs.writeFileSync(
+  outputDetail,
+  JSON.stringify({ details: merged }, null, 2),
+  'utf-8',
+)
 
 console.log(
-  `OK: productDetail.json actualizado | total=${merged.length} | added=${added} | updatedImages=${updatedImages} | removed=${removed}`,
+  `OK: productDetail.json actualizado | total=${merged.length} | added=${added} | removed=${removed} | updated=${updated} | img=${updatedImages} | title=${updatedTitle} | price=${updatedPrice} | category=${updatedCategory} | desc=${updatedDescription}`,
 )

@@ -16,7 +16,11 @@ const idNum = (id) => {
 // ✅ categoría completa: "herramientas>electricas>taladros"
 const catKey = (item) => {
   const key = (item.category_path_from_root || [])
-    .map((c) => String(c?.name || '').trim().toLowerCase())
+    .map((c) =>
+      String(c?.name || '')
+        .trim()
+        .toLowerCase(),
+    )
     .filter(Boolean)
     .join('>')
   // sin categoría al final
@@ -33,7 +37,9 @@ const key = Array.isArray(raw?.results)
     : null
 
 if (!key) {
-  console.error('JSON format not recognized. Expected {results:[...]} or {details:[...]}')
+  console.error(
+    'JSON format not recognized. Expected {results:[...]} or {details:[...]}',
+  )
   process.exit(1)
 }
 

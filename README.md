@@ -47,14 +47,17 @@ npm run dev
 http://localhost:5173
 ```
 
-
 ### Keep productDetail.json in sync with products.json
+
 Use this command whenever you add, remove, or update products in products.json and want to keep
 productDetail.json perfectly synchronized — NO MANUAL WORK.
+
+Execute this command when you are positioned in the root folder meli-frontend-test
 
 ```bash
 node scripts/makeProductDetail.js src/data/products.json src/data/productDetail.json
 ```
+
 What this command does
 
 📦 Reads all products from products.json
@@ -63,7 +66,7 @@ What this command does
 
 ➕ Adds new products when their ID exists in products.json but not in productDetail.json
 
-🖼️ Updates images only (thumbnail → fullImage) for existing products
+🖼️ Updates images (thumbnail → fullImage) and categories for existing products
 (keeps description, sold_quantity, condition, etc. untouched)
 
 ❌ Removes products from productDetail.json if their ID no longer exists in products.json
@@ -76,12 +79,13 @@ What this command does
 
 🔁 Safe to run multiple times (idempotent)
 
-
 ### Sort products by full category
-```bash 
+Execute these commands when you are positioned in the root folder meli-frontend-test
+```bash
 node scripts/sortByCategory.js src/data/products.json
 node scripts/sortByCategory.js src/data/productDetail.json
 ```
+
 What it does
 
 🧩 Groups products by the full category_path_from_root
