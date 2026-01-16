@@ -3,7 +3,10 @@ import { KEYWORDS_TO_CATEGORY } from './categoryRegistry'
 import { isPhoneQuery, parsePhoneQuery } from './phone'
 import { parseVehicleQuery } from './vehicle'
 import { parseHomeQuery } from './home'
-import { isNotebookIntent, isPcIntent, parseComputerQuery } from './computer'
+import { isNotebookQuery, extractNotebookSpecs } from './notebook'
+import { isPcQuery, extractPcSpecs } from './pc'
+import { isTvQuery, extractTvSpecs } from './televisores'
+import { isTabletQuery, extractTabletSpecs } from './tablet'
 
 const securityKeywords = new Set([
   'seguridad',
@@ -85,17 +88,22 @@ const headphoneKeywords = new Set([
   'supraaural',
 ])
 
-
 export const detectIntent = (q) => {
   const tokens = tokenize(q)
 
-  // phones 
-  if (isPhoneQuery(q)) {
+  if (isTvQuery(q)) {
     return {
-      type: 'phone',
-      categoryHint: ['tecnologia', 'celulares'],
-      phoneSpecs: parsePhoneQuery(q),
-      brand: null,
+      type: 'tv',
+      categoryHint: ['tecnologia', 'televisores'],
+      tvSpecs: extractTvSpecs(q),
+    }
+  }
+
+  if (isTabletQuery(q)) {
+    return {
+      type: 'tablet',
+      categoryHint: ['tecnologia', 'tablets'],
+      tabletSpecs: extractTabletSpecs(q),
     }
   }
 
@@ -113,12 +121,29 @@ export const detectIntent = (q) => {
     }
   }
 
-    // COMPUTERS (lo pongo antes porque cuando pongo ram se ponene camionetas)
-  if (isNotebookIntent(q)) {
+  // NOTEBOOKS Y PCS (lo pongo antes porque cuando pongo ram se ponen camionetas)
+  if (isNotebookQuery(q)) {
     return {
       type: 'notebook',
       categoryHint: ['tecnologia', 'notebooks'],
-      computerSpecs: null, // por ahora
+      notebookSpecs: extractNotebookSpecs(q),
+    }
+  }
+
+  if (isPcQuery(q)) {
+    return {
+      type: 'pc',
+      categoryHint: ['tecnologia', 'pcs'],
+      notebookSpecs: extractPcSpecs(q),
+    }
+  }
+
+  if (isPhoneQuery(q)) {
+    return {
+      type: 'phone',
+      categoryHint: ['tecnologia', 'celulares'],
+      phoneSpecs: parsePhoneQuery(q),
+      brand: null,
     }
   }
 
@@ -129,8 +154,6 @@ export const detectIntent = (q) => {
       categoryHint: ['tecnologia', 'auriculares'],
     }
   }
-
-
 
   // VEHICULOS (autos / motos / camionetas)
   const isMotoWord = tokens.includes('moto') || tokens.includes('motos')
@@ -173,7 +196,7 @@ export const detectIntent = (q) => {
       vehicleFilters,
     }
   }
-// ------------------------
+  // ------------------------
 
   // bolsa + boxeo (AND) --> bolsas de boxeo
   const hasBolsa = tokens.includes('bolsa') || tokens.includes('bolsas')
