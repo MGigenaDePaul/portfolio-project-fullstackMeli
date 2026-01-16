@@ -5343,29 +5343,6 @@
       ]
     },
     {
-      "id": "MLA290",
-      "title": "Chromecast 4K Streaming",
-      "price": 79000,
-      "thumbnail": "https://m.media-amazon.com/images/I/51M+qQwzrdL._AC_SL1500_.jpg",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Santa Fe"
-      },
-      "category_path_from_root": [
-        {
-          "name": "Electronica, Audio y Video"
-        },
-        {
-          "name": "TV y Video"
-        },
-        {
-          "name": "Reproductores Multimedia"
-        }
-      ]
-    },
-    {
       "id": "MLA1430",
       "title": "Acuarelas Pelikan Escolar X12",
       "price": 14999,
@@ -19436,7 +19413,7 @@
       "id": "MLA1063",
       "title": "iPhone 12 mini 64GB",
       "price": 629000,
-      "thumbnail": "https://www.tandilphone.com.ar/contenido/productos/original/1706732018.jpeg",
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/116/601/products/12-mini-purple-04-29889f34d9538f985e17570013492977-1024-1024.webp",
       "shipping": {
         "free_shipping": false
       },
@@ -24276,6 +24253,666 @@
       ]
     },
     {
+      "id": "MLA29485731",
+      "title": "PC Gamer AMD Ryzen 5 RTX 3060 32GB RAM 1TB SSD",
+      "price": 1749999,
+      "thumbnail": "https://system32.com.ar/wp-content/uploads/2025/10/banco-imagenes-PC-COMBOS-Y-KIT-WEB-20.png.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA39485712",
+      "title": "PC de Escritorio AMD Ryzen 5 16GB RAM 512GB SSD",
+      "price": 879999,
+      "thumbnail": "https://arrichetta.com.ar/wp-content/uploads/2025/08/eb10e768fe6df6ae88030d5c7691.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA47382915",
+      "title": "PC Workstation Intel Xeon 32GB RAM 1TB SSD",
+      "price": 2199999,
+      "thumbnail": "https://resources.claroshop.com/medios-plazavip/mkt/64dc58ed52abd_pc-work-p330png.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "La Plata"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA48293715",
+      "title": "PC de Escritorio Intel Core i5 8GB RAM 240GB SSD",
+      "price": 699999,
+      "thumbnail": "https://images.fravega.com/f1000/147c2ce5b12d1d7dec3dc782c278c9f1.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA56283941",
+      "title": "PC Workstation Intel Xeon 64GB RAM 2TB SSD",
+      "price": 3199999,
+      "thumbnail": "https://www.valucomputers.co.uk/acatalog/z4g4-front.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "La Plata"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA56381927",
+      "title": "PC Gamer AMD Ryzen 7 RTX 3080 32GB RAM 2TB SSD",
+      "price": 2599999,
+      "thumbnail": "https://statics.qloud.ar/318/19-11-2025-04-11-43_Copiadepc5700X5.png",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA57384921",
+      "title": "PC de Escritorio Intel Core i7 32GB RAM 1TB SSD",
+      "price": 1299999,
+      "thumbnail": "https://system32.com.ar/wp-content/uploads/2025/07/KIT-GABINETE-MAGNUM-TECH-123.png.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA58219473",
+      "title": "PC de Escritorio AMD Ryzen 3 8GB RAM 256GB SSD",
+      "price": 619999,
+      "thumbnail": "https://www.cordobadigital.net/wp-content/uploads/2023/03/aio-hp-24.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA59472831",
+      "title": "PC Workstation AMD Threadripper 128GB RAM 4TB SSD",
+      "price": 5799999,
+      "thumbnail": "https://sa.newtechstore.com/cdn/shop/products/threadripper-pro-workstation-pc-2022-amd-pro-5965wx-24cores-128gb-ram-nvidia-geforce-rtx-3090-ti-24gb-2tb-ssd-gen4-4tb-hdd-gaming-pc-newtech-674553_1200x1200.jpg?v=1663311619",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA63749182",
+      "title": "PC Gamer Intel Core i5 RTX 3050 16GB RAM 1TB SSD",
+      "price": 1499999,
+      "thumbnail": "https://www.armytech.com.ar/5884-thickbox_default/pc-gamer-intel-core-i5-10400-h510m-16gb-ssd-512gb-rtx-3050-6gb-gab-kit.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA67129384",
+      "title": "PC Gamer AMD Ryzen 7 RTX 4070 32GB RAM 1TB SSD",
+      "price": 2399999,
+      "thumbnail": "https://mauricomputacion.com.ar/images/productos/24715.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA68273941",
+      "title": "PC Workstation Intel Xeon 64GB RAM 2TB SSD",
+      "price": 2999999,
+      "thumbnail": "https://www.valucomputers.co.uk/acatalog/z4g4-front.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Neuquén"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA73928461",
+      "title": "PC de Escritorio Intel Core i7 16GB RAM 512GB SSD",
+      "price": 1049999,
+      "thumbnail": "https://arrichetta.com.ar/wp-content/uploads/2025/06/51AVBarJTbL.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA74839215",
+      "title": "PC Workstation AMD Threadripper 128GB RAM 4TB SSD",
+      "price": 5499999,
+      "thumbnail": "https://sa.newtechstore.com/cdn/shop/products/threadripper-pro-workstation-pc-2022-amd-pro-5965wx-24cores-128gb-ram-nvidia-geforce-rtx-3090-ti-24gb-2tb-ssd-gen4-4tb-hdd-gaming-pc-newtech-709793_1200x1200.jpg?v=1663312050",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA74839261",
+      "title": "PC Gamer Intel Core i9 RTX 4080 64GB RAM 2TB SSD",
+      "price": 3499999,
+      "thumbnail": "https://centrale.cl/wp-content/uploads/PC-Gamer-Intel-Core-I9-12900-RTX-4080-64GB-RAM-2TB-PCIe-SSD-4.0-750W-Wi_Q464l0t.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA81239450",
+      "title": "PC de Escritorio Intel Core i5 16GB RAM 480GB SSD",
+      "price": 899999,
+      "thumbnail": "https://www.comeros.com.ar/wp-content/uploads/2025/08/PC-de-Escritorio-Basico-1000x1000.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA81927345",
+      "title": "PC Gamer Intel Core i7 RTX 3070 32GB RAM 1TB SSD",
+      "price": 2099999,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/156/703/products/pc-gamer-intel-core-i7-14700f-z790-32gb-ddr5-1tb-nvme-3070-ti-850w-gold-31080732b907652e5217176212256549-1024-1024.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA81927364",
+      "title": "PC Gamer Intel Core i9 RTX 4090 64GB RAM 2TB SSD",
+      "price": 4299999,
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0437/8358/5942/files/8aba5c5c-7cd3-4cd8-93b5-877751cb409b.png?v=1732244235",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA90011234",
+      "title": "PC Gamer Enthusiast Intel Core i9 RTX 4090 128GB RAM 4TB NVMe",
+      "price": 6999999,
+      "thumbnail": "https://dcdn-us.mitiendanube.com/stores/854/212/products/pc-con-intel1-850884e57f4bed0fc416796056207256-1024-1024.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA90011235",
+      "title": "PC Workstation AMD Threadripper Pro 256GB RAM 8TB SSD",
+      "price": 8999999,
+      "thumbnail": "https://uae.microless.com/cdn/category_files/b875cf3027b16342538c22bdcf2929e1.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA90011236",
+      "title": "PC Gamer Extreme Ryzen 9 RTX 4080 64GB RAM 2TB NVMe",
+      "price": 4799999,
+      "thumbnail": "https://grupodecme.com/cdn/shop/files/22fae52f-96ad-413d-a5a1-80a99c1b8297.png?v=1732226928",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA90011237",
+      "title": "PC Creator Intel Core i9 RTX 4090 96GB RAM 6TB SSD",
+      "price": 7599999,
+      "thumbnail": "https://uae.microless.com/cdn/category_files/946694c7561035e566d15353e7db38a3.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA90011238",
+      "title": "PC Gamer Pro Ryzen 9 RTX 4070 Ti 48GB RAM 3TB SSD",
+      "price": 3999999,
+      "thumbnail": "https://mauricomputacion.com.ar/images/productos/combos/744.png",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA90011239",
+      "title": "PC Workstation Intel Xeon W RTX A6000 128GB RAM 8TB SSD",
+      "price": 9999999,
+      "thumbnail": "https://i.ebayimg.com/images/g/s44AAOSw2H1mfBRj/s-l1200.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA90011240",
+      "title": "PC Gamer Liquid Cooling Intel Core i7 RTX 4080 64GB RAM 2TB SSD",
+      "price": 4599999,
+      "thumbnail": "https://pcgamingbcn.com/wp-content/uploads/2024/04/imag4-1.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "San Juan"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA90011241",
+      "title": "PC Enthusiast AMD Ryzen 9 RTX 4090 128GB RAM 5TB NVMe",
+      "price": 7799999,
+      "thumbnail": "https://cdn.shopify.com/s/files/1/0437/8358/5942/files/ec102c54-b5c1-42c4-a28d-8187117e397b.png?v=1732244630",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "La Plata"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA90011242",
+      "title": "PC Gaming Studio Intel Core i9 RTX 4070 64GB RAM 4TB SSD",
+      "price": 4299999,
+      "thumbnail": "https://m.media-amazon.com/images/I/71LGZp8StIL.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Neuquén"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA90011243",
+      "title": "PC Workstation Render AMD Threadripper RTX 4090 192GB RAM 6TB SSD",
+      "price": 8499999,
+      "thumbnail": "https://microless.com/cdn/products/6ad085029c90f63a257e36063eafb80e-hi.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA90011244",
+      "title": "PC Ultra Gamer Intel Core i9 RTX 4080 80GB RAM 3TB NVMe",
+      "price": 5199999,
+      "thumbnail": "https://www.pcmontajes.com/159983-product_zoom/pcm-aeon-atractor-intel-core-ultra-9-285k-32gb-ram-1tb-ssd-rtx-5060-ti-16gb-win11-pro.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA90011245",
+      "title": "PC Creator Max Ryzen 9 RTX 4090 64GB RAM 2TB NVMe + 4TB HDD",
+      "price": 6899999,
+      "thumbnail": "https://mbpc.gg/cdn/shop/files/rtx-4090-7950x3d-custom-prebuilt-gaming-pc-hyte-y70-touch-case-white.jpg?v=1725738456&width=1946",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA91837452",
+      "title": "PC de Escritorio AMD Ryzen 5 16GB RAM 512GB SSD",
+      "price": 829999,
+      "thumbnail": "https://arrichetta.com.ar/wp-content/uploads/2025/08/eb10e768fe6df6ae88030d5c7691.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA92837415",
+      "title": "PC Gamer AMD Ryzen 9 RTX 4090 64GB RAM 4TB SSD",
+      "price": 4599999,
+      "thumbnail": "https://m.media-amazon.com/images/I/714WkeJ6d9L.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
+      "id": "MLA94837210",
+      "title": "PC Gamer Intel Core i7 RTX 3060 32GB RAM 1TB SSD",
+      "price": 1899999,
+      "thumbnail": "https://www.pccompu.com.uy/imgs/productos/productos34_58643.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "pcs"
+        }
+      ]
+    },
+    {
       "id": "MLA1197",
       "title": "Placa De Video Nvidia Rtx 3060 12gb",
       "price": 899999,
@@ -24836,6 +25473,26 @@
       ]
     },
     {
+      "id": "MLA290",
+      "title": "Chromecast 4K Streaming",
+      "price": 79000,
+      "thumbnail": "https://m.media-amazon.com/images/I/51M+qQwzrdL._AC_SL1500_.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "streaming"
+        }
+      ]
+    },
+    {
       "id": "MLA289",
       "title": "Tablet 10 64GB WiFi",
       "price": 229000,
@@ -24845,6 +25502,1286 @@
       },
       "address": {
         "state_name": "Cordoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA28473901",
+      "title": "Tablet Amazon Fire HD 10 64GB",
+      "price": 379999,
+      "thumbnail": "https://m.media-amazon.com/images/G/01/kindle/journeys/OTM5ZjY5OTUt/OTM5ZjY5OTUt-Nzc1MjI2NDct._CB657678783_.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Salta"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA37281945",
+      "title": "Tablet Apple iPad Mini 6 64GB WiFi",
+      "price": 1249999,
+      "thumbnail": "https://mauricomputacion.com.ar/images/productos/galerias/24512/1002_1542729153.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA37482915",
+      "title": "Tablet Lenovo Tab P12 128GB WiFi",
+      "price": 699999,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/004/693/164/products/web-1-df44a62fe78f3d208617539786394160-1024-1024.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA46829173",
+      "title": "Tablet Nokia T10 64GB WiFi",
+      "price": 359999,
+      "thumbnail": "https://tiendamovil.com.py/shop/28568-thickbox_default/tablet-nokia-t10-8-464-lte.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Salta"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA47382904",
+      "title": "Tablet Huawei MatePad 11 128GB WiFi",
+      "price": 599999,
+      "thumbnail": "https://images.fravega.com/f1000/2035300bdc66c89d147cd0809c32add2.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA47392015",
+      "title": "Tablet Motorola Tab G70 64GB WiFi",
+      "price": 419999,
+      "thumbnail": "https://motorolain.vtexassets.com/arquivos/ids/156979/moto-tab-g70-section6.png?v=637780821056330000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "San Juan"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA48293751",
+      "title": "Tablet Samsung Galaxy Tab S9 Ultra 256GB WiFi",
+      "price": 1899999,
+      "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-x910nzedaro/gallery/ar-galaxy-tab-s9-ultra-wifi-x910-sm-x910nzedaro-539476321?$Q90_1248_936_F_PNG$",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA49283715",
+      "title": "Tablet Alcatel 3T10 32GB WiFi",
+      "price": 289999,
+      "thumbnail": "https://m.media-amazon.com/images/I/71kBd88qiwL.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Chaco"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA51928374",
+      "title": "Tablet Microsoft Surface Go 3 128GB WiFi",
+      "price": 1199999,
+      "thumbnail": "https://m.media-amazon.com/images/I/71w0dsQEoFL.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA54839271",
+      "title": "Tablet Huawei MatePad Pro 11 256GB WiFi",
+      "price": 1299999,
+      "thumbnail": "https://ak-asset.jarir.com/akeneo-prod/asset/4/8/6/8/48687c39e2810b87ce59070f8af810098989b2d6_593785.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA57384910",
+      "title": "Tablet ZTE Blade Tab 10 64GB WiFi",
+      "price": 339999,
+      "thumbnail": "https://dam.elcorteingles.es/producto/www-001015217117819-00.jpg?impolicy=Resize&width=1200&height=1200",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Jujuy"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA58291034",
+      "title": "Tablet Lenovo Tab M10 Plus 10.6 128GB WiFi",
+      "price": 449999,
+      "thumbnail": "https://mauricomputacion.com.ar/images/productos/galerias/25091/1002_123340035.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA58473921",
+      "title": "Tablet Bangho Aero 10 64GB WiFi",
+      "price": 309999,
+      "thumbnail": "https://images.fravega.com/f1000/f84f546f0c62678961ed073b92ddf288.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Entre Ríos"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA59283741",
+      "title": "Tablet Apple iPad 10.9 10ma Generación 64GB WiFi",
+      "price": 1149999,
+      "thumbnail": "https://mauricomputacion.com.ar/images/productos/24507.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA59372841",
+      "title": "Tablet Huawei MatePad Pro 12.6 256GB WiFi",
+      "price": 1499999,
+      "thumbnail": "https://cdn.cimri.io/image/1000x1000/huawei-matepad-pro-256gb-12-6-inc-koyu-gri-tablet-pc_789472313.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA59384721",
+      "title": "Tablet Apple iPad Air 10.9 M1 64GB WiFi",
+      "price": 1399999,
+      "thumbnail": "https://mauricomputacion.com.ar/images/productos/galerias/25159/1003_427274575.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA61928475",
+      "title": "Tablet Asus ZenPad 10 64GB WiFi",
+      "price": 389999,
+      "thumbnail": "https://dlcdnimgs.asus.com/websites/global/products/6WcriCoLM8N65eGo/images/main/300mkv.png",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "La Plata"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA61938472",
+      "title": "Tablet Huawei MatePad 11 Pantalla 120Hz 128GB",
+      "price": 699999,
+      "thumbnail": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/latam/mx/mkt/pdp/tablets/matepad-11-5/images/new-img/huawei-matepad-11-5-kv.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA62938471",
+      "title": "Tablet Sony Xperia Z4 Tablet 32GB WiFi",
+      "price": 849999,
+      "thumbnail": "https://cdn.mos.cms.futurecdn.net/SjNtovmEzcFg6Ny6xNyqjZ.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA63829147",
+      "title": "Tablet Lenovo Tab P11 Pro 128GB WiFi",
+      "price": 749999,
+      "thumbnail": "https://digify.com.ar/wp-content/uploads/1b885eb22ee82ee65188e0e2522d.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA63928410",
+      "title": "Tablet Huawei MatePad 11.5 128GB WiFi",
+      "price": 649999,
+      "thumbnail": "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/latam/mx/mkt/pdp/tablets/matepad-11-5/images/new-img/huawei-matepad-11-5-kv.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA63948201",
+      "title": "Tablet Samsung Galaxy Tab S9 FE 128GB WiFi",
+      "price": 799999,
+      "thumbnail": "https://mauricomputacion.com.ar/images/productos/25210.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA64738291",
+      "title": "Tablet Dell Latitude 13 Detachable 128GB",
+      "price": 1699999,
+      "thumbnail": "https://bizweb.dktcdn.net/100/501/863/products/dell-latitude-7320-detachable-h2-76a1de88-2b56-407a-a2d6-d2ba60d5f931.png?v=1699530456523",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA67283910",
+      "title": "Tablet Nokia T10 32GB WiFi",
+      "price": 299999,
+      "thumbnail": "https://www.laptopsdirect.co.uk/Images/3GT001FPG1401_1_Supersize.jpg?v=3",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Jujuy"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA67283911",
+      "title": "Tablet Nokia T21 64GB WiFi",
+      "price": 389999,
+      "thumbnail": "https://m.media-amazon.com/images/I/71bMqcUlz3L.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Salta"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA67283912",
+      "title": "Tablet Lenovo Tab M9 64GB WiFi",
+      "price": 329999,
+      "thumbnail": "https://p3-ofp.static.pub//fes/cms/2023/08/18/ejtq8e9bb24dmayz8jb8p4mzukehq1241257.png",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Entre Ríos"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA67283913",
+      "title": "Tablet Lenovo Tab P11 128GB WiFi",
+      "price": 649999,
+      "thumbnail": "https://images.fravega.com/f1000/b40b8709e426dc86653d85df930d07df.png",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA67283914",
+      "title": "Tablet Xiaomi Redmi Pad 128GB WiFi",
+      "price": 449999,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/004/691/615/products/foto-producto-tienda-nube-9-3a9c59ae615c2a23a617587634015841-1024-1024.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Tucumán"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA67283915",
+      "title": "Tablet Motorola Tab G62 64GB WiFi",
+      "price": 379999,
+      "thumbnail": "https://s2.elespanol.com/2022/08/17/elandroidelibre/otros-dispositivos/tablets/696190704_226495019_1706x1280.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Corrientes"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA71928364",
+      "title": "Tablet Motorola Tab G62 64GB WiFi",
+      "price": 389999,
+      "thumbnail": "https://motorolain.vtexassets.com/arquivos/ids/157505/moto-tab-g62-pdp-ecom-render-2-npz41sov.png?v=637962502010470000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Tucumán"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA72938415",
+      "title": "Tablet Apple iPad Pro 11 M2 128GB WiFi",
+      "price": 1999999,
+      "thumbnail": "https://i5.walmartimages.com/seo/2021-Apple-11-inch-iPad-Pro-Wi-Fi-128GB-Silver-3rd-Generation_e304a776-3ea7-47de-b001-093c9bf8f4ca.32175697226f4a5841a67d25c04aded3.jpeg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA72938451",
+      "title": "Tablet Positivo Twist Tab 64GB WiFi",
+      "price": 259999,
+      "thumbnail": "https://pixelstore.com.ar/wp-content/uploads/2024/08/tablet-bgh-positivo-.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Formosa"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA73829145",
+      "title": "Tablet Huawei MatePad T10s 10.1 Full HD 64GB",
+      "price": 389999,
+      "thumbnail": "https://www.siliconvalley.com.ph/wp-content/uploads/2022/12/MATEPAD-T10S-LTE-464-D.BLUE-1.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA73928104",
+      "title": "Tablet Apple iPad 10.2 9na Generación 64GB WiFi",
+      "price": 999999,
+      "thumbnail": "https://stylewatch.vtexassets.com/arquivos/ids/214064/Tablet_Apple_APPMK2K3LEA_02.jpg?v=637895134726600000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA73940121",
+      "title": "Tablet Amazon Fire 7 16GB WiFi",
+      "price": 219999,
+      "thumbnail": "https://sistema.langtecnologia.com.ar/img/qloud/3270/4629_4.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA73940122",
+      "title": "Tablet Amazon Fire 7 32GB WiFi",
+      "price": 249999,
+      "thumbnail": "https://soytechno.com/wp-content/uploads/2024/07/b6c5a2_91c2afb3350a40318c037d6b546eb0ddmv2.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA73940123",
+      "title": "Tablet Amazon Fire HD 8 32GB WiFi",
+      "price": 299999,
+      "thumbnail": "https://tecnofe.com.ar/wp-content/uploads/2024/06/AMAZON-FIRE-8.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA73940124",
+      "title": "Tablet Amazon Fire HD 8 Plus 64GB WiFi",
+      "price": 349999,
+      "thumbnail": "https://m.media-amazon.com/images/G/01/kindle/journeys/MWFmYjIyYjQt/MWFmYjIyYjQt-MjJlOGJlZDAt._CB657688131_.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA73940125",
+      "title": "Tablet Amazon Fire HD 10 32GB WiFi",
+      "price": 379999,
+      "thumbnail": "https://baproar.vtexassets.com/arquivos/ids/830139-800-auto?v=638459495128170000&width=800&height=auto&aspect=true",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Salta"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA73940125",
+      "title": "Tablet Amazon Fire HD 10 32GB WiFi",
+      "price": 379999,
+      "thumbnail": "https://images.fravega.com/f1000/d4231ed464edea6ab19eedc9f7a5cce8.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Salta"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA73940126",
+      "title": "Tablet Amazon Fire HD 10 64GB WiFi",
+      "price": 429999,
+      "thumbnail": "https://images.fravega.com/f1000/193b1e3a07522909a7e02ff583b5cf6b.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Neuquén"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA74829163",
+      "title": "Tablet HP Pro Tablet 608 G1 64GB WiFi",
+      "price": 899999,
+      "thumbnail": "https://m.media-amazon.com/images/I/51uY2k0dSNL.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA74839201",
+      "title": "Tablet Lenovo Yoga Tab 11 128GB WiFi",
+      "price": 559999,
+      "thumbnail": "https://www.cetrogar.com.ar/media/catalog/product/c/m/cm3296_1.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA81239401",
+      "title": "Tablet Samsung Galaxy Tab A8 10.5 64GB WiFi",
+      "price": 499999,
+      "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-x200nzamaro/gallery/ar-galaxy-a8-sm-x200-sm-x200nzamaro-531066536?$Q90_1248_936_F_PNG$",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA81293401",
+      "title": "Tablet Huawei MatePad 10.4 64GB WiFi",
+      "price": 459999,
+      "thumbnail": "https://www.abc.cl/dw/image/v2/BCPP_PRD/on/demandware.static/-/Sites-master-catalog/default/dw11697408/images/large/2CC23220237.jpg?sw=1200&sh=1200&sm=fit",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA81293402",
+      "title": "Tablet Huawei MatePad T10s 64GB WiFi",
+      "price": 399999,
+      "thumbnail": "https://i.blogs.es/78ed21/huawei-matepad-compra/original.jpeg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA81293403",
+      "title": "Tablet Huawei MatePad SE 64GB WiFi",
+      "price": 349999,
+      "thumbnail": "https://bairesit.com.ar/Image/0/750_750-MKT_HUAWEI_MatePad_SE_11%E2%80%9D_Product_Image_Crystal_Blue_11_PNG_HQ_800x800_20240327.png",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "La Plata"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA83549217",
+      "title": "Tablet Amazon Fire HD 8 Plus 64GB",
+      "price": 329999,
+      "thumbnail": "https://soytechno.com/wp-content/uploads/2024/12/Amazon-Fire-HD-8-2022-64GB-Denim.-2.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Entre Ríos"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA83749215",
+      "title": "Tablet Nokia T21 64GB WiFi",
+      "price": 399999,
+      "thumbnail": "https://i.ebayimg.com/images/g/fjsAAOSwXYtjx41r/s-l1200.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "San Luis"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA84273915",
+      "title": "Tablet Huawei MatePad Pro 11 Edición Profesional 256GB",
+      "price": 1299999,
+      "thumbnail": "https://imagenes.elpais.com/resizer/v2/2VVXR3YUPNPJ7BUNKSHKT4CKKA.jpg?auth=e0b02daa02b4cabb7cdb319aa44aaecfa48bb57a9155d9109a7d049d5af81049&width=1960",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA84573920",
+      "title": "Tablet Samsung Galaxy Tab S8 128GB WiFi",
+      "price": 1099999,
+      "thumbnail": "https://stylewatch.vtexassets.com/arquivos/ids/238347/tablet_samsung_SMX700NZALARO_04.jpg?v=638289388629000000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA84739210",
+      "title": "Tablet Xiaomi Pad 5 128GB WiFi",
+      "price": 629999,
+      "thumbnail": "https://www.etercor.com.ar/wp-content/uploads/2021/11/ver.__%E7%AB%96%E7%89%88pad_Global_0806_1500x1500.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "San Juan"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA84739215",
+      "title": "Tablet Hyundai HyTab Plus 10 64GB WiFi",
+      "price": 319999,
+      "thumbnail": "https://m.media-amazon.com/images/I/61t0rGIYWKL.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Río Negro"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA90382110",
+      "title": "Tablet Samsung Galaxy Tab A9 32GB WiFi",
+      "price": 369999,
+      "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-x110nzaal09/gallery/ar-galaxy-tab-a9-sm-x110-sm-x110nzaal09-539822730?$Q90_1248_936_F_PNG$",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA90382111",
+      "title": "Tablet Samsung Galaxy Tab A9 Plus 64GB WiFi",
+      "price": 429999,
+      "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/ar/sm-x110nzaal09/gallery/ar-galaxy-tab-a9-sm-x110-sm-x110nzaal09-539822730?$Q90_1248_936_F_PNG$",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA90382112",
+      "title": "Tablet Samsung Galaxy Tab S6 Lite 128GB WiFi",
+      "price": 649999,
+      "thumbnail": "https://stylewatch.vtexassets.com/arquivos/ids/273073/tablet-samsung-SMP620NZAEAROG-1.jpg?v=638719616019700000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "San Juan"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA90382113",
+      "title": "Tablet Samsung Galaxy Tab S8 256GB WiFi",
+      "price": 1199999,
+      "thumbnail": "https://m.media-amazon.com/images/I/619SS-t7XIL.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA90473821",
+      "title": "Tablet Huawei MatePad SE Pantalla 10.1 64GB Android",
+      "price": 339999,
+      "thumbnail": "https://www.mundolaptops.com/wp-content/uploads/2023/12/Huawei-MatePad-SE.jpg.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA91827364",
+      "title": "Tablet Realme Pad 10.4 64GB WiFi",
+      "price": 379999,
+      "thumbnail": "https://m.media-amazon.com/images/I/619a3zaTUFL.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Tucumán"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA91837410",
+      "title": "Tablet Xiaomi Redmi Pad 10.61 128GB WiFi",
+      "price": 429999,
+      "thumbnail": "https://i.blogs.es/1a234a/captura-de-pantalla-2022-10-06-a-las-11.08.41/original.jpeg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA92837401",
+      "title": "Tablet TCL Tab 10s 64GB WiFi",
+      "price": 349999,
+      "thumbnail": "https://aws-obg-image-lb-2.tcl.com/content/dam/brandsite/region/global/products/tablets/tcl-tab-10-gen-2/id-images/04.jpg?t=1686643769722&w=800",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Neuquén"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA92837465",
+      "title": "Tablet Samsung Galaxy Tab S7 FE 128GB WiFi",
+      "price": 749999,
+      "thumbnail": "https://stylewatch.vtexassets.com/arquivos/ids/202666/tablet-samsung-galaxy-tab-s7-fe-128gb-wifi-black-smt733nzkmaro_04.jpg?v=637711467911270000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA93847215",
+      "title": "Tablet Exo Smart Tab 10 64GB WiFi",
+      "price": 279999,
+      "thumbnail": "https://www.megatone.net/images/Articulos/zoom2x/249/MKT0144EXO-3.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Corrientes"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "tablets"
+        }
+      ]
+    },
+    {
+      "id": "MLA95128374",
+      "title": "Tablet Xiaomi Pad 6 256GB WiFi",
+      "price": 699999,
+      "thumbnail": "https://static-catalog.tiendamia.com/marketplace_manager_service/production/product_b3ccbc31_mirakl_image_1_large.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
       },
       "category_path_from_root": [
         {
@@ -24952,6 +26889,386 @@
         },
         {
           "name": "teclados"
+        }
+      ]
+    },
+    {
+      "id": "MLA23984750",
+      "title": "Smart TV Hisense 58 Pulgadas 4K UHD VIDAA",
+      "price": 1149999,
+      "thumbnail": "https://www.hisense.com.ar/wp-content/uploads/2026/01/Hisense_POP_TVDigital_A6_58.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Salta"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA39847126",
+      "title": "Smart TV Sharp 50 Pulgadas 4K UHD Android TV",
+      "price": 999999,
+      "thumbnail": "https://www.necxus.com.ar/products_image/36174/1000x1000_1.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Chubut"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA45123986",
+      "title": "Smart TV Philips 43 Pulgadas Full HD Android TV",
+      "price": 749999,
+      "thumbnail": "https://tccommercear.vtexassets.com/arquivos/ids/161330/IMG-SECUNDARIA-43PFD6910.jpg.jpg?v=638786836099500000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Neuquén"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA51239875",
+      "title": "Smart TV Xiaomi Mi TV P1 55 Pulgadas 4K Android TV",
+      "price": 1199999,
+      "thumbnail": "https://www.clarin.com/2022/01/27/nCUCzzESz_2000x1500__1.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA56483921",
+      "title": "Smart TV Sony Bravia 55 Pulgadas 4K HDR Android TV",
+      "price": 1999999,
+      "thumbnail": "https://m.media-amazon.com/images/I/81yrNQo8TjL.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA63948275",
+      "title": "Smart TV Samsung 65 Pulgadas Neo QLED 4K UHD",
+      "price": 2599999,
+      "thumbnail": "https://images.fravega.com/f1000/aed019322ecb517c5a79069e5299257b.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA64123989",
+      "title": "Smart TV Motorola 50 Pulgadas 4K UHD Android TV",
+      "price": 1099999,
+      "thumbnail": "https://riiing.com.ar/wp-content/uploads/2024/12/MT5000-01.png",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "La Plata"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA72198346",
+      "title": "Smart TV RCA 43 Pulgadas Full HD Android TV",
+      "price": 689999,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/004/616/743/products/rca43-2-1c964088098689ab9317313361425020-1024-1024.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "San Luis"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA73498124",
+      "title": "Smart TV Samsung 43 Pulgadas Full HD Smart Hub",
+      "price": 849999,
+      "thumbnail": "https://images.fravega.com/f1000/0ec3af99701dbf0665ec61ea3816b028.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "San Juan"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA77261095",
+      "title": "Smart TV Philips Ambilight 50 Pulgadas 4K UHD",
+      "price": 1699999,
+      "thumbnail": "https://images.fravega.com/f1000/dd62c6a447d524cef1462c95c107b2a1.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA78123984",
+      "title": "Smart TV Samsung 55 Pulgadas QLED 4K Smart Hub",
+      "price": 1699999,
+      "thumbnail": "https://www.cordobadigital.net/wp-content/uploads/2024/11/samsung-qled-55.png",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA84751294",
+      "title": "Smart TV BGH 55 Pulgadas 4K UHD Google TV",
+      "price": 1129999,
+      "thumbnail": "https://images.fravega.com/f1000/56d3473a1466dedab53825485b5e2f3e.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Tucumán"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA87349210",
+      "title": "Smart TV Samsung 55 Pulgadas 4K UHD QLED",
+      "price": 1599999,
+      "thumbnail": "https://images.fravega.com/f1000/560713a6415e62862d5fb8b51db32490.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA88451238",
+      "title": "Smart TV Noblex 50 Pulgadas 4K UHD Android TV",
+      "price": 1049999,
+      "thumbnail": "https://images.fravega.com/f1000/341ed6705f25c811c83990d0e4176ba8.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Entre Ríos"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA89341277",
+      "title": "Smart TV LG 50 Pulgadas 4K UHD webOS",
+      "price": 1249999,
+      "thumbnail": "https://www.lg.com/content/dam/channel/wcms/cl/images/televisores/50un7300psc_awh_escl_cl_c/gallery/Z01_Z-1.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA90234871",
+      "title": "Smart TV Samsung 50 Pulgadas 4K UHD Crystal UHD",
+      "price": 1249999,
+      "thumbnail": "https://images.samsung.com/is/image/samsung/p6pim/ar/un50cu7000gczb/gallery/ar-crystal-uhd-cu7000-un50cu7000gczb-536471147?$Q90_1248_936_F_PNG$",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA90384720",
+      "title": "Smart TV TCL 55 Pulgadas 4K Google TV",
+      "price": 1199999,
+      "thumbnail": "https://aws-obg-image-lb-1.tcl.com/content/dam/brandsite/region/colombia/products/tv/p-series/p635/product-image/3.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA91837462",
+      "title": "Smart TV LG 65 Pulgadas OLED 4K ThinQ AI",
+      "price": 2899999,
+      "thumbnail": "https://images.fravega.com/f1000/1e26bf8fa4f9c51c06552b21e8113ba2.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
+        }
+      ]
+    },
+    {
+      "id": "MLA98237452",
+      "title": "Smart TV TCL 65 Pulgadas 4K QLED Google TV",
+      "price": 1799999,
+      "thumbnail": "https://images.fravega.com/f1000/c229c6424ef04038e3b98c0e484635f5.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "televisores"
         }
       ]
     },

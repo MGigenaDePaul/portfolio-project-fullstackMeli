@@ -5,10 +5,11 @@ import { matchesQueryText, buildSearchText } from './text'
 import { isPhoneProduct, matchesPhoneSpecs } from './phone'
 import { rankResults } from './rank'
 import { matchesVehicleFilters, vehicleDropTokens } from './vehicle'
-import { isNotebookProduct } from './notebook'
-import { isPcProduct } from './pc'
+import { isNotebookProduct, matchesNotebookSpecs } from './notebook'
+import { isPcProduct, matchesPcSpecs } from './pc'
 import { isHeadphoneProduct } from './auriculares'
-import { matchesComputerSpecs } from './computerMatch'
+import { isTvProduct, matchesTvSpecs } from './televisores'
+import { isTabletProduct, matchesTabletSpecs } from './tablet'
 
 export function searchProducts(all, rawQuery, { limit = 4 } = {}) {
   const q = normalize(rawQuery || '')
@@ -27,30 +28,29 @@ export function searchProducts(all, rawQuery, { limit = 4 } = {}) {
     pool = pool.filter((p) => matchesPhoneSpecs(p, intent.phoneSpecs))
   }
 
-  // COMPUTERS (notebook / pc)
   if (intent.type === 'notebook') {
     pool = pool.filter((p) => isNotebookProduct(p))
-
-    // specs suave: si deja 0, no rompemos
-    const filtered = pool.filter((p) =>
-      matchesComputerSpecs(p, intent.computerSpecs),
-    )
-    if (filtered.length > 0) pool = filtered
+    pool = pool.filter((p) => matchesNotebookSpecs(p, intent.notebookSpecs))
   }
 
   if (intent.type === 'pc') {
     pool = pool.filter((p) => isPcProduct(p))
-
-    const filtered = pool.filter((p) =>
-      matchesComputerSpecs(p, intent.computerSpecs),
-    )
-    if (filtered.length > 0) pool = filtered
+    pool = pool.filter((p) => matchesPcSpecs(p, intent.pcSpecs))
+  }
+  
+  if (intent.type === 'tablet') {
+    pool = pool.filter((p) => isTabletProduct(p))
+    pool = pool.filter((p) => matchesTabletSpecs(p, intent.tabletSpecs))
   }
 
   if (intent.type === 'headphone') {
     pool = pool.filter((p) => isHeadphoneProduct(p))
   }
- 
+
+  if (intent.type === 'tv') {
+    pool = pool.filter((p) => isTvProduct(p))
+    pool = pool.filter((p) => matchesTvSpecs(p, intent.tvSpecs))
+  }
 
   if (intent.type === 'camera') {
     // fallback por texto para evitar colados raros (por si hay alguno mal categorizado)
@@ -120,21 +120,30 @@ export function searchProducts(all, rawQuery, { limit = 4 } = {}) {
     )
   }
 
-   if (intent.type === 'headphone') {
-  drop.push(
-    'auricular',
-    'auriculares',
-    'headphone',
-    'headphones',
-    'inear',
-    'in',
-    'ear',
-    'over',
-  )
-}
+  if (intent.type === 'headphone') {
+    drop.push(
+      'auricular',
+      'auriculares',
+      'headphone',
+      'headphones',
+      'inear',
+      'in',
+      'ear',
+      'over',
+    )
+  }
+
+  // 4.9) query para match de texto (sinónimos)
+  let qForText = q
+
+  if (intent.type === 'notebook') {
+    qForText = `${q} notebook laptop macbook ultrabook`
+  }
 
   // 5) match texto general
-  let items = q ? pool.filter((p) => matchesQueryText(p, q, { drop })) : pool
+  let items = qForText
+    ? pool.filter((p) => matchesQueryText(p, qForText, { drop }))
+    : pool
 
   // 6) fallback importante: si intent es fuerte y el filtro de texto dejó 0, devolvemos el pool
   // (ej: "auto toyota 2015" y tus títulos no tienen 2015 todavía)

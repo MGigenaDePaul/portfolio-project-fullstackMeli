@@ -77,14 +77,20 @@ export const KEYWORDS_TO_CATEGORY = [
     path: ['tecnologia', 'celulares'],
   },
   {
-    keywords: [
-      'auricular',
-      'auriculares',
-      'headphones',
-      'buds',
-      'auris',
-    ],
+    keywords: ['auricular', 'auriculares', 'headphones', 'buds', 'auris'],
     path: ['tecnologia', 'auriculares'],
+  },
+  {
+    keywords: [
+      'teles',
+      'televisores',
+      'tvs',
+      'smartTv',
+      'smartv',
+      'smarttv',
+      'tele',
+    ],
+    path: ['tecnologia', 'televisores'],
   },
   {
     keywords: ['parlante', 'parlantes', 'speaker', 'speakers'],
@@ -97,6 +103,14 @@ export const KEYWORDS_TO_CATEGORY = [
   {
     keywords: ['notebook', 'notebooks', 'laptop', 'laptops'],
     path: ['tecnologia', 'notebooks'],
+  },
+  {
+    keywords: ['tablet', 'tablets'],
+    path: ['tecnologia', 'tablets'],
+  },
+  {
+    keywords: ['pc', 'pcs', 'computadora de escritorio'],
+    path: ['tecnologia', 'pcs'],
   },
   {
     keywords: ['camara', 'camaras', 'camera', 'cameras'],
@@ -114,7 +128,25 @@ export const KEYWORDS_TO_CATEGORY = [
   { keywords: ['insumo', 'insumos'], path: ['hogar', 'insumos'] },
   { keywords: ['parrilla', 'parrillas'], path: ['hogar', 'parrillas'] },
   { keywords: ['mascota', 'mascotas'], path: ['hogar', 'mascotas'] },
-  { keywords: ['living'], path: ['hogar', 'living'] },
+  {
+    keywords: [
+      'living',
+      'sofas',
+      'sillon',
+      'sillones',
+      'sofa',
+      'sofas',
+      'sofá',
+      'sofás',
+      'couch',
+      'couches',
+      'living',
+      'mesa',
+      'mesa ratonera',
+      'ratona',
+    ],
+    path: ['hogar', 'living'],
+  },
   {
     keywords: ['cama', 'camas', 'colchon', 'colchones'],
     path: ['hogar', 'dormitorio', 'camas y colchones'],
