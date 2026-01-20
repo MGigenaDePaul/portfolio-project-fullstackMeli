@@ -141,26 +141,6 @@
       ]
     },
     {
-      "id": "MLA695",
-      "title": "Mini heladera cosmetica 6L para skincare",
-      "price": 189900,
-      "thumbnail": "https://images.bidcom.com.ar/resize?src=https://static.bidcom.com.ar/publicacionesML/productos/MINHELA1/1000x1000-MINHELA1-A.jpg&w=800&q=100",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Mendoza"
-      },
-      "category_path_from_root": [
-        {
-          "name": "belleza"
-        },
-        {
-          "name": "accesorios"
-        }
-      ]
-    },
-    {
       "id": "MLA696",
       "title": "Kit brochas ojos precision pack x8",
       "price": 24900,
@@ -324,7 +304,7 @@
       "id": "MLA644",
       "title": "Serum vitamina C iluminador 30ml",
       "price": 36900,
-      "thumbnail": "https://farmacityar.vtexassets.com/arquivos/ids/270546/227775_serum-facial-garnier-iluminador-vitamina-c-x-30-ml__imagen-1.jpg.jpg?v=638828226852730000",
+      "thumbnail": "https://farmacityar.vtexassets.com/arquivos/ids/287333/227775_serum-facial-garnier-anti-manchas-x-30-ml__imagen-1.jpg?v=639038403135200000",
       "shipping": {
         "free_shipping": true
       },
@@ -4101,6 +4081,266 @@
       ]
     },
     {
+      "id": "MLA78123901",
+      "title": "Labiales Mate Tonos Nude Larga Duración",
+      "price": 28999,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/006/205/973/products/diseno-sin-titulo-2-06952f6e37c10e07fa17492319711069-1024-1024.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA78123902",
+      "title": "Labiales Hidratantes Colores Intensos",
+      "price": 25999,
+      "thumbnail": "https://vader-prod.s3.amazonaws.com/1701697913-61PCBPEpcML.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA78123903",
+      "title": "Labiales Líquidos Efecto Mate Profesional",
+      "price": 31999,
+      "thumbnail": "https://lasmargaritas.vtexassets.com/arquivos/ids/2656794/LAB-LIQ-MATTE-QUEEN-NOTE-02.jpg?v=638775659667900000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA78123904",
+      "title": "Labiales Satinados Colores Clásicos",
+      "price": 27999,
+      "thumbnail": "https://media.vogue.mx/photos/6102c8d11ac5b4cdc8b7ea0f/master/w_1600%2Cc_limit/L'OREAL%2520PARIS%2520FAIRIEST%2520NUDE.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA78123904",
+      "title": "Labiales Satinados Colores Clásicos",
+      "price": 27999,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/005/858/878/products/my814022-4-tono-2-jpg-web-1935b7d7d3b32784f217592583675724-1024-1024.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA89237401",
+      "title": "Labial Maybelline SuperStay Matte Ink",
+      "price": 42999,
+      "thumbnail": "https://farmacityar.vtexassets.com/arquivos/ids/285823/232120_labial-liquido-maybelline-superstay-matte-ink_imagen-3.jpg?v=638984869527030000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA89237402",
+      "title": "Labial Maybelline Color Sensational Cremoso",
+      "price": 38999,
+      "thumbnail": "https://m.media-amazon.com/images/I/71R482a+GpL._SL1500_.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA89237403",
+      "title": "Labial Maybelline Vinyl Ink Brillo Intenso",
+      "price": 44999,
+      "thumbnail": "https://farmaciadardationline.com.ar/wp-content/uploads/2025/03/41554080421.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA89237404",
+      "title": "Labial Maybelline Lifter Gloss Hidratante",
+      "price": 41999,
+      "thumbnail": "https://perfugroupar.vtexassets.com/arquivos/ids/173653/Petal--1-.png?v=637872810707270000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA90328472",
+      "title": "Labial loreal paris Rouge Signature Líquido",
+      "price": 43999,
+      "thumbnail": "https://m.media-amazon.com/images/I/5123aqejqFL.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA90328473",
+      "title": "Labial loreal paris Color Riche Satinado",
+      "price": 41999,
+      "thumbnail": "https://static.beautytocare.com/media/catalog/product/l/-/l-oreal-paris-color-riche-satin-lipstick-112-paris-paris.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA90328473",
+      "title": "Labial L’Oréal Paris Color Riche Satinado",
+      "price": 41999,
+      "thumbnail": "https://static.beautytocare.com/media/catalog/product/l/-/l-oreal-paris-color-riche-satin-lipstick-124-s-il-vous-plait.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA90328474",
+      "title": "Labial loreal paris Glow Paradise Hidratante",
+      "price": 39999,
+      "thumbnail": "https://perfugroupar.vtexassets.com/arquivos/ids/193054/71249650042_1.jpg?v=638283281155370000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
       "id": "MLA94",
       "title": "Mascara de Pestanas Waterproof",
       "price": 8900,
@@ -6138,33 +6378,7 @@
           "name": "herramientas"
         },
         {
-          "name": "accesorios para herramientas"
-        },
-        {
-          "name": "mechas"
-        }
-      ]
-    },
-    {
-      "id": "MLA287",
-      "title": "Set Brocas Madera 8 Piezas",
-      "price": 9900,
-      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/343456/1049966.jpg?v=638131076924330000",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Santa Fe"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "accesorios para herramientas"
-        },
-        {
-          "name": "mechas"
+          "name": "accesorios"
         }
       ]
     },
@@ -6184,10 +6398,27 @@
           "name": "Herramientas"
         },
         {
-          "name": "Accesorios para Herramientas"
+          "name": "accesorios"
+        }
+      ]
+    },
+    {
+      "id": "MLA287",
+      "title": "Set Brocas Madera 8 Piezas",
+      "price": 9900,
+      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/343456/1049966.jpg?v=638131076924330000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
         },
         {
-          "name": "Puntas"
+          "name": "accesorios"
         }
       ]
     },
@@ -8558,26 +8789,6 @@
       },
       "address": {
         "state_name": "Entre Rios"
-      },
-      "category_path_from_root": [
-        {
-          "name": "hogar"
-        },
-        {
-          "name": "cocina"
-        }
-      ]
-    },
-    {
-      "id": "MLA788",
-      "title": "Organizador de heladera cajones set x4",
-      "price": 34900,
-      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/334/844/products/whatsapp-image-2020-10-25-at-22-30-04-31-ddf66495a7195bd8cc16036761421305-1024-1024.webp",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Chaco"
       },
       "category_path_from_root": [
         {
@@ -11067,6 +11278,506 @@
       ]
     },
     {
+      "id": "MLA98123401",
+      "title": "Heladera Samsung No Frost 382L Inverter",
+      "price": 1899999,
+      "thumbnail": "https://images.samsung.com/is/image/samsung/ar-rt38k5932sl-rt38k5932sl-b3-rperspectivesilver-83969673?$Q90_1248_936_F_PNG$",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123402",
+      "title": "Heladera LG No Frost 375L Door Cooling",
+      "price": 1799999,
+      "thumbnail": "https://f.fcdn.app/imgs/ff6792/tienda.soysantander.com.uy/comp/d9ac/original/catalogo/HELG37SPP_GB37SPP_4/1500-1500/heladera-lg-gb37spp-inverter-con-dispensador-336-litros-gris-inox.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123403",
+      "title": "Heladera Whirlpool No Frost 430L Xpert Inverter",
+      "price": 1999999,
+      "thumbnail": "https://dcdn-us.mitiendanube.com/stores/004/814/176/products/blanca-2-2b31485b484fea4ee417607261158140-1024-1024.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123404",
+      "title": "Heladera Electrolux No Frost 360L Inverter",
+      "price": 1699999,
+      "thumbnail": "https://electroluxar.vtexassets.com/arquivos/ids/162885/electrolux_HENI3000P-1000x1000-1.jpg?v=638245924605800000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123405",
+      "title": "Heladera Patrick No Frost 330L Clase A",
+      "price": 1399999,
+      "thumbnail": "https://petenattiar.vtexassets.com/arquivos/ids/209750/HELADERA-PATRICK-HPK450M00L-420Lts-NO-FROST-METALICA.jpg?v=637932531917700000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123406",
+      "title": "Heladera Gafa No Frost 400L Display Digital",
+      "price": 1599999,
+      "thumbnail": "https://www.cetrogar.com.ar/media/catalog/product/l/b/lb3768_3_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "La Plata"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123407",
+      "title": "Heladera Samsung Side by Side 600L Inverter",
+      "price": 3299999,
+      "thumbnail": "https://images.fravega.com/f1000/1ea875cbb29367b34f8840eda73dad68.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123408",
+      "title": "Heladera LG Side by Side 670L InstaView",
+      "price": 3799999,
+      "thumbnail": "https://www.lg.com/content/dam/channel/wcms/co/images/neveras/ls66sxsc_astcclm_escb_co_c/gallery/1-1600x1062-1.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123409",
+      "title": "Heladera Whirlpool Top Mount 340L No Frost",
+      "price": 1499999,
+      "thumbnail": "https://aremsaprod.vtexassets.com/arquivos/ids/735802/152752_01.jpg?v=638647926577670000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "San Juan"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123410",
+      "title": "Heladera Electrolux Inverter 431L Freezer Superior",
+      "price": 1899999,
+      "thumbnail": "https://images.fravega.com/f1000/f669421a4000e5a923c5ebec30c5c7fe.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Neuquén"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123411",
+      "title": "Heladera Gafa Ciclica 260L Eficiencia A",
+      "price": 999999,
+      "thumbnail": "https://images.fravega.com/f1000/4b9a5a9e9cf9fad49768f606f0d63e4e.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Tucumán"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123412",
+      "title": "Heladera Samsung Inverter 450L Digital Inverter",
+      "price": 2199999,
+      "thumbnail": "https://vstorearg.vtexassets.com/arquivos/ids/164251/742216471532.jpg?v=638628651134870000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110001",
+      "title": "Heladera Electrolux No Frost 364L Inverter Blanca",
+      "price": 1749999,
+      "thumbnail": "Heladera Electrolux No Frost 364L Inverter Blanca",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110003",
+      "title": "Heladera LG No Frost 395L Linear Cooling",
+      "price": 1849999,
+      "thumbnail": "https://lgear.vtexassets.com/arquivos/ids/158564/1-VT40MPM-copia--1-.jpg?v=638999321522130000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110004",
+      "title": "Heladera Samsung Digital Inverter 450L No Frost",
+      "price": 2199999,
+      "thumbnail": "https://electroabc.com.ar/wp-content/uploads/2022/12/RT48.png",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110005",
+      "title": "Heladera Philco No Frost 330L Clase A",
+      "price": 1399999,
+      "thumbnail": "https://images.fravega.com/f1000/487dfabb433aec20a9998f0147990d26.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110006",
+      "title": "Heladera Patrick No Frost 350L Freezer Superior",
+      "price": 1499999,
+      "thumbnail": "https://images.fravega.com/f1000/2f7d437dd2b752ff5750d2bd4b45adfc.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "San Juan"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110007",
+      "title": "Heladera Gafa No Frost 400L Display Digital",
+      "price": 1599999,
+      "thumbnail": "https://www.cetrogar.com.ar/media/catalog/product/l/b/lb3768_3_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "La Plata"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110008",
+      "title": "Heladera Kohinoor No Frost 300L Clase A",
+      "price": 1299999,
+      "thumbnail": "https://saturnohogar.vtexassets.com/arquivos/ids/157292-800-800?v=638358299013900000&width=800&height=800&aspect=true",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Tucumán"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110009",
+      "title": "Heladera Bosch Serie 4 No Frost 375L Inverter",
+      "price": 2899999,
+      "thumbnail": "https://www.manual.ar/thumbs/products/l/766336-bosch-serie-4-kgn36vl35.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110010",
+      "title": "Heladera Siemens iQ300 No Frost 380L Premium",
+      "price": 3099999,
+      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/369432-800-800?v=638392855890330000&width=800&height=800&aspect=true",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110011",
+      "title": "Heladera Mabe No Frost 340L Eficiencia A",
+      "price": 1449999,
+      "thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/422948/Heladera-Mabe-Hma335nfmd-Nf-295l-S-1-245035.jpg?v=636481033984030000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110012",
+      "title": "Heladera Drean No Frost 360L Inverter",
+      "price": 1549999,
+      "thumbnail": "https://www.rodo.com.ar/media/catalog/product/cache/855090a5c67e45b26c9e0d345e7592dc/h/e/heladera_c-freezer_c_clica_392lts_drean_hdr400f41s_gris_1_.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "San Luis"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110013",
+      "title": "Heladera BGH No Frost 320L Clase A",
+      "price": 1349999,
+      "thumbnail": "https://static.hendel.com/media/catalog/product/cache/b866fd8d147dcce474dc8744e477ca66/4/0/40414ab-4_1.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Entre Ríos"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110014",
+      "title": "Heladera Hisense No Frost 470L Multi Air Flow",
+      "price": 1899999,
+      "thumbnail": "https://hisense.cl/wp-content/uploads/2024/10/RQ5P470NECF-1-1.png",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Neuquén"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
       "id": "MLA1221",
       "title": "Hidrolavadora Karcher K2",
       "price": 399999,
@@ -11396,6 +12107,566 @@
       },
       "address": {
         "state_name": "San Juan"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230001",
+      "title": "Lavarropas Samsung Carga Frontal 8.5Kg Inverter",
+      "price": 1499999,
+      "thumbnail": "https://impomarc.com/cdn/shop/products/Lavadora-carga-frontal-samsung-8-kg-2.jpg?v=1614815458",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230001",
+      "title": "Lavarropas Samsung Carga Frontal 8.5Kg Inverter",
+      "price": 1499999,
+      "thumbnail": "https://ferromar.com.ar/wp-content/uploads/2019/06/173436232910fb15c77258a991b0028080a64fb42d.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230003",
+      "title": "Lavarropas Whirlpool Carga Superior 8Kg Automatico",
+      "price": 1199999,
+      "thumbnail": "https://whirlpoolargio.vtexassets.com/arquivos/ids/167786/1000x1000_perspective-min.jpg?v=639023690147030000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230004",
+      "title": "Lavarropas Electrolux Carga Frontal 10Kg Inverter",
+      "price": 1699999,
+      "thumbnail": "https://electroluxar.vtexassets.com/arquivos/ids/160043/lavarropas-carga-frontal-electrolux-inverter-elaf210b-10-kg.-_Detalhe1.png?v=638851641528030000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230005",
+      "title": "Lavarropas Drean Concept Neo 6.05 V1 6Kg Automatico",
+      "price": 899999,
+      "thumbnail": "https://tiribellihogar.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/d/r/drean_11_.png",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230006",
+      "title": "Lavarropas Gafa Automatico 7Kg Carga Superior",
+      "price": 999999,
+      "thumbnail": "https://electroluxar.vtexassets.com/arquivos/ids/163740/2Washer_FuzzyFit_White_Perspective_Gafa_Spanish.jpg?v=638773031924900000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "La Plata"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230007",
+      "title": "Lavarropas Philco Carga Superior 8Kg Automatico",
+      "price": 949999,
+      "thumbnail": "https://images.fravega.com/f1000/bc831fe67047ab0b9d9cb49b9ccc9abb.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "San Juan"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230008",
+      "title": "Lavarropas Patrick Carga Superior 7Kg Automatico",
+      "price": 919999,
+      "thumbnail": "https://www.manual.ar/thumbs/products/l/1852433-patrick-ltpk79sb.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Tucumán"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230009",
+      "title": "Lavarropas Bosch Serie 4 Carga Frontal 9Kg Inverter",
+      "price": 2399999,
+      "thumbnail": "https://f.fcdn.app/imgs/5ad3c5/bagno-company.com/bagnuy/1302/original/catalogo/WGG244A0ES_WGG244A0ES_2/1500-1500/lavarropas-carga-frontal-bosch-9-kg-bco-lavarropas-carga-frontal-bosch-9-kg-bco.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230010",
+      "title": "Lavarropas Siemens iQ300 Carga Frontal 8Kg Inverter",
+      "price": 2599999,
+      "thumbnail": "https://www.manual.ar/thumbs/products/l/1055362-siemens-iq300-wm14n0g1.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230011",
+      "title": "Lavarropas Hisense Carga Frontal 8Kg Automatico",
+      "price": 1299999,
+      "thumbnail": "https://maxihogar.vtexassets.com/arquivos/ids/166182/Lavarropas-Hisense.png?v=638552116916630000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Neuquén"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230012",
+      "title": "Lavarropas Mabe Carga Superior 7Kg Automatico",
+      "price": 879999,
+      "thumbnail": "https://surtihogar.co/wp-content/uploads/2022/01/757638973335-001-1400Wx1400H.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340021",
+      "title": "Lavarropas Samsung Carga Frontal 7Kg Digital Inverter",
+      "price": 1399999,
+      "thumbnail": "https://vstorearg.vtexassets.com/arquivos/ids/162030/SAWW70A4000EE-2.jpg?v=638835333882070000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340022",
+      "title": "Lavarropas Samsung Carga Superior 9Kg Automatico",
+      "price": 1249999,
+      "thumbnail": "https://images.fravega.com/f1000/08f81e8c3620330b564540e087b0020e.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340023",
+      "title": "Lavarropas LG Carga Frontal 8Kg Inverter Direct Drive",
+      "price": 1499999,
+      "thumbnail": "https://images.fravega.com/f1000/4feb75e4e4c7388667a60e9eaea3d7ed.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340024",
+      "title": "Lavarropas LG Carga Frontal 11Kg Inverter AI DD",
+      "price": 1999999,
+      "thumbnail": "https://lgear.vtexassets.com/arquivos/ids/157258-800-auto?v=638775760826500000&width=800&height=auto&aspect=true",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340025",
+      "title": "Lavarropas Whirlpool Carga Frontal 9Kg Inverter",
+      "price": 1549999,
+      "thumbnail": "https://whirlpoolarg.vtexassets.com/arquivos/ids/167669-800-auto?v=639023680474870000&width=800&height=auto&aspect=true",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340026",
+      "title": "Lavarropas Whirlpool Carga Superior 10Kg Automatico",
+      "price": 1299999,
+      "thumbnail": "https://images.fravega.com/f1000/1cd44d6e57a5ad4e88b12442f41dfb34.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "San Juan"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340027",
+      "title": "Lavarropas Electrolux Carga Frontal 8Kg Eco Inverter",
+      "price": 1449999,
+      "thumbnail": "https://electroluxar.vtexassets.com/arquivos/ids/164553/Washmachine_ELAF208W_Perspective_Electrolux_Spanish.jpg?v=639009675906670000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "La Plata"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340028",
+      "title": "Lavarropas Electrolux Carga Superior 7Kg Automatico",
+      "price": 999999,
+      "thumbnail": "https://previsoraarg.vtexassets.com/arquivos/ids/161232-800-auto?v=638828336787200000&width=800&height=auto&aspect=true",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Tucumán"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340029",
+      "title": "Lavarropas Drean Next Eco 8.12 Carga Superior",
+      "price": 919999,
+      "thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/492692/Lavarropas-Drean-Next-812-8-Kg-1-35835.jpg?v=636756048403600000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340030",
+      "title": "Lavarropas Drean Concept Neo 7.09 V1 Automatico",
+      "price": 879999,
+      "thumbnail": "https://castillo.vtexassets.com/arquivos/ids/176966-800-auto?v=638875880994230000&width=800&height=auto&aspect=true",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Entre Ríos"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340031",
+      "title": "Lavarropas Gafa Automatico 8Kg Carga Superior",
+      "price": 959999,
+      "thumbnail": "https://images.fravega.com/f1000/88a3b24795a5c1fe019a83b9b3afb119.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Chaco"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340032",
+      "title": "Lavarropas Philco Carga Superior 9Kg Automatico",
+      "price": 979999,
+      "thumbnail": "https://images.fravega.com/f1000/bf1d4e84a3389b7e3205cd8f8e5c9eee.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Formosa"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340033",
+      "title": "Lavarropas Patrick Carga Superior 8Kg Automatico",
+      "price": 939999,
+      "thumbnail": "https://jumboargentina.vtexassets.com/arquivos/ids/460307-800-600?v=636628172240670000&width=800&height=600&aspect=true",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "San Luis"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340034",
+      "title": "Lavarropas Bosch Serie 6 Carga Frontal 10Kg Inverter",
+      "price": 2699999,
+      "thumbnail": "https://www.cetrogar.com.ar/media/catalog/product/l/b/lb3796_2_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340035",
+      "title": "Lavarropas Siemens iQ500 Carga Frontal 9Kg Premium",
+      "price": 2899999,
+      "thumbnail": "https://cdnx.jumpseller.com/verde-olivo1/image/58208135/resize/1800/1800?1733907741",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340036",
+      "title": "Lavarropas Hisense Carga Superior 8Kg Automatico",
+      "price": 1099999,
+      "thumbnail": "https://images.fravega.com/f1000/2e7e275fc052c0bc1acfa60cf03bd405.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Neuquén"
       },
       "category_path_from_root": [
         {
@@ -14007,26 +15278,6 @@
       ]
     },
     {
-      "id": "MLA387",
-      "title": "Bombacha Algodon Pack 3",
-      "price": 17900,
-      "thumbnail": "https://acdn-us.mitiendanube.com/stores/003/623/733/products/0001-32953450076_jpg11-b5ae3b04f051e56b1816944679315039-1024-1024.webp",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Cordoba"
-      },
-      "category_path_from_root": [
-        {
-          "name": "ropa"
-        },
-        {
-          "name": "bombachas"
-        }
-      ]
-    },
-    {
       "id": "MLA402",
       "title": "Borcegos Urbanos Marrones",
       "price": 179000,
@@ -15936,6 +17187,266 @@
       },
       "address": {
         "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA7834529101",
+      "title": "Remera para hombre Nike algodón manga corta temporada verano",
+      "price": 27999,
+      "thumbnail": "https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwf3be880c/products/NIFJ1079-365/NIFJ1079-365-1.JPG",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA7834529102",
+      "title": "Remera para hombre Adidas Originals clásica algodón temporada primavera",
+      "price": 25999,
+      "thumbnail": "https://www.blowland.com.ar/1933-thickbox_default/adidas-originals-remera-lifestyle-hombre-trefoil-azul-blanco-.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA7834529103",
+      "title": "Remera para hombre Levi's lisa corte regular temporada invierno",
+      "price": 31999,
+      "thumbnail": "https://solomayoristas.club/wp-content/uploads/2024/03/IMG_6090-scaled.jpg",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA7834529104",
+      "title": "Remera deportiva para hombre Nike Dri-FIT entrenamiento temporada verano",
+      "price": 29999,
+      "thumbnail": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw8451480a/products/NI_DD1992-010/NI_DD1992-010-1.JPG",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA7834529105",
+      "title": "Remera deportiva para hombre Adidas Aeroready running temporada primavera",
+      "price": 28999,
+      "thumbnail": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw310fd315/products/ADHR6607/ADHR6607-1.JPG",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA7834529106",
+      "title": "Remera deportiva para hombre Puma DryCELL gym temporada verano",
+      "price": 26999,
+      "thumbnail": "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwf5cf933e/products/PU525546-01/PU525546-01-1.JPG",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA8923411201",
+      "title": "Remera para hombre Nike algodón estampada urbana temporada verano",
+      "price": 28999,
+      "thumbnail": "https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwa53e5b01/products/NIDR8064-010/NIDR8064-010-1.JPG",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA8923411202",
+      "title": "Remera para hombre Adidas Essentials lisa algodón temporada primavera",
+      "price": 24999,
+      "thumbnail": "https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwe718a3c9/products/ADIZ2106/ADIZ2106-1.JPG",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA8923411203",
+      "title": "Remera para hombre Levi's básica cuello redondo temporada invierno",
+      "price": 32999,
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvGQWo3zOsFuNM44UXnZIPWy6rkq3Y1fxQOw&s",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA8923411204",
+      "title": "Remera para hombre Tommy Hilfiger clásica logo frontal temporada primavera",
+      "price": 38999,
+      "thumbnail": "https://dcdn-us.mitiendanube.com/stores/003/850/266/products/img_8135-808a1ea36247ea391c17668431898144-1024-1024.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA8923411205",
+      "title": "Remera deportiva para hombre Nike Dri-FIT entrenamiento temporada verano",
+      "price": 29999,
+      "thumbnail": "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw5afced5e/products/NI_DM4811-432/NI_DM4811-432-1.JPG",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA8923411206",
+      "title": "Remera deportiva para hombre Adidas Aeroready running temporada primavera",
+      "price": 28999,
+      "thumbnail": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw4e3d57fa/products/ADIW0038/ADIW0038-1.JPG",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA8923411207",
+      "title": "Remera deportiva para hombre Puma DryCELL gimnasio temporada verano",
+      "price": 26999,
+      "thumbnail": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw256a5c84/products/PU_517318-27/PU_517318-27-01.JPG",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Neuquén"
       },
       "category_path_from_root": [
         {
@@ -24142,6 +25653,206 @@
       },
       "address": {
         "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023451",
+      "title": "Parlante Premium Bose SoundLink Revolve+ II Bluetooth 360°",
+      "price": 1299999,
+      "thumbnail": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/speakers/soundlink_revolve_plus_ii/product_silo_images/SoundLink_Revolve_Plus_II_Black_Ecom_4.png/jcr:content/renditions/cq5dam.web.1920.1920.png",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023452",
+      "title": "Parlante JBL Boombox 3 Bluetooth Alta Potencia Waterproof",
+      "price": 1499999,
+      "thumbnail": "https://www.musicosas.com.ar/wp-content/uploads/2024/11/58502_4-1.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023453",
+      "title": "Parlante Sony SRS-XG500 Extra Bass Bluetooth Portátil",
+      "price": 1199999,
+      "thumbnail": "https://www.cdmarket.com.ar/image/0/1000_1300-336625_2.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023454",
+      "title": "Parlante Marshall Stanmore II Bluetooth Sonido Hi-Fi",
+      "price": 1799999,
+      "thumbnail": "https://istore.gt/wp-content/uploads/2023/06/ART005085i.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023455",
+      "title": "Parlante Marshall Woburn III Bluetooth Alta Fidelidad",
+      "price": 2499999,
+      "thumbnail": "https://media.solotodo.com/media/products/1735064_picture_1678536123.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023456",
+      "title": "Parlante Bang & Olufsen Beosound A5 Premium Bluetooth",
+      "price": 3299999,
+      "thumbnail": "https://electroacustica.pe/wp-content/uploads/2024/04/Beosound-5-03.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023457",
+      "title": "Parlante Harman Kardon Aura Studio 4 Sonido 360°",
+      "price": 1399999,
+      "thumbnail": "https://carrefourar.vtexassets.com/arquivos/ids/669856/6925281961977_01.jpg?v=638848261131300000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023458",
+      "title": "Parlante Sonos Five WiFi Alta Fidelidad Multiroom",
+      "price": 1999999,
+      "thumbnail": "https://sonospoint.com.ar/wp-content/uploads/2024/02/FIVE1US1BLK_3.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023459",
+      "title": "Parlante Klipsch The One II Bluetooth Sonido Profesional",
+      "price": 1599999,
+      "thumbnail": "https://lafargayherranz.com/wp-content/uploads/2023/07/Klipsch-The-One-II-parte-trasera.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023460",
+      "title": "Parlante Devialet Phantom I 108dB Ultra High-End",
+      "price": 7999999,
+      "thumbnail": "https://m.media-amazon.com/images/I/61wJXPZcdhL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
       },
       "category_path_from_root": [
         {

@@ -15,6 +15,9 @@ const SearchResults = () => {
   const all = productsData.results
   console.log('products.length', all.length)
   const { items, breadcrumb } = searchProducts(all, query, { limit: 4 })
+// const res = searchProducts(all, query, { limit: 4 })
+// const { items, breadcrumb } = res
+// console.log('intent', res.intent)
 
   return (
     <div>

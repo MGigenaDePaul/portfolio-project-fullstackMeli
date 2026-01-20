@@ -68,7 +68,8 @@ const extractCpu = (joined) => {
   if (intel) return { brand: 'intel', tier: intel[1], model: intel[2] || null }
 
   const ryzen = joined.match(/\b(ryzen|r)\s*([3579])\s*([0-9]{4,5}[a-z]?)?\b/)
-  if (ryzen) return { brand: 'amd', tier: `r${ryzen[2]}`, model: ryzen[3] || null }
+  if (ryzen)
+    return { brand: 'amd', tier: `r${ryzen[2]}`, model: ryzen[3] || null }
 
   return { brand: null, tier: null, model: null }
 }
@@ -84,7 +85,11 @@ const extractGpu = (joined) => {
   const rx = joined.match(/\brx\s*(\d{3,4})\b/)
   if (rx) return { brand: 'amd', series: 'rx', model: rx[1] }
 
-  if (joined.includes('integrada') || joined.includes('uhd') || joined.includes('vega')) {
+  if (
+    joined.includes('integrada') ||
+    joined.includes('uhd') ||
+    joined.includes('vega')
+  ) {
     return { brand: 'integrada', series: null, model: null }
   }
 
@@ -112,7 +117,8 @@ export const isPcQuery = (q) => {
     tokens.some((t) => t === 'ram' || t === 'ssd' || t === 'hdd')
 
   const hasBrand = tokens.some((t) => pcBrands.has(t))
-  const hasGamerSignal = tokens.some((t) => gamerWords.has(t)) || joined.includes('pc gamer')
+  const hasGamerSignal =
+    tokens.some((t) => gamerWords.has(t)) || joined.includes('pc gamer')
 
   if (hasPcWord) return true
   if (hasGamerSignal) return true
@@ -171,10 +177,20 @@ export const extractPcSpecs = (q) => {
     }
 
     // storage type
-    if (t === 'ssd' || t === 'hdd' || t === 'nvme' || t === 'm2' || t === 'm.2') {
+    if (
+      t === 'ssd' ||
+      t === 'hdd' ||
+      t === 'nvme' ||
+      t === 'm2' ||
+      t === 'm.2'
+    ) {
       storageType = t === 'm2' || t === 'm.2' ? 'nvme' : t
-      if (tokens[i + 1] && (isGBToken(tokens[i + 1]) || isTBToken(tokens[i + 1]))) {
-        if (isTBToken(tokens[i + 1])) storage = String(parseInt(tokens[i + 1], 10) * 1024)
+      if (
+        tokens[i + 1] &&
+        (isGBToken(tokens[i + 1]) || isTBToken(tokens[i + 1]))
+      ) {
+        if (isTBToken(tokens[i + 1]))
+          storage = String(parseInt(tokens[i + 1], 10) * 1024)
         else storage = String(parseInt(tokens[i + 1].replace('gb', ''), 10))
       }
     }
@@ -299,7 +315,8 @@ export const matchesPcSpecs = (product, specs = {}) => {
 
   // storageType (suave)
   if (specs.storageType) {
-    const st = specs.storageType === 'nvme' ? ['nvme', 'm.2', 'm2'] : [specs.storageType]
+    const st =
+      specs.storageType === 'nvme' ? ['nvme', 'm.2', 'm2'] : [specs.storageType]
     if (!st.some((w) => text.includes(w))) {
       // no lo descartamos para no perder resultados
     }

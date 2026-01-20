@@ -10,6 +10,11 @@ import { isPcProduct, matchesPcSpecs } from './pc'
 import { isHeadphoneProduct } from './auriculares'
 import { isTvProduct, matchesTvSpecs } from './televisores'
 import { isTabletProduct, matchesTabletSpecs } from './tablet'
+import { isSpeakerProduct, matchesSpeakerSpecs } from './parlante'
+import { isBeautyProduct, matchesBeautySpecs } from './beauty'
+import { isHeladeraProduct, matchesHeladeraSpecs } from './heladera'
+import { isLavarropaProduct, matchesLavarropaSpecs } from './lavarropa'
+import { isRemeraProduct, matchesRemeraSpecs, remeraDropTokens } from './remera'
 
 export function searchProducts(all, rawQuery, { limit = 4 } = {}) {
   const q = normalize(rawQuery || '')
@@ -17,9 +22,10 @@ export function searchProducts(all, rawQuery, { limit = 4 } = {}) {
 
   let pool = all
 
-  // 1) pool por categoría (fuerte)
+  // 1) pool por categoría (fuerte, pero si deja 0 no rompemos)
   if (intent.categoryHint?.length) {
-    pool = pool.filter((p) => matchesPathPrefix(p, intent.categoryHint))
+    const byCat = pool.filter((p) => matchesPathPrefix(p, intent.categoryHint))
+    if (byCat.length > 0) pool = byCat
   }
 
   // 2) filtros especiales
@@ -37,7 +43,7 @@ export function searchProducts(all, rawQuery, { limit = 4 } = {}) {
     pool = pool.filter((p) => isPcProduct(p))
     pool = pool.filter((p) => matchesPcSpecs(p, intent.pcSpecs))
   }
-  
+
   if (intent.type === 'tablet') {
     pool = pool.filter((p) => isTabletProduct(p))
     pool = pool.filter((p) => matchesTabletSpecs(p, intent.tabletSpecs))
@@ -51,6 +57,39 @@ export function searchProducts(all, rawQuery, { limit = 4 } = {}) {
     pool = pool.filter((p) => isTvProduct(p))
     pool = pool.filter((p) => matchesTvSpecs(p, intent.tvSpecs))
   }
+
+  if (intent.type === 'speaker') {
+    pool = pool.filter((p) => isSpeakerProduct(p))
+    pool = pool.filter((p) => matchesSpeakerSpecs(p, intent.speakerSpecs))
+  }
+
+  if (intent.type === 'beauty') {
+    pool = pool.filter((p) => isBeautyProduct(p))
+    pool = pool.filter((p) => matchesBeautySpecs(p, intent.beautySpecs))
+  }
+
+  if (intent.type === 'heladera') {
+    pool = pool.filter((p) => isHeladeraProduct(p))
+    pool = pool.filter((p) => matchesHeladeraSpecs(p, intent.heladeraSpecs))
+  }
+
+  if (intent.type === 'lavarropa') {
+    pool = pool.filter((p) => isLavarropaProduct(p))
+    pool = pool.filter((p) => matchesLavarropaSpecs(p, intent.lavarropaSpecs))
+  }
+
+ if (intent.type === 'remera') {
+  console.log('REMERAS start', pool.length)
+
+  const a = pool.filter((p) => isRemeraProduct(p))
+  console.log('REMERAS after isRemeraProduct', a.length)
+
+  const b = a.filter((p) => matchesRemeraSpecs(p, intent.remeraSpecs))
+  console.log('REMERAS after matchesRemeraSpecs', b.length, intent.remeraSpecs)
+
+  pool = b
+}
+
 
   if (intent.type === 'camera') {
     // fallback por texto para evitar colados raros (por si hay alguno mal categorizado)
@@ -131,6 +170,29 @@ export function searchProducts(all, rawQuery, { limit = 4 } = {}) {
       'ear',
       'over',
     )
+  }
+
+  if (intent.type === 'heladera') {
+    drop.push(
+      'heladera',
+      'heladeras',
+      'refrigerador',
+      'refrigeradora',
+      'freezer',
+      'no',
+      'frost',
+      'nofrost',
+      'inverter',
+      'litro',
+      'litros',
+      'l',
+      'lt',
+      'lts',
+    )
+  }
+
+  if (intent.type === 'remera') {
+    drop.push(...remeraDropTokens)
   }
 
   // 4.9) query para match de texto (sinónimos)

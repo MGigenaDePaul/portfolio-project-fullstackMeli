@@ -4,6 +4,7 @@ import { matchesPathPrefix } from './categoryMatch'
 
 export const isPhoneQuery = (q) => {
   const tokens = tokenize(q)
+
   const phoneWords = new Set([
     'celular',
     'celulares',
@@ -14,6 +15,7 @@ export const isPhoneQuery = (q) => {
     'iphone',
     'android',
   ])
+
   const brands = new Set([
     'iphone',
     'apple',
@@ -28,7 +30,18 @@ export const isPhoneQuery = (q) => {
     'poco',
     'redmi',
   ])
-  return tokens.some((t) => phoneWords.has(t) || brands.has(t))
+
+  const hasPhoneWord = tokens.some((t) => phoneWords.has(t))
+  const hasBrand = tokens.some((t) => brands.has(t))
+
+  // si NO hay palabra de celular, no asumas phone solo por marca
+  if (!hasPhoneWord) {
+    // excepción: iphone suele implicar phone
+    if (tokens.includes('iphone')) return true
+    return false
+  }
+
+  return hasPhoneWord || hasBrand
 }
 
 export const isPhoneProduct = (product) => {

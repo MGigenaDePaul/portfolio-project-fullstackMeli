@@ -7,7 +7,11 @@ import { isNotebookQuery, extractNotebookSpecs } from './notebook'
 import { isPcQuery, extractPcSpecs } from './pc'
 import { isTvQuery, extractTvSpecs } from './televisores'
 import { isTabletQuery, extractTabletSpecs } from './tablet'
-
+import { isSpeakerQuery, extractSpeakerSpecs } from './parlante'
+import { isBeautyQuery, extractBeautySpecs } from './beauty'
+import { isHeladeraQuery, parseHeladeraQuery } from './heladera'
+import { isLavarropaQuery, parseLavarropaQuery } from './lavarropa'
+import { isRemeraQuery, parseRemeraQuery } from './remera'
 const securityKeywords = new Set([
   'seguridad',
   'security',
@@ -99,11 +103,29 @@ export const detectIntent = (q) => {
     }
   }
 
+  if (isSpeakerQuery(q)) {
+    return {
+      type: 'speaker',
+      categoryHint: ['tecnologia', 'parlantes'],
+      speakerSpecs: extractSpeakerSpecs(q),
+    }
+  }
+
   if (isTabletQuery(q)) {
     return {
       type: 'tablet',
       categoryHint: ['tecnologia', 'tablets'],
       tabletSpecs: extractTabletSpecs(q),
+    }
+  }
+
+  if (isBeautyQuery(q)) {
+    const beautySpecs = extractBeautySpecs(q)
+
+    return {
+      type: 'beauty',
+      categoryHint: beautySpecs.categoryHint || ['belleza'],
+      beautySpecs,
     }
   }
 
@@ -134,7 +156,23 @@ export const detectIntent = (q) => {
     return {
       type: 'pc',
       categoryHint: ['tecnologia', 'pcs'],
-      notebookSpecs: extractPcSpecs(q),
+      pcSpecs: extractPcSpecs(q),
+    }
+  }
+
+  if (isHeladeraQuery(q)) {
+    return {
+      type: 'heladera',
+      categoryHint: ['hogar', 'electrodomesticos', 'heladeras'],
+      heladeraSpecs: parseHeladeraQuery(q),
+    }
+  }
+
+  if (isLavarropaQuery(q)) {
+    return {
+      type: 'lavarropa',
+      categoryHint: ['hogar', 'electrodomesticos', 'lavarropas'],
+      lavarropaSpecs: parseLavarropaQuery(q),
     }
   }
 
@@ -210,6 +248,14 @@ export const detectIntent = (q) => {
         'boxeo y artes marciales',
         'bolsas de boxeo',
       ],
+    }
+  }
+
+  if (isRemeraQuery(q)) {
+    return {
+      type: 'remera',
+      categoryHint: ['ropa', 'remeras'],
+      remeraSpecs: parseRemeraQuery(q),
     }
   }
 

@@ -120,23 +120,6 @@
       ]
     },
     {
-      "id": "MLA695",
-      "title": "Mini heladera cosmetica 6L para skincare",
-      "price": 189900,
-      "condition": "new",
-      "sold_quantity": 1101,
-      "fullImage": "https://images.bidcom.com.ar/resize?src=https://static.bidcom.com.ar/publicacionesML/productos/MINHELA1/1000x1000-MINHELA1-A.jpg&w=800&q=100",
-      "description": "Mini heladera cosmetica 6L para skincare. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
-      "category_path_from_root": [
-        {
-          "name": "belleza"
-        },
-        {
-          "name": "accesorios"
-        }
-      ]
-    },
-    {
       "id": "MLA696",
       "title": "Kit brochas ojos precision pack x8",
       "price": 24900,
@@ -278,7 +261,7 @@
       "price": 36900,
       "condition": "new",
       "sold_quantity": 3963,
-      "fullImage": "https://farmacityar.vtexassets.com/arquivos/ids/270546/227775_serum-facial-garnier-iluminador-vitamina-c-x-30-ml__imagen-1.jpg.jpg?v=638828226852730000",
+      "fullImage": "https://farmacityar.vtexassets.com/arquivos/ids/287333/227775_serum-facial-garnier-anti-manchas-x-30-ml__imagen-1.jpg?v=639038403135200000",
       "description": "Serum vitamina C iluminador 30ml. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
       "category_path_from_root": [
         {
@@ -3486,6 +3469,193 @@
       ]
     },
     {
+      "id": "MLA78123901",
+      "title": "Labiales Mate Tonos Nude Larga Duración",
+      "price": 28999,
+      "condition": "new",
+      "sold_quantity": 3500,
+      "fullImage": "https://acdn-us.mitiendanube.com/stores/006/205/973/products/diseno-sin-titulo-2-06952f6e37c10e07fa17492319711069-1024-1024.webp",
+      "description": "Labiales Mate Tonos Nude Larga Duración. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA78123902",
+      "title": "Labiales Hidratantes Colores Intensos",
+      "price": 25999,
+      "condition": "new",
+      "sold_quantity": 237,
+      "fullImage": "https://vader-prod.s3.amazonaws.com/1701697913-61PCBPEpcML.jpg",
+      "description": "Labiales Hidratantes Colores Intensos. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA78123903",
+      "title": "Labiales Líquidos Efecto Mate Profesional",
+      "price": 31999,
+      "condition": "new",
+      "sold_quantity": 1173,
+      "fullImage": "https://lasmargaritas.vtexassets.com/arquivos/ids/2656794/LAB-LIQ-MATTE-QUEEN-NOTE-02.jpg?v=638775659667900000",
+      "description": "Labiales Líquidos Efecto Mate Profesional. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA78123904",
+      "title": "Labiales Satinados Colores Clásicos",
+      "price": 27999,
+      "condition": "new",
+      "sold_quantity": 3877,
+      "fullImage": "https://acdn-us.mitiendanube.com/stores/005/858/878/products/my814022-4-tono-2-jpg-web-1935b7d7d3b32784f217592583675724-1024-1024.webp",
+      "description": "Labiales Satinados Colores Clásicos. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA89237401",
+      "title": "Labial Maybelline SuperStay Matte Ink",
+      "price": 42999,
+      "condition": "new",
+      "sold_quantity": 2555,
+      "fullImage": "https://farmacityar.vtexassets.com/arquivos/ids/285823/232120_labial-liquido-maybelline-superstay-matte-ink_imagen-3.jpg?v=638984869527030000",
+      "description": "Labial Maybelline SuperStay Matte Ink. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA89237402",
+      "title": "Labial Maybelline Color Sensational Cremoso",
+      "price": 38999,
+      "condition": "new",
+      "sold_quantity": 2385,
+      "fullImage": "https://m.media-amazon.com/images/I/71R482a+GpL._SL1500_.jpg",
+      "description": "Labial Maybelline Color Sensational Cremoso. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA89237403",
+      "title": "Labial Maybelline Vinyl Ink Brillo Intenso",
+      "price": 44999,
+      "condition": "new",
+      "sold_quantity": 2024,
+      "fullImage": "https://farmaciadardationline.com.ar/wp-content/uploads/2025/03/41554080421.jpg",
+      "description": "Labial Maybelline Vinyl Ink Brillo Intenso. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA89237404",
+      "title": "Labial Maybelline Lifter Gloss Hidratante",
+      "price": 41999,
+      "condition": "new",
+      "sold_quantity": 1029,
+      "fullImage": "https://perfugroupar.vtexassets.com/arquivos/ids/173653/Petal--1-.png?v=637872810707270000",
+      "description": "Labial Maybelline Lifter Gloss Hidratante. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA90328472",
+      "title": "Labial loreal paris Rouge Signature Líquido",
+      "price": 43999,
+      "condition": "new",
+      "sold_quantity": 1798,
+      "fullImage": "https://m.media-amazon.com/images/I/5123aqejqFL.jpg",
+      "description": "Labial loreal paris Rouge Signature Líquido. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA90328473",
+      "title": "Labial L’Oréal Paris Color Riche Satinado",
+      "price": 41999,
+      "condition": "new",
+      "sold_quantity": 1954,
+      "fullImage": "https://static.beautytocare.com/media/catalog/product/l/-/l-oreal-paris-color-riche-satin-lipstick-124-s-il-vous-plait.jpg",
+      "description": "Labial loreal paris Color Riche Satinado. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
+      "id": "MLA90328474",
+      "title": "Labial loreal paris Glow Paradise Hidratante",
+      "price": 39999,
+      "condition": "new",
+      "sold_quantity": 2893,
+      "fullImage": "https://perfugroupar.vtexassets.com/arquivos/ids/193054/71249650042_1.jpg?v=638283281155370000",
+      "description": "Labial loreal paris Glow Paradise Hidratante. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "belleza"
+        },
+        {
+          "name": "maquillaje"
+        }
+      ]
+    },
+    {
       "id": "MLA94",
       "title": "Mascara de Pestanas Waterproof",
       "price": 8900,
@@ -5232,30 +5402,7 @@
           "name": "herramientas"
         },
         {
-          "name": "accesorios para herramientas"
-        },
-        {
-          "name": "mechas"
-        }
-      ]
-    },
-    {
-      "id": "MLA287",
-      "title": "Set Brocas Madera 8 Piezas",
-      "price": 9900,
-      "condition": "new",
-      "sold_quantity": 986,
-      "fullImage": "https://arcencohogar.vtexassets.com/arquivos/ids/343456/1049966.jpg?v=638131076924330000",
-      "description": "Set Brocas Madera 8 Piezas. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "accesorios para herramientas"
-        },
-        {
-          "name": "mechas"
+          "name": "accesorios"
         }
       ]
     },
@@ -5272,10 +5419,24 @@
           "name": "Herramientas"
         },
         {
-          "name": "Accesorios para Herramientas"
+          "name": "accesorios"
+        }
+      ]
+    },
+    {
+      "id": "MLA287",
+      "title": "Set Brocas Madera 8 Piezas",
+      "price": 9900,
+      "condition": "new",
+      "sold_quantity": 986,
+      "fullImage": "https://arcencohogar.vtexassets.com/arquivos/ids/343456/1049966.jpg?v=638131076924330000",
+      "description": "Set Brocas Madera 8 Piezas. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
         },
         {
-          "name": "Puntas"
+          "name": "accesorios"
         }
       ]
     },
@@ -7311,23 +7472,6 @@
       "sold_quantity": 1755,
       "fullImage": "https://i5.walmartimages.com/asr/b6d81441-fd57-4ff0-a279-465bc3c6b435.b55ac5a68f9e7df9c7316e551649a228.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
       "description": "Jabonera cocina adhesiva acero inoxidable. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
-      "category_path_from_root": [
-        {
-          "name": "hogar"
-        },
-        {
-          "name": "cocina"
-        }
-      ]
-    },
-    {
-      "id": "MLA788",
-      "title": "Organizador de heladera cajones set x4",
-      "price": 34900,
-      "condition": "new",
-      "sold_quantity": 3449,
-      "fullImage": "https://acdn-us.mitiendanube.com/stores/001/334/844/products/whatsapp-image-2020-10-25-at-22-30-04-31-ddf66495a7195bd8cc16036761421305-1024-1024.webp",
-      "description": "Organizador de heladera cajones set x4. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
       "category_path_from_root": [
         {
           "name": "hogar"
@@ -9483,6 +9627,431 @@
       ]
     },
     {
+      "id": "MLA98123401",
+      "title": "Heladera Samsung No Frost 382L Inverter",
+      "price": 1899999,
+      "condition": "new",
+      "sold_quantity": 1513,
+      "fullImage": "https://images.samsung.com/is/image/samsung/ar-rt38k5932sl-rt38k5932sl-b3-rperspectivesilver-83969673?$Q90_1248_936_F_PNG$",
+      "description": "Heladera Samsung No Frost 382L Inverter. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123402",
+      "title": "Heladera LG No Frost 375L Door Cooling",
+      "price": 1799999,
+      "condition": "new",
+      "sold_quantity": 2666,
+      "fullImage": "https://f.fcdn.app/imgs/ff6792/tienda.soysantander.com.uy/comp/d9ac/original/catalogo/HELG37SPP_GB37SPP_4/1500-1500/heladera-lg-gb37spp-inverter-con-dispensador-336-litros-gris-inox.jpg",
+      "description": "Heladera LG No Frost 375L Door Cooling. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123403",
+      "title": "Heladera Whirlpool No Frost 430L Xpert Inverter",
+      "price": 1999999,
+      "condition": "new",
+      "sold_quantity": 2078,
+      "fullImage": "https://dcdn-us.mitiendanube.com/stores/004/814/176/products/blanca-2-2b31485b484fea4ee417607261158140-1024-1024.webp",
+      "description": "Heladera Whirlpool No Frost 430L Xpert Inverter. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123404",
+      "title": "Heladera Electrolux No Frost 360L Inverter",
+      "price": 1699999,
+      "condition": "new",
+      "sold_quantity": 2115,
+      "fullImage": "https://electroluxar.vtexassets.com/arquivos/ids/162885/electrolux_HENI3000P-1000x1000-1.jpg?v=638245924605800000",
+      "description": "Heladera Electrolux No Frost 360L Inverter. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123405",
+      "title": "Heladera Patrick No Frost 330L Clase A",
+      "price": 1399999,
+      "condition": "new",
+      "sold_quantity": 2834,
+      "fullImage": "https://petenattiar.vtexassets.com/arquivos/ids/209750/HELADERA-PATRICK-HPK450M00L-420Lts-NO-FROST-METALICA.jpg?v=637932531917700000",
+      "description": "Heladera Patrick No Frost 330L Clase A. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123406",
+      "title": "Heladera Gafa No Frost 400L Display Digital",
+      "price": 1599999,
+      "condition": "new",
+      "sold_quantity": 2886,
+      "fullImage": "https://www.cetrogar.com.ar/media/catalog/product/l/b/lb3768_3_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
+      "description": "Heladera Gafa No Frost 400L Display Digital. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123407",
+      "title": "Heladera Samsung Side by Side 600L Inverter",
+      "price": 3299999,
+      "condition": "new",
+      "sold_quantity": 2935,
+      "fullImage": "https://images.fravega.com/f1000/1ea875cbb29367b34f8840eda73dad68.jpg",
+      "description": "Heladera Samsung Side by Side 600L Inverter. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123408",
+      "title": "Heladera LG Side by Side 670L InstaView",
+      "price": 3799999,
+      "condition": "new",
+      "sold_quantity": 2881,
+      "fullImage": "https://www.lg.com/content/dam/channel/wcms/co/images/neveras/ls66sxsc_astcclm_escb_co_c/gallery/1-1600x1062-1.jpg",
+      "description": "Heladera LG Side by Side 670L InstaView. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123409",
+      "title": "Heladera Whirlpool Top Mount 340L No Frost",
+      "price": 1499999,
+      "condition": "new",
+      "sold_quantity": 1952,
+      "fullImage": "https://aremsaprod.vtexassets.com/arquivos/ids/735802/152752_01.jpg?v=638647926577670000",
+      "description": "Heladera Whirlpool Top Mount 340L No Frost. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123410",
+      "title": "Heladera Electrolux Inverter 431L Freezer Superior",
+      "price": 1899999,
+      "condition": "new",
+      "sold_quantity": 1940,
+      "fullImage": "https://images.fravega.com/f1000/f669421a4000e5a923c5ebec30c5c7fe.jpg",
+      "description": "Heladera Electrolux Inverter 431L Freezer Superior. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123411",
+      "title": "Heladera Gafa Ciclica 260L Eficiencia A",
+      "price": 999999,
+      "condition": "new",
+      "sold_quantity": 1765,
+      "fullImage": "https://images.fravega.com/f1000/4b9a5a9e9cf9fad49768f606f0d63e4e.jpg",
+      "description": "Heladera Gafa Ciclica 260L Eficiencia A. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA98123412",
+      "title": "Heladera Samsung Inverter 450L Digital Inverter",
+      "price": 2199999,
+      "condition": "new",
+      "sold_quantity": 3107,
+      "fullImage": "https://vstorearg.vtexassets.com/arquivos/ids/164251/742216471532.jpg?v=638628651134870000",
+      "description": "Heladera Samsung Inverter 450L Digital Inverter. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110001",
+      "title": "Heladera Electrolux No Frost 364L Inverter Blanca",
+      "price": 1749999,
+      "condition": "new",
+      "sold_quantity": 3900,
+      "fullImage": "Heladera Electrolux No Frost 364L Inverter Blanca",
+      "description": "Heladera Electrolux No Frost 364L Inverter Blanca. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110003",
+      "title": "Heladera LG No Frost 395L Linear Cooling",
+      "price": 1849999,
+      "condition": "new",
+      "sold_quantity": 1582,
+      "fullImage": "https://lgear.vtexassets.com/arquivos/ids/158564/1-VT40MPM-copia--1-.jpg?v=638999321522130000",
+      "description": "Heladera LG No Frost 395L Linear Cooling. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110004",
+      "title": "Heladera Samsung Digital Inverter 450L No Frost",
+      "price": 2199999,
+      "condition": "new",
+      "sold_quantity": 133,
+      "fullImage": "https://electroabc.com.ar/wp-content/uploads/2022/12/RT48.png",
+      "description": "Heladera Samsung Digital Inverter 450L No Frost. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110005",
+      "title": "Heladera Philco No Frost 330L Clase A",
+      "price": 1399999,
+      "condition": "new",
+      "sold_quantity": 1643,
+      "fullImage": "https://images.fravega.com/f1000/487dfabb433aec20a9998f0147990d26.jpg",
+      "description": "Heladera Philco No Frost 330L Clase A. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110006",
+      "title": "Heladera Patrick No Frost 350L Freezer Superior",
+      "price": 1499999,
+      "condition": "new",
+      "sold_quantity": 2225,
+      "fullImage": "https://images.fravega.com/f1000/2f7d437dd2b752ff5750d2bd4b45adfc.jpg",
+      "description": "Heladera Patrick No Frost 350L Freezer Superior. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110007",
+      "title": "Heladera Gafa No Frost 400L Display Digital",
+      "price": 1599999,
+      "condition": "new",
+      "sold_quantity": 2004,
+      "fullImage": "https://www.cetrogar.com.ar/media/catalog/product/l/b/lb3768_3_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
+      "description": "Heladera Gafa No Frost 400L Display Digital. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110008",
+      "title": "Heladera Kohinoor No Frost 300L Clase A",
+      "price": 1299999,
+      "condition": "new",
+      "sold_quantity": 2959,
+      "fullImage": "https://saturnohogar.vtexassets.com/arquivos/ids/157292-800-800?v=638358299013900000&width=800&height=800&aspect=true",
+      "description": "Heladera Kohinoor No Frost 300L Clase A. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110009",
+      "title": "Heladera Bosch Serie 4 No Frost 375L Inverter",
+      "price": 2899999,
+      "condition": "new",
+      "sold_quantity": 1517,
+      "fullImage": "https://www.manual.ar/thumbs/products/l/766336-bosch-serie-4-kgn36vl35.webp",
+      "description": "Heladera Bosch Serie 4 No Frost 375L Inverter. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110010",
+      "title": "Heladera Siemens iQ300 No Frost 380L Premium",
+      "price": 3099999,
+      "condition": "new",
+      "sold_quantity": 418,
+      "fullImage": "https://arcencohogar.vtexassets.com/arquivos/ids/369432-800-800?v=638392855890330000&width=800&height=800&aspect=true",
+      "description": "Heladera Siemens iQ300 No Frost 380L Premium. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110011",
+      "title": "Heladera Mabe No Frost 340L Eficiencia A",
+      "price": 1449999,
+      "condition": "new",
+      "sold_quantity": 432,
+      "fullImage": "https://jumboargentina.vtexassets.com/arquivos/ids/422948/Heladera-Mabe-Hma335nfmd-Nf-295l-S-1-245035.jpg?v=636481033984030000",
+      "description": "Heladera Mabe No Frost 340L Eficiencia A. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110012",
+      "title": "Heladera Drean No Frost 360L Inverter",
+      "price": 1549999,
+      "condition": "new",
+      "sold_quantity": 973,
+      "fullImage": "https://www.rodo.com.ar/media/catalog/product/cache/855090a5c67e45b26c9e0d345e7592dc/h/e/heladera_c-freezer_c_clica_392lts_drean_hdr400f41s_gris_1_.jpg",
+      "description": "Heladera Drean No Frost 360L Inverter. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110013",
+      "title": "Heladera BGH No Frost 320L Clase A",
+      "price": 1349999,
+      "condition": "new",
+      "sold_quantity": 2350,
+      "fullImage": "https://static.hendel.com/media/catalog/product/cache/b866fd8d147dcce474dc8744e477ca66/4/0/40414ab-4_1.jpg",
+      "description": "Heladera BGH No Frost 320L Clase A. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA99110014",
+      "title": "Heladera Hisense No Frost 470L Multi Air Flow",
+      "price": 1899999,
+      "condition": "new",
+      "sold_quantity": 2719,
+      "fullImage": "https://hisense.cl/wp-content/uploads/2024/10/RQ5P470NECF-1-1.png",
+      "description": "Heladera Hisense No Frost 470L Multi Air Flow. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "heladeras"
+        }
+      ]
+    },
+    {
       "id": "MLA1221",
       "title": "Hidrolavadora Karcher K2",
       "price": 399999,
@@ -9762,6 +10331,465 @@
       "sold_quantity": 3594,
       "fullImage": "https://pardohogar.vtexassets.com/arquivos/ids/194830/Lavarropas-Carga-Frontal-Drean-6-Kg-600-Rpm-Next-6-06-2.jpg?v=638699759796970000",
       "description": "Lavarropas Drean Next 6.06 Eco 6kg. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230001",
+      "title": "Lavarropas Samsung Carga Frontal 8.5Kg Inverter",
+      "price": 1499999,
+      "condition": "new",
+      "sold_quantity": 3420,
+      "fullImage": "https://ferromar.com.ar/wp-content/uploads/2019/06/173436232910fb15c77258a991b0028080a64fb42d.jpg",
+      "description": "Lavarropas Samsung Carga Frontal 8.5Kg Inverter. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230003",
+      "title": "Lavarropas Whirlpool Carga Superior 8Kg Automatico",
+      "price": 1199999,
+      "condition": "new",
+      "sold_quantity": 950,
+      "fullImage": "https://whirlpoolargio.vtexassets.com/arquivos/ids/167786/1000x1000_perspective-min.jpg?v=639023690147030000",
+      "description": "Lavarropas Whirlpool Carga Superior 8Kg Automatico. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230004",
+      "title": "Lavarropas Electrolux Carga Frontal 10Kg Inverter",
+      "price": 1699999,
+      "condition": "new",
+      "sold_quantity": 2189,
+      "fullImage": "https://electroluxar.vtexassets.com/arquivos/ids/160043/lavarropas-carga-frontal-electrolux-inverter-elaf210b-10-kg.-_Detalhe1.png?v=638851641528030000",
+      "description": "Lavarropas Electrolux Carga Frontal 10Kg Inverter. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230005",
+      "title": "Lavarropas Drean Concept Neo 6.05 V1 6Kg Automatico",
+      "price": 899999,
+      "condition": "new",
+      "sold_quantity": 339,
+      "fullImage": "https://tiribellihogar.com.ar/media/catalog/product/cache/5be8613c49569c873a50ed7e321cb477/d/r/drean_11_.png",
+      "description": "Lavarropas Drean Concept Neo 6.05 V1 6Kg Automatico. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230006",
+      "title": "Lavarropas Gafa Automatico 7Kg Carga Superior",
+      "price": 999999,
+      "condition": "new",
+      "sold_quantity": 1628,
+      "fullImage": "https://electroluxar.vtexassets.com/arquivos/ids/163740/2Washer_FuzzyFit_White_Perspective_Gafa_Spanish.jpg?v=638773031924900000",
+      "description": "Lavarropas Gafa Automatico 7Kg Carga Superior. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230007",
+      "title": "Lavarropas Philco Carga Superior 8Kg Automatico",
+      "price": 949999,
+      "condition": "new",
+      "sold_quantity": 2020,
+      "fullImage": "https://images.fravega.com/f1000/bc831fe67047ab0b9d9cb49b9ccc9abb.jpg",
+      "description": "Lavarropas Philco Carga Superior 8Kg Automatico. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230008",
+      "title": "Lavarropas Patrick Carga Superior 7Kg Automatico",
+      "price": 919999,
+      "condition": "new",
+      "sold_quantity": 3575,
+      "fullImage": "https://www.manual.ar/thumbs/products/l/1852433-patrick-ltpk79sb.webp",
+      "description": "Lavarropas Patrick Carga Superior 7Kg Automatico. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230009",
+      "title": "Lavarropas Bosch Serie 4 Carga Frontal 9Kg Inverter",
+      "price": 2399999,
+      "condition": "new",
+      "sold_quantity": 176,
+      "fullImage": "https://f.fcdn.app/imgs/5ad3c5/bagno-company.com/bagnuy/1302/original/catalogo/WGG244A0ES_WGG244A0ES_2/1500-1500/lavarropas-carga-frontal-bosch-9-kg-bco-lavarropas-carga-frontal-bosch-9-kg-bco.jpg",
+      "description": "Lavarropas Bosch Serie 4 Carga Frontal 9Kg Inverter. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230010",
+      "title": "Lavarropas Siemens iQ300 Carga Frontal 8Kg Inverter",
+      "price": 2599999,
+      "condition": "new",
+      "sold_quantity": 1443,
+      "fullImage": "https://www.manual.ar/thumbs/products/l/1055362-siemens-iq300-wm14n0g1.webp",
+      "description": "Lavarropas Siemens iQ300 Carga Frontal 8Kg Inverter. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230011",
+      "title": "Lavarropas Hisense Carga Frontal 8Kg Automatico",
+      "price": 1299999,
+      "condition": "new",
+      "sold_quantity": 1482,
+      "fullImage": "https://maxihogar.vtexassets.com/arquivos/ids/166182/Lavarropas-Hisense.png?v=638552116916630000",
+      "description": "Lavarropas Hisense Carga Frontal 8Kg Automatico. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA77230012",
+      "title": "Lavarropas Mabe Carga Superior 7Kg Automatico",
+      "price": 879999,
+      "condition": "new",
+      "sold_quantity": 616,
+      "fullImage": "https://surtihogar.co/wp-content/uploads/2022/01/757638973335-001-1400Wx1400H.jpg",
+      "description": "Lavarropas Mabe Carga Superior 7Kg Automatico. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340021",
+      "title": "Lavarropas Samsung Carga Frontal 7Kg Digital Inverter",
+      "price": 1399999,
+      "condition": "new",
+      "sold_quantity": 1602,
+      "fullImage": "https://vstorearg.vtexassets.com/arquivos/ids/162030/SAWW70A4000EE-2.jpg?v=638835333882070000",
+      "description": "Lavarropas Samsung Carga Frontal 7Kg Digital Inverter. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340022",
+      "title": "Lavarropas Samsung Carga Superior 9Kg Automatico",
+      "price": 1249999,
+      "condition": "new",
+      "sold_quantity": 356,
+      "fullImage": "https://images.fravega.com/f1000/08f81e8c3620330b564540e087b0020e.jpg",
+      "description": "Lavarropas Samsung Carga Superior 9Kg Automatico. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340023",
+      "title": "Lavarropas LG Carga Frontal 8Kg Inverter Direct Drive",
+      "price": 1499999,
+      "condition": "new",
+      "sold_quantity": 2828,
+      "fullImage": "https://images.fravega.com/f1000/4feb75e4e4c7388667a60e9eaea3d7ed.jpg",
+      "description": "Lavarropas LG Carga Frontal 8Kg Inverter Direct Drive. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340024",
+      "title": "Lavarropas LG Carga Frontal 11Kg Inverter AI DD",
+      "price": 1999999,
+      "condition": "new",
+      "sold_quantity": 1007,
+      "fullImage": "https://lgear.vtexassets.com/arquivos/ids/157258-800-auto?v=638775760826500000&width=800&height=auto&aspect=true",
+      "description": "Lavarropas LG Carga Frontal 11Kg Inverter AI DD. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340025",
+      "title": "Lavarropas Whirlpool Carga Frontal 9Kg Inverter",
+      "price": 1549999,
+      "condition": "new",
+      "sold_quantity": 911,
+      "fullImage": "https://whirlpoolarg.vtexassets.com/arquivos/ids/167669-800-auto?v=639023680474870000&width=800&height=auto&aspect=true",
+      "description": "Lavarropas Whirlpool Carga Frontal 9Kg Inverter. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340026",
+      "title": "Lavarropas Whirlpool Carga Superior 10Kg Automatico",
+      "price": 1299999,
+      "condition": "new",
+      "sold_quantity": 124,
+      "fullImage": "https://images.fravega.com/f1000/1cd44d6e57a5ad4e88b12442f41dfb34.jpg",
+      "description": "Lavarropas Whirlpool Carga Superior 10Kg Automatico. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340027",
+      "title": "Lavarropas Electrolux Carga Frontal 8Kg Eco Inverter",
+      "price": 1449999,
+      "condition": "new",
+      "sold_quantity": 3105,
+      "fullImage": "https://electroluxar.vtexassets.com/arquivos/ids/164553/Washmachine_ELAF208W_Perspective_Electrolux_Spanish.jpg?v=639009675906670000",
+      "description": "Lavarropas Electrolux Carga Frontal 8Kg Eco Inverter. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340028",
+      "title": "Lavarropas Electrolux Carga Superior 7Kg Automatico",
+      "price": 999999,
+      "condition": "new",
+      "sold_quantity": 3207,
+      "fullImage": "https://previsoraarg.vtexassets.com/arquivos/ids/161232-800-auto?v=638828336787200000&width=800&height=auto&aspect=true",
+      "description": "Lavarropas Electrolux Carga Superior 7Kg Automatico. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340029",
+      "title": "Lavarropas Drean Next Eco 8.12 Carga Superior",
+      "price": 919999,
+      "condition": "new",
+      "sold_quantity": 931,
+      "fullImage": "https://jumboargentina.vtexassets.com/arquivos/ids/492692/Lavarropas-Drean-Next-812-8-Kg-1-35835.jpg?v=636756048403600000",
+      "description": "Lavarropas Drean Next Eco 8.12 Carga Superior. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340030",
+      "title": "Lavarropas Drean Concept Neo 7.09 V1 Automatico",
+      "price": 879999,
+      "condition": "new",
+      "sold_quantity": 2398,
+      "fullImage": "https://castillo.vtexassets.com/arquivos/ids/176966-800-auto?v=638875880994230000&width=800&height=auto&aspect=true",
+      "description": "Lavarropas Drean Concept Neo 7.09 V1 Automatico. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340031",
+      "title": "Lavarropas Gafa Automatico 8Kg Carga Superior",
+      "price": 959999,
+      "condition": "new",
+      "sold_quantity": 1877,
+      "fullImage": "https://images.fravega.com/f1000/88a3b24795a5c1fe019a83b9b3afb119.jpg",
+      "description": "Lavarropas Gafa Automatico 8Kg Carga Superior. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340032",
+      "title": "Lavarropas Philco Carga Superior 9Kg Automatico",
+      "price": 979999,
+      "condition": "new",
+      "sold_quantity": 3810,
+      "fullImage": "https://images.fravega.com/f1000/bf1d4e84a3389b7e3205cd8f8e5c9eee.jpg",
+      "description": "Lavarropas Philco Carga Superior 9Kg Automatico. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340033",
+      "title": "Lavarropas Patrick Carga Superior 8Kg Automatico",
+      "price": 939999,
+      "condition": "new",
+      "sold_quantity": 1386,
+      "fullImage": "https://jumboargentina.vtexassets.com/arquivos/ids/460307-800-600?v=636628172240670000&width=800&height=600&aspect=true",
+      "description": "Lavarropas Patrick Carga Superior 8Kg Automatico. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340034",
+      "title": "Lavarropas Bosch Serie 6 Carga Frontal 10Kg Inverter",
+      "price": 2699999,
+      "condition": "new",
+      "sold_quantity": 689,
+      "fullImage": "https://www.cetrogar.com.ar/media/catalog/product/l/b/lb3796_2_.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
+      "description": "Lavarropas Bosch Serie 6 Carga Frontal 10Kg Inverter. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340035",
+      "title": "Lavarropas Siemens iQ500 Carga Frontal 9Kg Premium",
+      "price": 2899999,
+      "condition": "new",
+      "sold_quantity": 2948,
+      "fullImage": "https://cdnx.jumpseller.com/verde-olivo1/image/58208135/resize/1800/1800?1733907741",
+      "description": "Lavarropas Siemens iQ500 Carga Frontal 9Kg Premium. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "hogar"
+        },
+        {
+          "name": "lavarropas"
+        }
+      ]
+    },
+    {
+      "id": "MLA88340036",
+      "title": "Lavarropas Hisense Carga Superior 8Kg Automatico",
+      "price": 1099999,
+      "condition": "new",
+      "sold_quantity": 3647,
+      "fullImage": "https://images.fravega.com/f1000/2e7e275fc052c0bc1acfa60cf03bd405.jpg",
+      "description": "Lavarropas Hisense Carga Superior 8Kg Automatico. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
       "category_path_from_root": [
         {
           "name": "hogar"
@@ -11982,23 +13010,6 @@
       ]
     },
     {
-      "id": "MLA387",
-      "title": "Bombacha Algodon Pack 3",
-      "price": 17900,
-      "condition": "new",
-      "sold_quantity": 3120,
-      "fullImage": "https://acdn-us.mitiendanube.com/stores/003/623/733/products/0001-32953450076_jpg11-b5ae3b04f051e56b1816944679315039-1024-1024.webp",
-      "description": "Bombacha Algodon Pack 3. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
-      "category_path_from_root": [
-        {
-          "name": "ropa"
-        },
-        {
-          "name": "bombachas"
-        }
-      ]
-    },
-    {
       "id": "MLA402",
       "title": "Borcegos Urbanos Marrones",
       "price": 179000,
@@ -13621,6 +14632,227 @@
       "sold_quantity": 750,
       "fullImage": "https://m.media-amazon.com/images/I/61WIRwtXwPL._AC_SL1500_.jpg",
       "description": "Tommy remera blanca. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA7834529101",
+      "title": "Remera para hombre Nike algodón manga corta temporada verano",
+      "price": 27999,
+      "condition": "new",
+      "sold_quantity": 3886,
+      "fullImage": "https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwf3be880c/products/NIFJ1079-365/NIFJ1079-365-1.JPG",
+      "description": "Remera para hombre Nike algodón manga corta temporada verano. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA7834529102",
+      "title": "Remera para hombre Adidas Originals clásica algodón temporada primavera",
+      "price": 25999,
+      "condition": "new",
+      "sold_quantity": 162,
+      "fullImage": "https://www.blowland.com.ar/1933-thickbox_default/adidas-originals-remera-lifestyle-hombre-trefoil-azul-blanco-.jpg",
+      "description": "Remera para hombre Adidas Originals clásica algodón temporada primavera. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA7834529103",
+      "title": "Remera para hombre Levi's lisa corte regular temporada invierno",
+      "price": 31999,
+      "condition": "new",
+      "sold_quantity": 2581,
+      "fullImage": "https://solomayoristas.club/wp-content/uploads/2024/03/IMG_6090-scaled.jpg",
+      "description": "Remera para hombre Levi's lisa corte regular temporada invierno. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA7834529104",
+      "title": "Remera deportiva para hombre Nike Dri-FIT entrenamiento temporada verano",
+      "price": 29999,
+      "condition": "new",
+      "sold_quantity": 93,
+      "fullImage": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw8451480a/products/NI_DD1992-010/NI_DD1992-010-1.JPG",
+      "description": "Remera deportiva para hombre Nike Dri-FIT entrenamiento temporada verano. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA7834529105",
+      "title": "Remera deportiva para hombre Adidas Aeroready running temporada primavera",
+      "price": 28999,
+      "condition": "new",
+      "sold_quantity": 2980,
+      "fullImage": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw310fd315/products/ADHR6607/ADHR6607-1.JPG",
+      "description": "Remera deportiva para hombre Adidas Aeroready running temporada primavera. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA7834529106",
+      "title": "Remera deportiva para hombre Puma DryCELL gym temporada verano",
+      "price": 26999,
+      "condition": "new",
+      "sold_quantity": 877,
+      "fullImage": "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwf5cf933e/products/PU525546-01/PU525546-01-1.JPG",
+      "description": "Remera deportiva para hombre Puma DryCELL gym temporada verano. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA8923411201",
+      "title": "Remera para hombre Nike algodón estampada urbana temporada verano",
+      "price": 28999,
+      "condition": "new",
+      "sold_quantity": 3082,
+      "fullImage": "https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwa53e5b01/products/NIDR8064-010/NIDR8064-010-1.JPG",
+      "description": "Remera para hombre Nike algodón estampada urbana temporada verano. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA8923411202",
+      "title": "Remera para hombre Adidas Essentials lisa algodón temporada primavera",
+      "price": 24999,
+      "condition": "new",
+      "sold_quantity": 2008,
+      "fullImage": "https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwe718a3c9/products/ADIZ2106/ADIZ2106-1.JPG",
+      "description": "Remera para hombre Adidas Essentials lisa algodón temporada primavera. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA8923411203",
+      "title": "Remera para hombre Levi's básica cuello redondo temporada invierno",
+      "price": 32999,
+      "condition": "new",
+      "sold_quantity": 2778,
+      "fullImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvGQWo3zOsFuNM44UXnZIPWy6rkq3Y1fxQOw&s",
+      "description": "Remera para hombre Levi's básica cuello redondo temporada invierno. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA8923411204",
+      "title": "Remera para hombre Tommy Hilfiger clásica logo frontal temporada primavera",
+      "price": 38999,
+      "condition": "new",
+      "sold_quantity": 868,
+      "fullImage": "https://dcdn-us.mitiendanube.com/stores/003/850/266/products/img_8135-808a1ea36247ea391c17668431898144-1024-1024.webp",
+      "description": "Remera para hombre Tommy Hilfiger clásica logo frontal temporada primavera. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA8923411205",
+      "title": "Remera deportiva para hombre Nike Dri-FIT entrenamiento temporada verano",
+      "price": 29999,
+      "condition": "new",
+      "sold_quantity": 1198,
+      "fullImage": "https://www.stockcenter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw5afced5e/products/NI_DM4811-432/NI_DM4811-432-1.JPG",
+      "description": "Remera deportiva para hombre Nike Dri-FIT entrenamiento temporada verano. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA8923411206",
+      "title": "Remera deportiva para hombre Adidas Aeroready running temporada primavera",
+      "price": 28999,
+      "condition": "new",
+      "sold_quantity": 2929,
+      "fullImage": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw4e3d57fa/products/ADIW0038/ADIW0038-1.JPG",
+      "description": "Remera deportiva para hombre Adidas Aeroready running temporada primavera. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "remeras"
+        }
+      ]
+    },
+    {
+      "id": "MLA8923411207",
+      "title": "Remera deportiva para hombre Puma DryCELL gimnasio temporada verano",
+      "price": 26999,
+      "condition": "new",
+      "sold_quantity": 2599,
+      "fullImage": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw256a5c84/products/PU_517318-27/PU_517318-27-01.JPG",
+      "description": "Remera deportiva para hombre Puma DryCELL gimnasio temporada verano. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
       "category_path_from_root": [
         {
           "name": "ropa"
@@ -20615,6 +21847,176 @@
       "sold_quantity": 1494,
       "fullImage": "https://images.fravega.com/f1000/0a70a9e415bfed5fb86cced89b983ee1.jpg",
       "description": "Parlante LG XBoom RN7. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023451",
+      "title": "Parlante Premium Bose SoundLink Revolve+ II Bluetooth 360°",
+      "price": 1299999,
+      "condition": "new",
+      "sold_quantity": 3966,
+      "fullImage": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/speakers/soundlink_revolve_plus_ii/product_silo_images/SoundLink_Revolve_Plus_II_Black_Ecom_4.png/jcr:content/renditions/cq5dam.web.1920.1920.png",
+      "description": "Parlante Premium Bose SoundLink Revolve+ II Bluetooth 360°. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023452",
+      "title": "Parlante JBL Boombox 3 Bluetooth Alta Potencia Waterproof",
+      "price": 1499999,
+      "condition": "new",
+      "sold_quantity": 454,
+      "fullImage": "https://www.musicosas.com.ar/wp-content/uploads/2024/11/58502_4-1.jpg",
+      "description": "Parlante JBL Boombox 3 Bluetooth Alta Potencia Waterproof. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023453",
+      "title": "Parlante Sony SRS-XG500 Extra Bass Bluetooth Portátil",
+      "price": 1199999,
+      "condition": "new",
+      "sold_quantity": 1094,
+      "fullImage": "https://www.cdmarket.com.ar/image/0/1000_1300-336625_2.jpg",
+      "description": "Parlante Sony SRS-XG500 Extra Bass Bluetooth Portátil. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023454",
+      "title": "Parlante Marshall Stanmore II Bluetooth Sonido Hi-Fi",
+      "price": 1799999,
+      "condition": "new",
+      "sold_quantity": 782,
+      "fullImage": "https://istore.gt/wp-content/uploads/2023/06/ART005085i.jpg",
+      "description": "Parlante Marshall Stanmore II Bluetooth Sonido Hi-Fi. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023455",
+      "title": "Parlante Marshall Woburn III Bluetooth Alta Fidelidad",
+      "price": 2499999,
+      "condition": "new",
+      "sold_quantity": 3508,
+      "fullImage": "https://media.solotodo.com/media/products/1735064_picture_1678536123.jpg",
+      "description": "Parlante Marshall Woburn III Bluetooth Alta Fidelidad. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023456",
+      "title": "Parlante Bang & Olufsen Beosound A5 Premium Bluetooth",
+      "price": 3299999,
+      "condition": "new",
+      "sold_quantity": 654,
+      "fullImage": "https://electroacustica.pe/wp-content/uploads/2024/04/Beosound-5-03.jpg",
+      "description": "Parlante Bang & Olufsen Beosound A5 Premium Bluetooth. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023457",
+      "title": "Parlante Harman Kardon Aura Studio 4 Sonido 360°",
+      "price": 1399999,
+      "condition": "new",
+      "sold_quantity": 1151,
+      "fullImage": "https://carrefourar.vtexassets.com/arquivos/ids/669856/6925281961977_01.jpg?v=638848261131300000",
+      "description": "Parlante Harman Kardon Aura Studio 4 Sonido 360°. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023458",
+      "title": "Parlante Sonos Five WiFi Alta Fidelidad Multiroom",
+      "price": 1999999,
+      "condition": "new",
+      "sold_quantity": 2865,
+      "fullImage": "https://sonospoint.com.ar/wp-content/uploads/2024/02/FIVE1US1BLK_3.webp",
+      "description": "Parlante Sonos Five WiFi Alta Fidelidad Multiroom. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023459",
+      "title": "Parlante Klipsch The One II Bluetooth Sonido Profesional",
+      "price": 1599999,
+      "condition": "new",
+      "sold_quantity": 3752,
+      "fullImage": "https://lafargayherranz.com/wp-content/uploads/2023/07/Klipsch-The-One-II-parte-trasera.jpg",
+      "description": "Parlante Klipsch The One II Bluetooth Sonido Profesional. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
+      "category_path_from_root": [
+        {
+          "name": "tecnologia"
+        },
+        {
+          "name": "parlantes"
+        }
+      ]
+    },
+    {
+      "id": "MLA91023460",
+      "title": "Parlante Devialet Phantom I 108dB Ultra High-End",
+      "price": 7999999,
+      "condition": "new",
+      "sold_quantity": 1048,
+      "fullImage": "https://m.media-amazon.com/images/I/61wJXPZcdhL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+      "description": "Parlante Devialet Phantom I 108dB Ultra High-End. Producto nuevo, ideal para su categoría. Publicación orientativa con características generales.",
       "category_path_from_root": [
         {
           "name": "tecnologia"

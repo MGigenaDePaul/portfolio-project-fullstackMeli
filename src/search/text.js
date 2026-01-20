@@ -22,6 +22,11 @@ const stopwords = new Set([
   'marca',
 ])
 
+const escapeRegExp = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+
+const hasWord = (text, word) =>
+  new RegExp(`\\b${escapeRegExp(word)}\\b`).test(text)
+
 export const getCategoryPath = (product) =>
   product.category_path_from_root?.map((c) => normalize(c.name)) ?? []
 
@@ -41,6 +46,9 @@ export const meaningfulTokens = (q, { drop = [] } = {}) => {
 export const matchesQueryText = (product, q, { drop = [] } = {}) => {
   const tokens = meaningfulTokens(q, { drop })
   if (tokens.length === 0) return true
+
   const text = buildSearchText(product)
-  return tokens.every((t) => text.includes(t))
+
+  // 🔑 PALABRA COMPLETA, no substring
+  return tokens.every((t) => hasWord(text, t))
 }
