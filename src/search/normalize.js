@@ -12,11 +12,25 @@ export const tokenize = (q = '') => normalize(q).split(/\s+/).filter(Boolean)
 export const stem = (word) => {
   word = normalize(word)
 
-  // Plurales: -s, -es
-  if (word.endsWith('es') && word.length > 3) {
+  // Mapeo explícito de palabras irregulares
+  const stemMap = {
+    'hombres': 'hombre',
+    'mujeres': 'mujer',
+    'ninos': 'nino',
+    'ninas': 'nina',
+  }
+  
+  if (stemMap[word]) {
+    return stemMap[word]
+  }
+
+  // Plurales en -es
+  if (word.endsWith('es') && word.length > 4) {
     return word.slice(0, -2)
   }
-  if (word.endsWith('s') && word.length > 2) {
+  
+  // Plurales simples en -s
+  if (word.endsWith('s') && word.length > 3) {
     return word.slice(0, -1)
   }
 
