@@ -161,26 +161,6 @@
       ]
     },
     {
-      "id": "MLA880",
-      "title": "Bolso organizador maquillaje viaje",
-      "price": 25900,
-      "thumbnail": "https://oportunidades-vip.com.ar/wp-content/uploads/2025/08/Portacosmeticos_Neceser_Organizador_Viaje_Maquillaje_Mt09871_D_696238-MLA85244813442_062025-O-1200x1200.jpg",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Cordoba"
-      },
-      "category_path_from_root": [
-        {
-          "name": "belleza"
-        },
-        {
-          "name": "accesorios"
-        }
-      ]
-    },
-    {
       "id": "MLA91",
       "title": "Base Liquida Larga Duracion Tono Medio",
       "price": 15900,
@@ -15218,46 +15198,6 @@
       ]
     },
     {
-      "id": "MLA413",
-      "title": "Bolso Deportivo Gym",
-      "price": 49900,
-      "thumbnail": "https://www.dexter.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwe158d070/products/NI_DA1746-010/NI_DA1746-010-3.JPG",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Santa Fe"
-      },
-      "category_path_from_root": [
-        {
-          "name": "ropa"
-        },
-        {
-          "name": "bolsos"
-        }
-      ]
-    },
-    {
-      "id": "MLA414",
-      "title": "Bolso Viaje Mediano",
-      "price": 69900,
-      "thumbnail": "https://www.delsey.com.ar/cdn/shop/files/delsey-egoa-00322340300-01.jpg?v=1738253403",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Mendoza"
-      },
-      "category_path_from_root": [
-        {
-          "name": "ropa"
-        },
-        {
-          "name": "bolsos"
-        }
-      ]
-    },
-    {
       "id": "MLA402",
       "title": "Borcegos Urbanos Marrones",
       "price": 179000,
@@ -15978,15 +15918,15 @@
       ]
     },
     {
-      "id": "MLA1303",
-      "title": "Bolso Mujer Tote Grande",
-      "price": 99999,
-      "thumbnail": "https://acdn-us.mitiendanube.com/stores/004/423/933/products/dsc00165-copia-grande-24a8e880d7d309bdfa17575163871858-1024-1024.webp",
+      "id": "MLA9584402602",
+      "title": "Cartera Guess tipo tote color negra",
+      "price": 68999,
+      "thumbnail": "https://stylewatch.vtexassets.com/arquivos/ids/265517/Cartera_Guess_GSEVG839023BLA_01.jpg?v=638628817249930000",
       "shipping": {
         "free_shipping": true
       },
       "address": {
-        "state_name": "Cordoba"
+        "state_name": "Buenos Aires"
       },
       "category_path_from_root": [
         {
@@ -15998,15 +15938,375 @@
       ]
     },
     {
-      "id": "MLA1304",
-      "title": "Bolso Mujer Cuero Sintetico Marron",
-      "price": 109999,
-      "thumbnail": "https://i.ebayimg.com/images/g/zfoAAeSw9VppVJYz/s-l1200.webp",
+      "id": "MLA9584402603",
+      "title": "Cartera Michael Kors tipo bandolera color marron",
+      "price": 129999,
+      "thumbnail": "https://i.ebayimg.com/images/g/le4AAeSw-QtpATTg/s-l1200.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402604",
+      "title": "Cartera Louis Vuitton tipo shoulder color beige",
+      "price": 249999,
+      "thumbnail": "https://es.louisvuitton.com/images/is/image/lv/1/PP_VP_L/louis-vuitton-bolso-nano-diane--M83300_PM2_Front%20view.jpg",
       "shipping": {
         "free_shipping": false
       },
       "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402605",
+      "title": "Cartera Coach tipo crossbody color negra",
+      "price": 139999,
+      "thumbnail": "https://d2r9epyceweg5n.cloudfront.net/stores/001/374/566/rte/cartera%20coach%20mujer%20original%20comprar%20en%20tienda%20onlineshoppingcenterg%20Colombia%20centro%20de%20compras%20en%20linea%20osc1.png",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402606",
+      "title": "Cartera Zara tipo tote color camel",
+      "price": 45999,
+      "thumbnail": "https://lasorpresa.com.ar/wp-content/uploads/2025/08/67.C2888.2__1.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402607",
+      "title": "Cartera Prune tipo bandolera color bordo",
+      "price": 79999,
+      "thumbnail": "https://www.prune.com.ar/media/catalog/product/P/0/P010379CH0X2000_1.jpg",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402608",
+      "title": "Cartera Calvin Klein tipo shoulder color gris",
+      "price": 99999,
+      "thumbnail": "https://i.ebayimg.com/images/g/OHwAAeSwEDJpKcS-/s-l1200.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402609",
+      "title": "Cartera Tommy Hilfiger tipo tote color azul marino",
+      "price": 109999,
+      "thumbnail": "https://tommymx.vtexassets.com/arquivos/ids/720806/Tommy-Hilfiger-AW0AW17201DW6-1.jpg?v=638751525630100000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402610",
+      "title": "Cartera Aldo tipo clutch color negra",
+      "price": 59999,
+      "thumbnail": "https://i.ebayimg.com/images/g/Q4wAAeSwiktpbQjH/s-l1200.webp",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "La Plata"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402611",
+      "title": "Cartera Jackie Smith tipo bandolera color nude",
+      "price": 69999,
+      "thumbnail": "https://jackiesmith.com.ar/cdn/shop/files/CP00950MRA01R98_BAJA_A_bba42b80-8764-4e2a-bcc0-18f1f11c71ef.jpg?v=1746646758&width=1080",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402612",
+      "title": "Cartera Guess tipo shoulder color blanca",
+      "price": 74999,
+      "thumbnail": "https://stylewatch.vtexassets.com/arquivos/ids/265631/Cartera_Guess_GSSG900018DVL_02.jpg?v=638628817546000000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
         "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402613",
+      "title": "Cartera Michael Kors tipo tote color marron oscuro",
+      "price": 149999,
+      "thumbnail": "https://oechsle.vteximg.com.br/arquivos/ids/18288273/imageUrl_1.jpg?v=638554180340630000",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402614",
+      "title": "Cartera Furla tipo bandolera color verde",
+      "price": 119999,
+      "thumbnail": "https://images.furla.com/public/edited/jpg/cases/furla-nuvola/xl/jade/WE00846_BX2045_1007_JD000_M1.jpg?format=webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402615",
+      "title": "Cartera Desigual tipo shoulder color roja",
+      "price": 89999,
+      "thumbnail": "https://gomezmoda.es/upload/product/400/du255w00002030000os-4.jpg",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Salta"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402616",
+      "title": "Cartera Zara tipo bandolera color negra",
+      "price": 42999,
+      "thumbnail": "https://cl-cenco-pim-resizer.ecomm.cencosud.com/unsafe/adaptive-fit-in/3840x0/filters:quality(75)/prd-cl/product-medias/78bcfeab-d1c4-43a7-8c41-dd11b15c48e9/MKSB6OQ5AB/MKSB6OQ5AB-1/1741610887345-MKSB6OQ5AB-1-1.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Neuquén"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402617",
+      "title": "Cartera Prune tipo tote color suela",
+      "price": 85999,
+      "thumbnail": "",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402618",
+      "title": "Cartera Calvin Klein tipo crossbody color negra",
+      "price": 104999,
+      "thumbnail": "",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402619",
+      "title": "Cartera Tommy Hilfiger tipo bandolera color blanca",
+      "price": 99999,
+      "thumbnail": "",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402620",
+      "title": "Cartera Aldo tipo tote color gris",
+      "price": 64999,
+      "thumbnail": "",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "carteras"
+        }
+      ]
+    },
+    {
+      "id": "MLA9584402621",
+      "title": "Cartera Jackie Smith tipo shoulder color negra",
+      "price": 77999,
+      "thumbnail": "",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
       },
       "category_path_from_root": [
         {

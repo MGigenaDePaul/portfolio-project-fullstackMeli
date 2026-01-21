@@ -15,7 +15,8 @@ import { isCarQuery, parseCarQuery } from './car'
 import { isMotoQuery, parseMotoQuery } from './moto'
 import { isTruckQuery, parseTruckQuery } from './truck'
 import { isCameraQuery, parseCameraQuery } from './camera'
-import { isHeadphoneQuery, parseHeadphoneQuery } from './auriculares' // ✅
+import { isHeadphoneQuery, parseHeadphoneQuery } from './auriculares'
+import { isCarteraQuery, parseCarteraQuery } from './cartera'
 
 export const detectIntent = (q) => {
   const tokens = tokenize(q)
@@ -140,6 +141,14 @@ export const detectIntent = (q) => {
       categoryHint: ['vehiculos', 'autos'],
       brand: carSpecs.brand,
       vehicleFilters: carSpecs.vehicleFilters,
+    }
+  }
+
+  if (isCarteraQuery(q)) {
+    return {
+      type: 'cartera',
+      categoryHint: ['ropa', 'carteras'],
+      carteraSpecs: parseCarteraQuery(q),
     }
   }
 

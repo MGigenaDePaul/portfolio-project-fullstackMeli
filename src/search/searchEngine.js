@@ -20,6 +20,11 @@ import {
   remeraDropTokens,
   extractGender,
 } from './remera'
+import {
+  isCarteraProduct,
+  matchesCarteraSpecs,
+  carteraDropTokens,
+} from './cartera'
 
 export function searchProducts(all, rawQuery, { limit = 4 } = {}) {
   const q = normalize(rawQuery || '')
@@ -106,6 +111,11 @@ export function searchProducts(all, rawQuery, { limit = 4 } = {}) {
     pool = b
   }
 
+  if (intent.type === 'cartera') {
+    pool = pool.filter((p) => isCarteraProduct(p))
+    pool = pool.filter((p) => matchesCarteraSpecs(p, intent.carteraSpecs))
+  }
+
   if (intent.type === 'camera') {
     // fallback por texto para evitar colados raros (por si hay alguno mal categorizado)
     pool = pool.filter((p) => {
@@ -149,7 +159,6 @@ export function searchProducts(all, rawQuery, { limit = 4 } = {}) {
   if (intent.type === 'moto') drop.push('moto', 'motos')
 
   if (intent.type === 'truck') {
-    // vos dijiste que camion/camiones no los vas a usar por ahora
     drop.push('camioneta', 'camionetas', 'pickup', 'pickups')
   }
 
@@ -208,6 +217,10 @@ export function searchProducts(all, rawQuery, { limit = 4 } = {}) {
 
   if (intent.type === 'remera') {
     drop.push(...remeraDropTokens)
+  }
+
+  if (intent.type === 'cartera') {
+    drop.push(...carteraDropTokens)
   }
 
   // 4.9) query para match de texto (sinónimos)
