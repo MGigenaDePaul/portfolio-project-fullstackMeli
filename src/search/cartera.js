@@ -226,7 +226,7 @@ export const isCarteraQuery = (q) => {
 export const isCarteraProduct = (product) => {
   // ✅ CORRECCIÓN: la categoría correcta
   if (matchesPathPrefix(product, ['ropa', 'carteras'])) return true
-  
+
   const text = buildSearchText(product)
 
   const looks =
@@ -238,12 +238,12 @@ export const isCarteraProduct = (product) => {
     text.includes('handbag')
 
   if (!looks) return false
-  
+
   // Rechazar si tiene palabras negativas
   for (const w of negativeWords) {
     if (text.includes(w)) return false
   }
-  
+
   return true
 }
 // -------------------- parser --------------------

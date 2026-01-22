@@ -5,7 +5,6 @@ import { useParams } from 'react-router-dom'
 import './ProductDetail.css'
 
 const ProductDetail = () => {
-  console.log('detailsProduct', productDetails.details)
   const { id } = useParams()
 
   const product = productDetails.details.find((p) => p.id === id)
@@ -14,9 +13,7 @@ const ProductDetail = () => {
     return <div>No se encontró el producto</div>
   }
 
-  const categories = product.category_path_from_root?.map(
-    (cat) => cat.name,
-  ) || ['Electrónica, Audio y Video', 'iPad', 'Reproducciones']
+  const categories = product.category_path_from_root?.map((cat) => cat.name)
 
   return (
     <div>

@@ -1,3 +1,4 @@
+// search/camisa.js
 import { tokenize, stem, stemTokens, normalize } from './normalize'
 import { buildSearchText } from './text'
 import { matchesPathPrefix } from './categoryMatch'
@@ -12,23 +13,30 @@ const createStemmedSet = (words) => {
   return stemmedSet
 }
 
-const remeraWords = createStemmedSet([
+// ==================== palabras clave ====================
+const camisaWords = createStemmedSet([
+  'camisa',
+  'camisas',
+  'shirt',
+  'shirts',
+  'camisola',
+  'camisolas',
+  'blusa',
+  'blusas',
+])
+
+// Palabras negativas (para evitar confundir con remeras / buzos / etc.)
+const negativeWords = createStemmedSet([
   'remera',
   'remeras',
   'camiseta',
   'camisetas',
-  'playera',
-  'playeras',
   'tshirt',
   'tshirts',
   't-shirt',
   't-shirts',
   'tee',
   'tees',
-])
-
-// Lo mismo para palabras negativas
-const negativeWords = createStemmedSet([
   'buzo',
   'hoodie',
   'campera',
@@ -44,14 +52,6 @@ const negativeWords = createStemmedSet([
   'calzado',
   'botin',
   'botines',
-  'camisa',
-  'camisas',
-  'shirt',
-  'shirts',
-  'blusa',
-  'blusas',
-  'camisola',
-  'camisolas',
 ])
 
 const brandAliases = new Map([
@@ -120,11 +120,15 @@ const materialAliases = new Map([
 ])
 
 // helpers
+const hasLongSleeve = (text = '') =>
+  /\bmanga\s*larga\b/.test(text) || /\blong\s*sleeve\b/.test(text)
+
 const hasShortSleeve = (text = '') =>
   /\bmanga\s*corta\b/.test(text) || /\bshort\s*sleeve\b/.test(text)
 
-const hasLongSleeve = (text = '') =>
-  /\bmanga\s*larga\b/.test(text) || /\blong\s*sleeve\b/.test(text)
+// (opcional) señales típicas de camisa
+const hasFormalSignal = (text = '') =>
+  /\b(vestir|formal|oficina|sastrer|elegante)\b/.test(text)
 
 export const extractGender = (text = '') => {
   const normalizedText = normalize(text)
@@ -133,28 +137,12 @@ export const extractGender = (text = '') => {
 
   if (/\bunisex\b/.test(normalizedText)) return 'unisex'
 
-  if (/\b(para\s+)?(hombre|varon|masculin|men)\b/i.test(stemmedJoined)) {
-    console.log('  ✅ Matched MALE REMERAS')
+  // Nota: usamos stemmedJoined para que "hombres" -> "hombre"
+  if (/\b(para\s+)?(hombre|varon|masculin|men)\b/i.test(stemmedJoined))
     return 'male'
-  }
-  if (/\b(para\s+)?(mujer|dama|femenin|women|ladies)\b/i.test(stemmedJoined)) {
-    console.log('  ✅ Matched FEMALE REMERAS')
+
+  if (/\b(para\s+)?(mujer|dama|femenin|women|ladies)\b/i.test(stemmedJoined))
     return 'female'
-  }
-  if (/\b(para\s+)?(nino|nina|kid|infantil|juvenil)\b/i.test(stemmedJoined)) {
-    console.log('  ✅ Matched KIDS REMERAS')
-    return 'kids'
-  }
-
-  console.log('❌ No gender matched REMERAS')
-  return null
-}
-
-const extractSeason = (text = '') => {
-  if (/\b(verano|summer)\b/.test(text)) return 'summer'
-  if (/\b(invierno|winter)\b/.test(text)) return 'winter'
-  if (/\b(primavera|spring)\b/.test(text)) return 'spring'
-  if (/\b(otono|otoño|autumn|fall)\b/.test(text)) return 'autumn'
 
   return null
 }
@@ -188,18 +176,19 @@ const extractMaterials = (tokens) => {
 const extractBrand = (tokens, joined) => {
   for (const t of tokens) if (brandAliases.has(t)) return brandAliases.get(t)
 
-  // fallback por texto completo por si vino raro (ej "nike," "nike.")
+  // fallback por texto completo por si vino raro (ej "zara," "zara.")
   for (const [k, v] of brandAliases.entries()) {
     if (new RegExp(`\\b${k}\\b`).test(joined)) return v
   }
   return null
 }
 
-// -------------------- intent detection --------------------
-export const isRemeraQuery = (q) => {
+// ==================== intent detection ====================
+export const isCamisaQuery = (q) => {
   const tokens = stemTokens(q)
   const joined = tokens.join(' ')
-  const hasWord = tokens.some((t) => remeraWords.has(t))
+
+  const hasWord = tokens.some((t) => camisaWords.has(t))
   const hasNegative = tokens.some((t) => negativeWords.has(t))
   if (hasNegative && !hasWord) return false
 
@@ -207,35 +196,35 @@ export const isRemeraQuery = (q) => {
     hasWord ||
     hasShortSleeve(joined) ||
     hasLongSleeve(joined) ||
-    Boolean(extractGender(joined)) ||
-    Boolean(extractSeason(joined))
+    hasFormalSignal(joined) ||
+    Boolean(extractGender(joined))
 
   return hasSignals
 }
 
-// -------------------- product detection --------------------
-export const isRemeraProduct = (product) => {
-  if (matchesPathPrefix(product, ['ropa', 'remeras'])) return true
+// ==================== product detection ====================
+export const isCamisaProduct = (product) => {
+  if (matchesPathPrefix(product, ['ropa', 'camisas'])) return true
+
   const text = buildSearchText(product)
 
   const looks =
-    text.includes('remera') ||
-    text.includes('camiseta') ||
-    text.includes('tshirt') ||
-    text.includes('t-shirt') ||
-    text.includes('tee')
+    text.includes('camisa') ||
+    text.includes('camisola') ||
+    text.includes('blusa') ||
+    text.includes('shirt')
 
   if (!looks) return false
   for (const w of negativeWords) if (text.includes(w)) return false
   return true
 }
 
-// -------------------- parser --------------------
-export const parseRemeraQuery = (q) => {
+// ==================== parser ====================
+export const parseCamisaQuery = (q) => {
   const normalizedText = normalize(q)
   const tokens = tokenize(q)
-  const stemmedTokens = stemTokens(q) // ✅ Agregar esto
-  const joined = stemmedTokens.join(' ') // ✅ Usar stemmed
+  const stemmedTokens = stemTokens(q)
+  const joined = stemmedTokens.join(' ')
 
   const brand = extractBrand(tokens, joined)
 
@@ -243,92 +232,52 @@ export const parseRemeraQuery = (q) => {
   if (hasShortSleeve(normalizedText)) sleeve = 'short'
   else if (hasLongSleeve(normalizedText)) sleeve = 'long'
 
-  const gender = extractGender(normalizedText) // ✅ Esto ahora usará stem internamente
-  const season = extractSeason(normalizedText)
+  // gender usa stem internamente
+  const gender = extractGender(normalizedText) ?? 'unisex'
 
-  const colors = extractColors(stemmedTokens, joined) // ✅ Usar stemmed
-  const materials = extractMaterials(stemmedTokens) // ✅ Usar stemmed
+  const colors = extractColors(stemmedTokens, joined)
+  const materials = extractMaterials(stemmedTokens)
 
-  return { brand, sleeve, gender, season, colors, materials }
+  return { brand, sleeve, gender, colors, materials }
 }
 
-// -------------------- matcher --------------------
-// DURO: remera + marca (si la pidio)
-// SUAVE: genero/temporada/color/material (no matan si el producto no lo declara)
-// -------------------- matcher --------------------
-export const matchesRemeraSpecs = (product, specs = {}) => {
-  if (!isRemeraProduct(product)) return false
+// ==================== matcher ====================
+// DURO: camisa + marca (si la pidio)
+// ESTRICTO: si pidió sleeve o gender => el producto debe declararlo y matchear exacto
+// ====================
+export const matchesCamisaSpecs = (product, specs = {}) => {
+  if (!isCamisaProduct(product)) return false
   const text = buildSearchText(product)
 
-  // 🔍 DEBUG
-  console.log('=== matchesRemeraSpecs DEBUG ===')
-  console.log('Product title:', product.title)
-  console.log('Product text:', text)
-  console.log('Specs:', specs)
   if (specs.brand && !text.includes(specs.brand)) return false
 
-  // ✅ MANGA: HACERLO MÁS ESTRICTO
+  // ✅ MANGA: estricto si se pide
   if (specs.sleeve) {
     const hasShort = hasShortSleeve(text)
     const hasLong = hasLongSleeve(text)
 
-    // Si el producto no declara tipo de manga, rechazarlo
     if (!hasShort && !hasLong) return false
 
-    // Si declara el tipo de manga, debe coincidir con lo pedido
     if (specs.sleeve === 'short' && !hasShort) return false
     if (specs.sleeve === 'long' && !hasLong) return false
   }
 
-  // ✅ GÉNERO: HACERLO MÁS ESTRICTO
-  // ✅ GÉNERO: MATCH EXACTO (unisex NO sirve para géneros específicos)
+  // ✅ GÉNERO: match exacto (unisex NO sirve para male/female)
   if (specs.gender) {
     const g = extractGender(text)
-
-    console.log('  - Product gender:', g)
-    console.log('  - Query gender:', specs.gender)
-
-    if (!g) {
-      console.log('  ❌ Product has no gender')
-      return false
-    }
-
-    // Match exacto: male solo acepta male, female solo acepta female, unisex solo acepta unisex
-    if (g !== specs.gender) {
-      console.log('  ❌ Gender mismatch')
-      return false
-    }
-
-    console.log('  ✅ Gender match!')
+    if (!g) return false
+    if (g !== specs.gender) return false
   }
 
-  // ✅ TEMPORADA: HACERLO ESTRICTO
-  if (specs.season) {
-    const s = extractSeason(text)
-
-    // Si el producto no declara temporada, rechazarlo
-    if (!s) return false
-
-    // Si declara temporada, debe coincidir
-    if (s !== specs.season) {
-      console.log(
-        `   ❌ Season conflict: product has ${s}, query needs ${specs.season}`,
-      )
-      return false
-    }
-  }
-
-  // ✅ COLOR: HACERLO ESTRICTO
+  // ✅ COLOR: estricto (debe contener todos los colores pedidos)
   if (specs.colors?.length) {
-    // Verificar que el producto tenga TODOS los colores pedidos
     for (const c of specs.colors) {
       if (!text.includes(c)) return false
     }
   }
 
-  // ✅ MATERIAL: HACERLO ESTRICTO (opcional, depende de tu preferencia)
+  // ✅ MATERIAL: estricto (debe contener todos los materiales pedidos)
   if (specs.materials?.length) {
-    // Verificar que el producto tenga TODOS los materiales pedidos
     for (const m of specs.materials) {
       if (!text.includes(m)) return false
     }
@@ -337,25 +286,20 @@ export const matchesRemeraSpecs = (product, specs = {}) => {
   return true
 }
 
-export const remeraDropTokens = new Set([
-  ...remeraWords,
+export const camisaDropTokens = new Set([
+  ...camisaWords,
   'para',
-  'temporada',
-  'verano',
-  'invierno',
-  'primavera',
-  'otono',
-  'otoño',
   'hombre',
   'mujer',
   'dama',
   'unisex',
-  'kids',
-  'infantil',
-  'juvenil',
   'manga',
   'corta',
   'larga',
+  'formal',
+  'oficina',
+  'vestir',
+  'elegante',
   ...Array.from(colorAliases.keys()),
   ...Array.from(materialAliases.keys()),
 ])

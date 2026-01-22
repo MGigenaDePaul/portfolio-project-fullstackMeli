@@ -14,17 +14,13 @@ import { isSpeakerProduct, matchesSpeakerSpecs } from './parlante'
 import { isBeautyProduct, matchesBeautySpecs } from './beauty'
 import { isHeladeraProduct, matchesHeladeraSpecs } from './heladera'
 import { isLavarropaProduct, matchesLavarropaSpecs } from './lavarropa'
-import {
-  isRemeraProduct,
-  matchesRemeraSpecs,
-  remeraDropTokens,
-  extractGender,
-} from './remera'
+import { isRemeraProduct, matchesRemeraSpecs, remeraDropTokens } from './remera'
 import {
   isCarteraProduct,
   matchesCarteraSpecs,
   carteraDropTokens,
 } from './cartera'
+import { isCamisaProduct, matchesCamisaSpecs, camisaDropTokens } from './camisa'
 
 export function searchProducts(all, rawQuery, { limit = 4 } = {}) {
   const q = normalize(rawQuery || '')
@@ -89,25 +85,14 @@ export function searchProducts(all, rawQuery, { limit = 4 } = {}) {
   }
 
   if (intent.type === 'remera') {
-    console.log('REMERAS start', pool.length)
-
     const a = pool.filter((p) => isRemeraProduct(p))
-    console.log('REMERAS after isRemeraProduct', a.length)
-
-    // 🔍 DEBUG: mostrar qué género tiene cada producto
-    a.slice(0, 10).forEach((p) => {
-      const text = buildSearchText(p)
-      const g = extractGender(text)
-      console.log(`📦 ${p.title} → gender: ${g}`)
-    })
-
     const b = a.filter((p) => matchesRemeraSpecs(p, intent.remeraSpecs))
-    console.log(
-      'REMERAS after matchesRemeraSpecs',
-      b.length,
-      intent.remeraSpecs,
-    )
+    pool = b
+  }
 
+  if (intent.type === 'camisa') {
+    const a = pool.filter((p) => isCamisaProduct(p))
+    const b = a.filter((p) => matchesCamisaSpecs(p, intent.camisaSpecs))
     pool = b
   }
 
@@ -221,6 +206,10 @@ export function searchProducts(all, rawQuery, { limit = 4 } = {}) {
 
   if (intent.type === 'cartera') {
     drop.push(...carteraDropTokens)
+  }
+
+  if (intent.type === 'camisa') {
+    drop.push(...camisaDropTokens)
   }
 
   // 4.9) query para match de texto (sinónimos)

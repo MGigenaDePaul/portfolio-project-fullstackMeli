@@ -6375,7 +6375,7 @@
       },
       "category_path_from_root": [
         {
-          "name": "Herramientas"
+          "name": "herramientas"
         },
         {
           "name": "accesorios"
@@ -6423,6 +6423,126 @@
       ]
     },
     {
+      "id": "MLA1380",
+      "title": "Amoladora Angular Bosch 850w",
+      "price": 169999,
+      "thumbnail": "https://boschherramientasargentina.vtexassets.com/arquivos/ids/176969-800-auto?v=638732562603000000&width=800&height=auto&aspect=true",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "amoladoras"
+        }
+      ]
+    },
+    {
+      "id": "MLA1381",
+      "title": "Amoladora Angular Makita 710w",
+      "price": 199999,
+      "thumbnail": "https://www.machenaonline.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/_/2_56.png",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "amoladoras"
+        }
+      ]
+    },
+    {
+      "id": "MLA1382",
+      "title": "Sierra Circular Bosch 7 1/4",
+      "price": 349999,
+      "thumbnail": "https://images.precialo.com/products/sierra-circular-bosch-gks-20-65-7-14-2000w/6721a67d-c38f-4439-9143-7c2a1c44dd44.jpeg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Capital Federal"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "amoladoras"
+        }
+      ]
+    },
+    {
+      "id": "MLA1383",
+      "title": "Sierra Caladora Black And Decker",
+      "price": 189999,
+      "thumbnail": "https://casamarvic.com.ar/2132-thickbox_default/sierra-caladora-black-and-decker-550w-ks701pek.jpg",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "amoladoras"
+        }
+      ]
+    },
+    {
+      "id": "MLA1394",
+      "title": "Amoladora Angular DeWalt 900w",
+      "price": 219999,
+      "thumbnail": "https://www.maquitools.com.ar/wp-content/uploads/DWE4120.png",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "amoladoras"
+        }
+      ]
+    },
+    {
+      "id": "MLA1395",
+      "title": "Amoladora Angular Makita 9557",
+      "price": 239999,
+      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/274262/1044815.jpg?v=637651581182230000",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "amoladoras"
+        }
+      ]
+    },
+    {
       "id": "MLA250",
       "title": "Aspiradora Taller 20L",
       "price": 119000,
@@ -6452,6 +6572,86 @@
       },
       "address": {
         "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "atornilladores"
+        }
+      ]
+    },
+    {
+      "id": "MLA1378",
+      "title": "Atornillador Inalambrico Black And Decker",
+      "price": 159999,
+      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/326796-800-800?v=637944552239600000&width=800&height=800&aspect=true",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Cordoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "atornilladores"
+        }
+      ]
+    },
+    {
+      "id": "MLA1379",
+      "title": "Atornillador Inalambrico Stanley 12v",
+      "price": 179999,
+      "thumbnail": "https://www.abrafersrl.com.ar/wp-content/uploads/2019/09/SCH12S2KA2.jpg",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "atornilladores"
+        }
+      ]
+    },
+    {
+      "id": "MLA1392",
+      "title": "Atornillador Inalambrico Makita 12v",
+      "price": 279999,
+      "thumbnail": "https://makita.com.ar/wp-content/uploads/2024/08/taladro-percutor-inalambrico-10-8v-12v-max-24-12nm-makita-hp330dz.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Cordoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "atornilladores"
+        }
+      ]
+    },
+    {
+      "id": "MLA1393",
+      "title": "Atornillador Inalambrico DeWalt 20v",
+      "price": 349999,
+      "thumbnail": "https://www.abrafersrl.com.ar/wp-content/uploads/DCD796B.jpg",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Rosario"
       },
       "category_path_from_root": [
         {
@@ -6546,6 +6746,206 @@
       ]
     },
     {
+      "id": "MLA1366",
+      "title": "Cortadora De Pasto Black And Decker 1200w",
+      "price": 349999,
+      "thumbnail": "https://images.fravega.com/f1000/635e558fd60aa9d53c830f251aba023b.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Capital Federal"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "cortadoras de pasto"
+        }
+      ]
+    },
+    {
+      "id": "MLA1367",
+      "title": "Cortadora De Pasto Bosch Arm 32",
+      "price": 399999,
+      "thumbnail": "https://www.tradeinn.com/f/13780/137806063_3/bosch-cortacesped-electrico-arm-37.webp",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "cortadoras de pasto"
+        }
+      ]
+    },
+    {
+      "id": "MLA1368",
+      "title": "Cortadora De Pasto Gamma 1400w",
+      "price": 319999,
+      "thumbnail": "https://gammaherramientasar.vteximg.com.br/arquivos/ids/155731-1000-1000/g4943ar-cortadora-de-cesped-electrica-1400w_00.jpg?v=637284479100800000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Cordoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "cortadoras de pasto"
+        }
+      ]
+    },
+    {
+      "id": "MLA1369",
+      "title": "Cortadora De Pasto Makita Electrica",
+      "price": 459999,
+      "thumbnail": "https://makitacordoba.com.ar/wp-content/uploads/2022/09/DUM604Z.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "cortadoras de pasto"
+        }
+      ]
+    },
+    {
+      "id": "MLA1370",
+      "title": "Cortadora De Pasto Stihl Nafta",
+      "price": 699999,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/004/214/532/products/cortacesped-stihl-e3ebde1a34b019558917562279091590-1024-1024.webp",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "cortadoras de pasto"
+        }
+      ]
+    },
+    {
+      "id": "MLA1371",
+      "title": "Cortadora De Pasto Husqvarna 21 Pulgadas",
+      "price": 899999,
+      "thumbnail": "https://mla-s1-p.mlstatic.com/715720-MLA72306629029_102023-F.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "cortadoras de pasto"
+        }
+      ]
+    },
+    {
+      "id": "MLA1372",
+      "title": "Cortadora De Pasto Hyundai Electrica",
+      "price": 369999,
+      "thumbnail": "https://diegohogar.com.ar/wp-content/uploads/2025/01/3662.3.png2",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Capital Federal"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "cortadoras de pasto"
+        }
+      ]
+    },
+    {
+      "id": "MLA1373",
+      "title": "Cortadora De Pasto Petri Electrica",
+      "price": 289999,
+      "thumbnail": "https://media.falabella.com/sodimacAR/2373920_1/w=1160",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "cortadoras de pasto"
+        }
+      ]
+    },
+    {
+      "id": "MLA1374",
+      "title": "Cortadora De Pasto Tramontina 1300w",
+      "price": 339999,
+      "thumbnail": "https://tramontinaar.vtexassets.com/arquivos/ids/179824/79661944PNM001G.png?v=638318510427930000",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Cordoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "cortadoras de pasto"
+        }
+      ]
+    },
+    {
+      "id": "MLA1375",
+      "title": "Cortadora De Pasto Einhell Electrica",
+      "price": 359999,
+      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/390725/1330660.jpg.jpg?v=638762851580500000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "cortadoras de pasto"
+        }
+      ]
+    },
+    {
       "id": "MLA240",
       "title": "Set Destornilladores 24 Piezas",
       "price": 22000,
@@ -6566,79 +6966,10 @@
       ]
     },
     {
-      "id": "MLA1380",
-      "title": "Amoladora Angular Bosch 850w",
-      "price": 169999,
-      "thumbnail": "https://boschherramientasargentina.vtexassets.com/arquivos/ids/176969-800-auto?v=638732562603000000&width=800&height=auto&aspect=true",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Santa Fe"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "amoladoras"
-        }
-      ]
-    },
-    {
-      "id": "MLA1381",
-      "title": "Amoladora Angular Makita 710w",
-      "price": 199999,
-      "thumbnail": "https://www.machenaonline.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/2/_/2_56.png",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Mendoza"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "amoladoras"
-        }
-      ]
-    },
-    {
-      "id": "MLA1382",
-      "title": "Sierra Circular Bosch 7 1/4",
-      "price": 349999,
-      "thumbnail": "https://images.precialo.com/products/sierra-circular-bosch-gks-20-65-7-14-2000w/6721a67d-c38f-4439-9143-7c2a1c44dd44.jpeg",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Capital Federal"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "amoladoras"
-        }
-      ]
-    },
-    {
-      "id": "MLA1383",
-      "title": "Sierra Caladora Black And Decker",
-      "price": 189999,
-      "thumbnail": "https://casamarvic.com.ar/2132-thickbox_default/sierra-caladora-black-and-decker-550w-ks701pek.jpg",
+      "id": "MLA310",
+      "title": "Kit Destornilladores Magneticos 58 en 1",
+      "price": 23900,
+      "thumbnail": "https://static.bidcom.com.ar/publicacionesML/productos/KITCEL03/1000x1000-KITCEL03.jpg",
       "shipping": {
         "free_shipping": false
       },
@@ -6650,424 +6981,7 @@
           "name": "herramientas"
         },
         {
-          "name": "electricas"
-        },
-        {
-          "name": "amoladoras"
-        }
-      ]
-    },
-    {
-      "id": "MLA1394",
-      "title": "Amoladora Angular DeWalt 900w",
-      "price": 219999,
-      "thumbnail": "https://www.maquitools.com.ar/wp-content/uploads/DWE4120.png",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Santa Fe"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "amoladoras"
-        }
-      ]
-    },
-    {
-      "id": "MLA1395",
-      "title": "Amoladora Angular Makita 9557",
-      "price": 239999,
-      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/274262/1044815.jpg?v=637651581182230000",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Mendoza"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "amoladoras"
-        }
-      ]
-    },
-    {
-      "id": "MLA1378",
-      "title": "Atornillador Inalambrico Black And Decker",
-      "price": 159999,
-      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/326796-800-800?v=637944552239600000&width=800&height=800&aspect=true",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Cordoba"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "atornilladores"
-        }
-      ]
-    },
-    {
-      "id": "MLA1379",
-      "title": "Atornillador Inalambrico Stanley 12v",
-      "price": 179999,
-      "thumbnail": "https://www.abrafersrl.com.ar/wp-content/uploads/2019/09/SCH12S2KA2.jpg",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Rosario"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "atornilladores"
-        }
-      ]
-    },
-    {
-      "id": "MLA1392",
-      "title": "Atornillador Inalambrico Makita 12v",
-      "price": 279999,
-      "thumbnail": "https://makita.com.ar/wp-content/uploads/2024/08/taladro-percutor-inalambrico-10-8v-12v-max-24-12nm-makita-hp330dz.jpg",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Cordoba"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "atornilladores"
-        }
-      ]
-    },
-    {
-      "id": "MLA1393",
-      "title": "Atornillador Inalambrico DeWalt 20v",
-      "price": 349999,
-      "thumbnail": "https://www.abrafersrl.com.ar/wp-content/uploads/DCD796B.jpg",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Rosario"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "atornilladores"
-        }
-      ]
-    },
-    {
-      "id": "MLA1406",
-      "title": "Lijadora Orbital Black And Decker",
-      "price": 199999,
-      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/326926-800-800?v=637944594690600000&width=800&height=800&aspect=true",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Santa Fe"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "lijadoras"
-        }
-      ]
-    },
-    {
-      "id": "MLA1407",
-      "title": "Lijadora Orbital Bosch 240w",
-      "price": 239999,
-      "thumbnail": "https://www.abrafersrl.com.ar/wp-content/uploads/6012A80H0-1.jpg",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Mendoza"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "lijadoras"
-        }
-      ]
-    },
-    {
-      "id": "MLA1402",
-      "title": "Rotomartillo Bosch Profesional 800w",
-      "price": 379999,
-      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/296791/1732004-1.jpg?v=637665758315870000",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Capital Federal"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "rotomartillos"
-        }
-      ]
-    },
-    {
-      "id": "MLA1403",
-      "title": "Rotomartillo DeWalt 20v Inalambrico",
-      "price": 549999,
-      "thumbnail": "https://www.abrafersrl.com.ar/wp-content/uploads/DCD796B.jpg",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Buenos Aires"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "rotomartillos"
-        }
-      ]
-    },
-    {
-      "id": "MLA1396",
-      "title": "Sierra Circular DeWalt 7 1/4",
-      "price": 429999,
-      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/326821-800-800?v=637944564107570000&width=800&height=800&aspect=true",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Capital Federal"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "sierras"
-        }
-      ]
-    },
-    {
-      "id": "MLA1397",
-      "title": "Sierra Caladora Bosch Profesional",
-      "price": 319999,
-      "thumbnail": "https://www.abrafersrl.com.ar/wp-content/uploads/60158J3D2.jpg",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Buenos Aires"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "sierras"
-        }
-      ]
-    },
-    {
-      "id": "MLA1404",
-      "title": "Sierra Sensitiva Makita 355mm",
-      "price": 489999,
-      "thumbnail": "https://maquinasmassa.com.ar/wp-content/uploads/2024/03/2414NB-3.png",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Cordoba"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "sierras"
-        }
-      ]
-    },
-    {
-      "id": "MLA1405",
-      "title": "Sierra Ingletadora Bosch 10 Pulgadas",
-      "price": 629999,
-      "thumbnail": "https://acdn-us.mitiendanube.com/stores/004/619/109/products/sierra-ingletadora-bosch-1700w-254-mm-diam-gcm-10-x-cea1d0d3371e1efd5917170050187111-1024-1024.webp",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Rosario"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "sierras"
-        }
-      ]
-    },
-    {
-      "id": "MLA1376",
-      "title": "Taladro Percutor Bosch 650w",
-      "price": 189999,
-      "thumbnail": "https://www.imcofue.com.ar/media/catalog/product/cache/4e187a3216125186f353d1ef896e6af4/3/3/33589_33589_0_2024-06-20_00_00_11.jpeg",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Capital Federal"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "taladros"
-        }
-      ]
-    },
-    {
-      "id": "MLA1377",
-      "title": "Taladro Inalambrico Makita 18v",
-      "price": 299999,
-      "thumbnail": "https://makita.com.ar/wp-content/uploads/2024/01/1657913629-60726.jpg",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Buenos Aires"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "taladros"
-        }
-      ]
-    },
-    {
-      "id": "MLA1390",
-      "title": "Taladro Percutor DeWalt 710w",
-      "price": 229999,
-      "thumbnail": "https://ferromar.com.ar/wp-content/uploads/2019/06/16988612308dcde31443e1902a6bc6e6e1a5b03fe3.jpg",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Capital Federal"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "taladros"
-        }
-      ]
-    },
-    {
-      "id": "MLA1391",
-      "title": "Taladro Inalambrico Bosch 18v",
-      "price": 319999,
-      "thumbnail": "https://www.imcofue.com.ar/media/catalog/product/cache/4e187a3216125186f353d1ef896e6af4/1/2/126483_126483_0_2024-12-13_04_15_07.jpeg",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Buenos Aires"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "electricas"
-        },
-        {
-          "name": "taladros"
+          "name": "destornilladores"
         }
       ]
     },
@@ -7135,286 +7049,10 @@
       ]
     },
     {
-      "id": "MLA281",
-      "title": "Llave Impacto 1/2 Inalambrica",
-      "price": 239000,
-      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/136/846/products/ator12lui3aw1-bc003068afc01e05c815922641509597-1024-1024.webp",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Cordoba"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "herramientas electricas"
-        },
-        {
-          "name": "llaves de impacto"
-        }
-      ]
-    },
-    {
-      "id": "MLA310",
-      "title": "Kit Destornilladores Magneticos 58 en 1",
-      "price": 23900,
-      "thumbnail": "https://static.bidcom.com.ar/publicacionesML/productos/KITCEL03/1000x1000-KITCEL03.jpg",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Buenos Aires"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "herramientas manuales"
-        },
-        {
-          "name": "destornilladores"
-        }
-      ]
-    },
-    {
-      "id": "MLA1366",
-      "title": "Cortadora De Pasto Black And Decker 1200w",
-      "price": 349999,
-      "thumbnail": "https://images.fravega.com/f1000/635e558fd60aa9d53c830f251aba023b.jpg",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Capital Federal"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "jardineria"
-        },
-        {
-          "name": "cortadoras de pasto"
-        }
-      ]
-    },
-    {
-      "id": "MLA1367",
-      "title": "Cortadora De Pasto Bosch Arm 32",
-      "price": 399999,
-      "thumbnail": "https://www.tradeinn.com/f/13780/137806063_3/bosch-cortacesped-electrico-arm-37.webp",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Buenos Aires"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "jardineria"
-        },
-        {
-          "name": "cortadoras de pasto"
-        }
-      ]
-    },
-    {
-      "id": "MLA1368",
-      "title": "Cortadora De Pasto Gamma 1400w",
-      "price": 319999,
-      "thumbnail": "https://gammaherramientasar.vteximg.com.br/arquivos/ids/155731-1000-1000/g4943ar-cortadora-de-cesped-electrica-1400w_00.jpg?v=637284479100800000",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Cordoba"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "jardineria"
-        },
-        {
-          "name": "cortadoras de pasto"
-        }
-      ]
-    },
-    {
-      "id": "MLA1369",
-      "title": "Cortadora De Pasto Makita Electrica",
-      "price": 459999,
-      "thumbnail": "https://makitacordoba.com.ar/wp-content/uploads/2022/09/DUM604Z.jpg",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Rosario"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "jardineria"
-        },
-        {
-          "name": "cortadoras de pasto"
-        }
-      ]
-    },
-    {
-      "id": "MLA1370",
-      "title": "Cortadora De Pasto Stihl Nafta",
-      "price": 699999,
-      "thumbnail": "https://acdn-us.mitiendanube.com/stores/004/214/532/products/cortacesped-stihl-e3ebde1a34b019558917562279091590-1024-1024.webp",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Santa Fe"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "jardineria"
-        },
-        {
-          "name": "cortadoras de pasto"
-        }
-      ]
-    },
-    {
-      "id": "MLA1371",
-      "title": "Cortadora De Pasto Husqvarna 21 Pulgadas",
-      "price": 899999,
-      "thumbnail": "https://mla-s1-p.mlstatic.com/715720-MLA72306629029_102023-F.jpg",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Mendoza"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "jardineria"
-        },
-        {
-          "name": "cortadoras de pasto"
-        }
-      ]
-    },
-    {
-      "id": "MLA1372",
-      "title": "Cortadora De Pasto Hyundai Electrica",
-      "price": 369999,
-      "thumbnail": "https://diegohogar.com.ar/wp-content/uploads/2025/01/3662.3.png2",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Capital Federal"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "jardineria"
-        },
-        {
-          "name": "cortadoras de pasto"
-        }
-      ]
-    },
-    {
-      "id": "MLA1373",
-      "title": "Cortadora De Pasto Petri Electrica",
-      "price": 289999,
-      "thumbnail": "https://media.falabella.com/sodimacAR/2373920_1/w=1160",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Buenos Aires"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "jardineria"
-        },
-        {
-          "name": "cortadoras de pasto"
-        }
-      ]
-    },
-    {
-      "id": "MLA1374",
-      "title": "Cortadora De Pasto Tramontina 1300w",
-      "price": 339999,
-      "thumbnail": "https://tramontinaar.vtexassets.com/arquivos/ids/179824/79661944PNM001G.png?v=638318510427930000",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Cordoba"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "jardineria"
-        },
-        {
-          "name": "cortadoras de pasto"
-        }
-      ]
-    },
-    {
-      "id": "MLA1375",
-      "title": "Cortadora De Pasto Einhell Electrica",
-      "price": 359999,
-      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/390725/1330660.jpg.jpg?v=638762851580500000",
-      "shipping": {
-        "free_shipping": true
-      },
-      "address": {
-        "state_name": "Rosario"
-      },
-      "category_path_from_root": [
-        {
-          "name": "herramientas"
-        },
-        {
-          "name": "jardineria"
-        },
-        {
-          "name": "cortadoras de pasto"
-        }
-      ]
-    },
-    {
-      "id": "MLA1400",
-      "title": "Motosierra Stihl Ms 180",
-      "price": 849999,
-      "thumbnail": "https://dcdn-us.mitiendanube.com/stores/371/889/products/motosierra-stihl-ms180-86ae78c7d2da0ed0e915122940658393-640-01-287499f9b965f6fabd15920546976449-1024-1024.webp",
+      "id": "MLA1406",
+      "title": "Lijadora Orbital Black And Decker",
+      "price": 199999,
+      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/326926-800-800?v=637944594690600000&width=800&height=800&aspect=true",
       "shipping": {
         "free_shipping": true
       },
@@ -7426,18 +7064,15 @@
           "name": "herramientas"
         },
         {
-          "name": "jardineria"
-        },
-        {
-          "name": "motosierras"
+          "name": "lijadoras"
         }
       ]
     },
     {
-      "id": "MLA1401",
-      "title": "Motosierra Husqvarna 120",
-      "price": 899999,
-      "thumbnail": "https://cdn.rumbosrl.com.ar/uploads/products/images/large/7067901.png",
+      "id": "MLA1407",
+      "title": "Lijadora Orbital Bosch 240w",
+      "price": 239999,
+      "thumbnail": "https://www.abrafersrl.com.ar/wp-content/uploads/6012A80H0-1.jpg",
       "shipping": {
         "free_shipping": false
       },
@@ -7449,10 +7084,7 @@
           "name": "herramientas"
         },
         {
-          "name": "jardineria"
-        },
-        {
-          "name": "motosierras"
+          "name": "lijadoras"
         }
       ]
     },
@@ -7493,6 +7125,26 @@
         },
         {
           "name": "llaves"
+        }
+      ]
+    },
+    {
+      "id": "MLA281",
+      "title": "Llave Impacto 1/2 Inalambrica",
+      "price": 239000,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/136/846/products/ator12lui3aw1-bc003068afc01e05c815922641509597-1024-1024.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Cordoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "llaves de impacto"
         }
       ]
     },
@@ -7573,6 +7225,46 @@
         },
         {
           "name": "medicion"
+        }
+      ]
+    },
+    {
+      "id": "MLA1400",
+      "title": "Motosierra Stihl Ms 180",
+      "price": 849999,
+      "thumbnail": "https://dcdn-us.mitiendanube.com/stores/371/889/products/motosierra-stihl-ms180-86ae78c7d2da0ed0e915122940658393-640-01-287499f9b965f6fabd15920546976449-1024-1024.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "motosierras"
+        }
+      ]
+    },
+    {
+      "id": "MLA1401",
+      "title": "Motosierra Husqvarna 120",
+      "price": 899999,
+      "thumbnail": "https://cdn.rumbosrl.com.ar/uploads/products/images/large/7067901.png",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "motosierras"
         }
       ]
     },
@@ -7660,6 +7352,46 @@
       ]
     },
     {
+      "id": "MLA1402",
+      "title": "Rotomartillo Bosch Profesional 800w",
+      "price": 379999,
+      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/296791/1732004-1.jpg?v=637665758315870000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Capital Federal"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "rotomartillos"
+        }
+      ]
+    },
+    {
+      "id": "MLA1403",
+      "title": "Rotomartillo DeWalt 20v Inalambrico",
+      "price": 549999,
+      "thumbnail": "https://www.abrafersrl.com.ar/wp-content/uploads/DCD796B.jpg",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "rotomartillos"
+        }
+      ]
+    },
+    {
       "id": "MLA247",
       "title": "Sierra Circular 1200W",
       "price": 149000,
@@ -7689,6 +7421,86 @@
       },
       "address": {
         "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "sierras"
+        }
+      ]
+    },
+    {
+      "id": "MLA1396",
+      "title": "Sierra Circular DeWalt 7 1/4",
+      "price": 429999,
+      "thumbnail": "https://arcencohogar.vtexassets.com/arquivos/ids/326821-800-800?v=637944564107570000&width=800&height=800&aspect=true",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Capital Federal"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "sierras"
+        }
+      ]
+    },
+    {
+      "id": "MLA1397",
+      "title": "Sierra Caladora Bosch Profesional",
+      "price": 319999,
+      "thumbnail": "https://www.abrafersrl.com.ar/wp-content/uploads/60158J3D2.jpg",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "sierras"
+        }
+      ]
+    },
+    {
+      "id": "MLA1404",
+      "title": "Sierra Sensitiva Makita 355mm",
+      "price": 489999,
+      "thumbnail": "https://maquinasmassa.com.ar/wp-content/uploads/2024/03/2414NB-3.png",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Cordoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "sierras"
+        }
+      ]
+    },
+    {
+      "id": "MLA1405",
+      "title": "Sierra Ingletadora Bosch 10 Pulgadas",
+      "price": 629999,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/004/619/109/products/sierra-ingletadora-bosch-1700w-254-mm-diam-gcm-10-x-cea1d0d3371e1efd5917170050187111-1024-1024.webp",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Rosario"
       },
       "category_path_from_root": [
         {
@@ -7807,6 +7619,86 @@
       "title": "Taladro Percutor 900W",
       "price": 129000,
       "thumbnail": "https://media.falabella.com/sodimacAR/8739447_01/w=1160",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "taladros"
+        }
+      ]
+    },
+    {
+      "id": "MLA1376",
+      "title": "Taladro Percutor Bosch 650w",
+      "price": 189999,
+      "thumbnail": "https://www.imcofue.com.ar/media/catalog/product/cache/4e187a3216125186f353d1ef896e6af4/3/3/33589_33589_0_2024-06-20_00_00_11.jpeg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Capital Federal"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "taladros"
+        }
+      ]
+    },
+    {
+      "id": "MLA1377",
+      "title": "Taladro Inalambrico Makita 18v",
+      "price": 299999,
+      "thumbnail": "https://makita.com.ar/wp-content/uploads/2024/01/1657913629-60726.jpg",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "taladros"
+        }
+      ]
+    },
+    {
+      "id": "MLA1390",
+      "title": "Taladro Percutor DeWalt 710w",
+      "price": 229999,
+      "thumbnail": "https://ferromar.com.ar/wp-content/uploads/2019/06/16988612308dcde31443e1902a6bc6e6e1a5b03fe3.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Capital Federal"
+      },
+      "category_path_from_root": [
+        {
+          "name": "herramientas"
+        },
+        {
+          "name": "taladros"
+        }
+      ]
+    },
+    {
+      "id": "MLA1391",
+      "title": "Taladro Inalambrico Bosch 18v",
+      "price": 319999,
+      "thumbnail": "https://www.imcofue.com.ar/media/catalog/product/cache/4e187a3216125186f353d1ef896e6af4/1/2/126483_126483_0_2024-12-13_04_15_07.jpeg",
       "shipping": {
         "free_shipping": false
       },
@@ -15538,10 +15430,10 @@
       ]
     },
     {
-      "id": "MLA341",
-      "title": "Camisa Oxford Blanca",
-      "price": 39900,
-      "thumbnail": "https://hgconfecciones.com.ar/wp-content/uploads/Camisa-Oxford-03.jpg",
+      "id": "MLA9695502701",
+      "title": "Camisa para hombre Levis denim azul",
+      "price": 45999,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/702/486/products/cl08300i-1-21-cb38b80568c45b33e816789059481499-1024-1024.webp",
       "shipping": {
         "free_shipping": true
       },
@@ -15558,15 +15450,15 @@
       ]
     },
     {
-      "id": "MLA342",
-      "title": "Camisa Cuadros Leñadora",
-      "price": 45900,
-      "thumbnail": "https://acdn-us.mitiendanube.com/stores/003/908/518/products/1-374e56c3c31885fb5a17569566087223-1024-1024.webp",
+      "id": "MLA9695502702",
+      "title": "Camisa para hombre Zara blanca clasica",
+      "price": 34999,
+      "thumbnail": "https://bobois.com.mx/cdn/shop/files/2_f02705e0-aa76-4dfd-9071-0d637d098e5d.jpg?v=1753378999",
       "shipping": {
-        "free_shipping": false
+        "free_shipping": true
       },
       "address": {
-        "state_name": "Cordoba"
+        "state_name": "CABA"
       },
       "category_path_from_root": [
         {
@@ -15578,10 +15470,1030 @@
       ]
     },
     {
-      "id": "MLA343",
-      "title": "Camisa Lino Beige",
-      "price": 49900,
-      "thumbnail": "https://acdn-us.mitiendanube.com/stores/004/250/506/products/walk_hombre_baja-175-9031380690a049dc4617607848392189-1024-1024.webp",
+      "id": "MLA9695502703",
+      "title": "Camisa para hombre Tommy Hilfiger celeste",
+      "price": 58999,
+      "thumbnail": "https://tommychile.vtexassets.com/arquivos/ids/4590847/p-mw0mw38137c3q-1.jpg?v=638907896653930000",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9695502704",
+      "title": "Camisa para hombre Lacoste verde lisa",
+      "price": 64999,
+      "thumbnail": "https://production.cdn.vaypol.com/variants/hv2agpl8wvj6f26exn85cpuozj45/e82c8d6171dd25bb538f2e7263b5bc7dfc6a79352d85923074be76df53fbc6f4",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9695502705",
+      "title": "Camisa para hombre H&M negra slim",
+      "price": 29999,
+      "thumbnail": "https://chevignon.vtexassets.com/arquivos/ids/1991094/63_612G009_NEG194007_0.jpg?v=638924445667100000",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9695502706",
+      "title": "Camisa para hombre Calvin Klein blanca",
+      "price": 55999,
+      "thumbnail": "https://i.ebayimg.com/images/g/8ucAAOSw2A1mnRk1/s-l1200.webp",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9695502707",
+      "title": "Camisa para hombre Penguin azul marino",
+      "price": 48999,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/702/486/products/13_cl24302i-20cf1d1ecb97f619e817367964752289-1024-1024.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9695502708",
+      "title": "Camisa para hombre Brooks Brothers blanca",
+      "price": 79999,
+      "thumbnail": "https://cdna.lystit.com/photos/brooksbrothers/73c8cba6/brooks-brothers-white-Camisa-De-Vestir-Blanca-De-Corte-Slim-Non-iron-En-Sarga-De-Algodon-Supima-Elastico-Con-Cuello-Button-Down.jpeg",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9695502709",
+      "title": "Camisa para hombre GAP gris clara",
+      "price": 42999,
+      "thumbnail": "https://www.gap.cl/media/catalog/product/6/1/619568_gp01_1_3.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Neuquén"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9695502710",
+      "title": "Camisa para hombre Benetton azul",
+      "price": 46999,
+      "thumbnail": "https://es.benetton.com/on/demandware.static/-/Sites-ucb-master/default/dw376f718e/images/Full_generic/01_25A_5TCRUQ04W_919_F.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "La Plata"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9695502711",
+      "title": "Camisa para mujer Zara blanca clasica",
+      "price": 33999,
+      "thumbnail": "https://content.instyle.es/medio/2024/03/11/camisa-blanca_04e0bd49_240311105701_1280x1280.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9695502712",
+      "title": "Camisa para mujer H&M beige oversize",
+      "price": 29999,
+      "thumbnail": "https://static.kiabi.es/images/camisa-vaporosa-oversize-beige-dae50_1_hd2.jpg?width=800",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9695502713",
+      "title": "Camisa para mujer Mango celeste",
+      "price": 37999,
+      "thumbnail": "https://shop.mango.com/assets/rcs/pics/static/T8/fotos/S/87045735_50_D5.jpg?imwidth=2048&imdensity=1&ts=1737383702697",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9695502714",
+      "title": "Camisa para mujer Tommy Hilfiger blanca",
+      "price": 55999,
+      "thumbnail": "https://tommymx.vtexassets.com/arquivos/ids/597002/Tommy-Hilfiger-WW0WW41150YCF-1.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9695502715",
+      "title": "Camisa para mujer Calvin Klein negra",
+      "price": 57999,
+      "thumbnail": "https://cdn.laredoute.com/products/0/3/7/0377fa0d1978f295c6442f2abd940489.jpg",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9695502716",
+      "title": "Camisa para mujer Levis denim azul",
+      "price": 48999,
+      "thumbnail": "https://resources.claroshop.com/medios-plazavip/fotos/productos_sears1/original/4414239.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9695502717",
+      "title": "Camisa para mujer GAP blanca",
+      "price": 41999,
+      "thumbnail": "https://www.gap.cl/media/catalog/product/6/7/673957_gp01_1_1.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9695502718",
+      "title": "Camisa para mujer Desigual estampada",
+      "price": 46999,
+      "thumbnail": "https://www.desigual.com/dw/image/v2/BCVV_PRD/on/demandware.static/-/Sites-desigual-m-catalog/default/dw27ab7f0e/images/B2C/24WWCW16_1000_2.jpg?sfrm=jpg&v=webp10&sw=1200",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Salta"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9695502719",
+      "title": "Camisa para mujer Benetton verde",
+      "price": 43999,
+      "thumbnail": "https://ch.benetton.com/on/demandware.static/-/Sites-ucb-master/default/dwc03c02d5/images/Full_generic/01_25P_5BMLDQ0BR_26K_F.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9695502720",
+      "title": "Camisa para mujer Massimo Dutti blanca",
+      "price": 69999,
+      "thumbnail": "https://static.massimodutti.net/assets/public/195d/27ae/910d4453b17d/25719e08e878/05175675250-o8/05175675250-o8.jpg?ts=1766482763458",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602801",
+      "title": "Camisa para hombre Zara blanca manga larga",
+      "price": 34999,
+      "thumbnail": "https://static.zara.net/assets/public/1a9f/cec1/fdd241edb2f5/88ced4d4a5d8/05863649250-a1/05863649250-a1.jpg?ts=1752226059607",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602802",
+      "title": "Camisa para hombre H&M celeste manga corta",
+      "price": 29999,
+      "thumbnail": "https://i.ebayimg.com/thumbs/images/g/LCEAAeSwRzlpD36x/s-l1200.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602803",
+      "title": "Camisa para hombre Tommy Hilfiger azul manga larga",
+      "price": 58999,
+      "thumbnail": "https://ss261.liverpool.com.mx/xl/1158411021.jpg",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602804",
+      "title": "Camisa para hombre Lacoste verde manga corta",
+      "price": 62999,
+      "thumbnail": "https://production.cdn.vaypol.com/variants/rga1ajhaj2j609na1bgr0l4rkgpx/e82c8d6171dd25bb538f2e7263b5bc7dfc6a79352d85923074be76df53fbc6f4",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602805",
+      "title": "Camisa para hombre Levis denim azul manga larga",
+      "price": 46999,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/001/702/486/products/cl08200i-1-2-11-7113c11eb186a7b11316630753085489-1024-1024.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602806",
+      "title": "Camisa para hombre Calvin Klein blanca manga larga",
+      "price": 55999,
+      "thumbnail": "https://ss261.liverpool.com.mx/xl/1083748523.jpg",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602807",
+      "title": "Camisa para hombre GAP gris manga corta",
+      "price": 41999,
+      "thumbnail": "https://www.gap.cl/media/catalog/product/6/2/629021_gp02_1_1.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Neuquén"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602808",
+      "title": "Camisa para hombre Brooks Brothers blanca manga larga",
+      "price": 79999,
+      "thumbnail": "https://www.elpalaciodehierro.com/on/demandware.static/-/Sites-palacio-master-catalog/default/dw381664cd/images/38726009/blanco/large/38726009_x1.jpg",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602809",
+      "title": "Camisa para hombre Penguin azul marino manga corta",
+      "price": 48999,
+      "thumbnail": "https://ss271.liverpool.com.mx/xl/1181995421.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602810",
+      "title": "Camisa para hombre Benetton verde manga larga",
+      "price": 46999,
+      "thumbnail": "https://es.benetton.com/dw/image/v2/BBSF_PRD/on/demandware.static/-/Sites-ucb-master/default/dwab8a8ad5/images/Full_PDP_h/02_25A_3089C300Q_108_DS1.jpg?sw=768&sh=1024",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "La Plata"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602811",
+      "title": "Camisa para mujer Zara blanca manga larga",
+      "price": 33999,
+      "thumbnail": "https://germanionline.cl/cdn/shop/files/5e108-wc23liso1-1.webp?v=1705683905",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602812",
+      "title": "Camisa para mujer H&M beige manga corta",
+      "price": 29999,
+      "thumbnail": "https://i.ebayimg.com/images/g/iZcAAeSwkNZpB~Kv/s-l1200.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602813",
+      "title": "Camisa para mujer Mango celeste manga larga",
+      "price": 37999,
+      "thumbnail": "https://acdn-us.mitiendanube.com/stores/133/684/products/camisa_jean_celeste_1-508b8b982b8335015417151888893571-1024-1024.webp",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602814",
+      "title": "Camisa para mujer Tommy Hilfiger blanca manga corta",
+      "price": 54999,
+      "thumbnail": "https://m.media-amazon.com/images/I/5102fqYlbiL._AC_UY1000_.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602815",
+      "title": "Camisa para mujer Calvin Klein negra manga larga",
+      "price": 57999,
+      "thumbnail": "https://img.kwcdn.com/product/Fancyalgo/VirtualModelMatting/05aa1ae724b48fc45bdb7362b1cca8f4.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602816",
+      "title": "Camisa para mujer Levis denim azul manga larga",
+      "price": 48999,
+      "thumbnail": "https://www.backflowstore.com.ar/images/000000857450074018904Diseno-sin-titulo---2025-05-08T123412.263.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602817",
+      "title": "Camisa para mujer GAP blanca manga corta",
+      "price": 41999,
+      "thumbnail": "https://www.gap.cl/media/catalog/product/8/8/885293_gp01_1_1.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602818",
+      "title": "Camisa para mujer Desigual estampada manga larga",
+      "price": 46999,
+      "thumbnail": "https://www.tradeinn.com/f/13900/139001423/desigual-camisa-manga-larga-georgina.jpg",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Salta"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602819",
+      "title": "Camisa para mujer Benetton verde manga corta",
+      "price": 43999,
+      "thumbnail": "https://la.benetton.com/on/demandware.static/-/Sites-ucb-master/default/dw08024a70/images/Full_Card_h/01_24A_56YUDQ09G_28Y_F.jpg",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9806602820",
+      "title": "Camisa para mujer Massimo Dutti blanca manga larga",
+      "price": 69999,
+      "thumbnail": "https://static.massimodutti.net/assets/public/8370/1753/4ae045d591fa/52be7916e0f4/05150644250-o6/05150644250-o6.jpg?ts=1721055529740",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9917702901",
+      "title": "Camisa unisex Zara blanca manga larga",
+      "price": 34999,
+      "thumbnail": "https://i.ebayimg.com/images/g/ohwAAeSwUCppa9p6/s-l1200.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9917702902",
+      "title": "Camisa unisex H&M celeste manga corta",
+      "price": 29999,
+      "thumbnail": "https://image.hm.com/assets/hm/c7/e2/c7e2b5ea22e8b1816efc3af62efbc816362211ee.jpg?imwidth=786",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9917702903",
+      "title": "Camisa unisex Tommy Hilfiger azul marino manga larga",
+      "price": 58999,
+      "thumbnail": "https://img01.ztat.net/article/spp-media-p1/c51e515714c0463d998ebfdb4d99ea72/e3a719853e174626978a17b6db21f205.jpg?imwidth=1800&filter=packshot",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Santa Fe"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9917702904",
+      "title": "Camisa unisex Lacoste verde manga corta",
+      "price": 62999,
+      "thumbnail": "https://i.ebayimg.com/images/g/UrsAAeSwpkZpY9y4/s-l1200.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9917702905",
+      "title": "Camisa unisex Levis denim azul manga larga",
+      "price": 46999,
+      "thumbnail": "https://www.tradeinn.com/f/13944/139443619_3/levis---camisa-de-manga-larga-relaxed-fit-western.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9917702906",
+      "title": "Camisa unisex Calvin Klein negra manga larga",
+      "price": 55999,
+      "thumbnail": "https://img01.ztat.net/article/spp-media-p1/5ec2a299c76d4a8e9f155c8ebbae7141/aa653b4ccae344548e4d215c0338b6f2.jpg?imwidth=1800&filter=packshot",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9917702907",
+      "title": "Camisa unisex GAP gris oscuro manga corta",
+      "price": 41999,
+      "thumbnail": "https://cdn.aboutstatic.com/file/images/ca84a0d014a134d02d8b0d38eaf7fe45.png?bg=F4F4F5&quality=75&trim=1",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Neuquén"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9917702908",
+      "title": "Camisa unisex Benetton verde oliva manga larga",
+      "price": 46999,
+      "thumbnail": "https://es.benetton.com/dw/image/v2/BBSF_PRD/on/demandware.static/-/Sites-ucb-master/default/dwcb52d08d/images/Full_PDP_h/01_25A_1002U1G34_35Y_BS.jpg?sw=768&sh=1024",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "La Plata"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9917702909",
+      "title": "Camisa unisex Mango beige manga corta",
+      "price": 37999,
+      "thumbnail": "https://img01.ztat.net/article/spp-media-p1/8717460c238a43438a6530eda6d0723e/dabb13d5d15a4b80a5aeda773a3827b9.jpg?imwidth=762&filter=packshot",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Rosario"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9917702910",
+      "title": "Camisa unisex Massimo Dutti blanca manga larga",
+      "price": 69999,
+      "thumbnail": "https://media.falabella.com/falabellaCL/113959289_01/w=800,h=800,fit=pad",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9917702911",
+      "title": "Camisa unisex Uniqlo negra manga larga",
+      "price": 44999,
+      "thumbnail": "https://i.ebayimg.com/images/g/MEIAAeSwHotpZAZJ/s-l1200.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Buenos Aires"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9917702912",
+      "title": "Camisa unisex Polo Ralph Lauren celeste manga larga",
+      "price": 89999,
+      "thumbnail": "https://m.media-amazon.com/images/I/71akeQtWInL._AC_UY1000_.jpg",
+      "shipping": {
+        "free_shipping": false
+      },
+      "address": {
+        "state_name": "Córdoba"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9917702913",
+      "title": "Camisa unisex Diesel negra manga corta",
+      "price": 85999,
+      "thumbnail": "https://i.ebayimg.com/images/g/wZQAAeSwCyppKJRn/s-l1200.webp",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "Mendoza"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9917702914",
+      "title": "Camisa unisex Nautica azul manga corta",
+      "price": 53999,
+      "thumbnail": "https://www.aquadelta.com.ar/img/articulos/camisa_silver_ridge_lisa_manga_corta_columbia_9.jpg",
       "shipping": {
         "free_shipping": true
       },
@@ -15598,15 +16510,15 @@
       ]
     },
     {
-      "id": "MLA344",
-      "title": "Camisa Slim Azul Marino",
-      "price": 46900,
-      "thumbnail": "https://www.macowens.com.ar/media/catalog/product/m/a/macowens-camisa-sport_42193-001_001.jpg?optimize=high&bg-color=255,255,255&fit=bounds&height=1350&width=900&canvas=900:1350",
+      "id": "MLA9917702915",
+      "title": "Camisa unisex Columbia verde oscuro manga larga",
+      "price": 64999,
+      "thumbnail": "https://www.aquadelta.com.ar/img/articulos/2021/09/camisa_silver_ridge_manga_corta_columbia_hombre_imagen10.jpg",
       "shipping": {
         "free_shipping": false
       },
       "address": {
-        "state_name": "Mendoza"
+        "state_name": "Neuquén"
       },
       "category_path_from_root": [
         {
@@ -15618,15 +16530,15 @@
       ]
     },
     {
-      "id": "MLA345",
-      "title": "Camisa Manga Corta Estampada",
-      "price": 35900,
-      "thumbnail": "https://duxon.uy/cdn/shop/files/IMG-20231212-WA0014.jpg?v=1707239180",
+      "id": "MLA9917702916",
+      "title": "Camisa unisex Wrangler azul marino manga larga",
+      "price": 52999,
+      "thumbnail": "https://dangeloropaycalzado.com/wp-content/uploads/2024/08/Photoroom_20240822_70918%E2%80%AFp.m.jpeg",
       "shipping": {
         "free_shipping": true
       },
       "address": {
-        "state_name": "Tucuman"
+        "state_name": "Entre Ríos"
       },
       "category_path_from_root": [
         {
@@ -15638,15 +16550,35 @@
       ]
     },
     {
-      "id": "MLA1053",
-      "title": "Ralph Lauren camisa celeste",
-      "price": 199900,
-      "thumbnail": "https://saxdepartment.com/storage/images/products/1716299336sqLHu6hi.png",
+      "id": "MLA9917702917",
+      "title": "Camisa unisex Gant blanca manga corta",
+      "price": 71999,
+      "thumbnail": "https://img01.ztat.net/article/spp-media-p1/a450e58362324a3a867492b3f3c7f92d/19cb8f231e4d435d8ed19d9f4074202e.jpg?imwidth=1800&filter=packshot",
+      "shipping": {
+        "free_shipping": true
+      },
+      "address": {
+        "state_name": "CABA"
+      },
+      "category_path_from_root": [
+        {
+          "name": "ropa"
+        },
+        {
+          "name": "camisas"
+        }
+      ]
+    },
+    {
+      "id": "MLA9917702918",
+      "title": "Camisa unisex Desigual roja manga larga",
+      "price": 46999,
+      "thumbnail": "https://img01.ztat.net/article/spp-media-p1/1617467e62ba4f3b8e5d66d0396fe4e8/a159109577f14ebb9c448ce19ef16035.jpg?imwidth=762",
       "shipping": {
         "free_shipping": false
       },
       "address": {
-        "state_name": "Cordoba"
+        "state_name": "Salta"
       },
       "category_path_from_root": [
         {
@@ -15658,15 +16590,15 @@
       ]
     },
     {
-      "id": "MLA1054",
-      "title": "Lacoste camisa blanca",
-      "price": 189900,
-      "thumbnail": "https://m.media-amazon.com/images/I/61TlTmhI2sL._AC_UY1000_.jpg",
+      "id": "MLA9917702919",
+      "title": "Camisa unisex Burton gris manga larga",
+      "price": 57999,
+      "thumbnail": "https://i.ebayimg.com/images/g/KVYAAOSwu89i2z0T/s-l1200.webp",
       "shipping": {
         "free_shipping": true
       },
       "address": {
-        "state_name": "Santa Fe"
+        "state_name": "Bariloche"
       },
       "category_path_from_root": [
         {
@@ -15678,35 +16610,15 @@
       ]
     },
     {
-      "id": "MLA1055",
-      "title": "Calvin Klein camisa negra",
-      "price": 209900,
-      "thumbnail": "https://resources.sears.com.mx/medios-plazavip/fotos/productos_sears1/original/3126611.jpg",
-      "shipping": {
-        "free_shipping": false
-      },
-      "address": {
-        "state_name": "Mendoza"
-      },
-      "category_path_from_root": [
-        {
-          "name": "ropa"
-        },
-        {
-          "name": "camisas"
-        }
-      ]
-    },
-    {
-      "id": "MLA1056",
-      "title": "Levi's camisa denim",
-      "price": 159900,
-      "thumbnail": "https://images.vestiairecollective.com/images/resized/w=1024,h=1024,q=75,f=auto,/produit/39549112-1_2.jpg",
+      "id": "MLA9917702920",
+      "title": "Camisa unisex Quiksilver beige manga corta",
+      "price": 49999,
+      "thumbnail": "https://www.tradeinn.com/f/13963/139638059_4/quiksilver-camisa-de-manga-corta-bolam.webp",
       "shipping": {
         "free_shipping": true
       },
       "address": {
-        "state_name": "Neuquen"
+        "state_name": "Mar del Plata"
       },
       "category_path_from_root": [
         {

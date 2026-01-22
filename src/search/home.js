@@ -1,4 +1,3 @@
-// src/search/home.js
 import { tokenize } from './normalize'
 
 const PET_WORDS = new Set([

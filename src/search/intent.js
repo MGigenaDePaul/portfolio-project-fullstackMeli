@@ -11,6 +11,7 @@ import { isBeautyQuery, extractBeautySpecs } from './beauty'
 import { isHeladeraQuery, parseHeladeraQuery } from './heladera'
 import { isLavarropaQuery, parseLavarropaQuery } from './lavarropa'
 import { isRemeraQuery, parseRemeraQuery } from './remera'
+import { isCamisaQuery, parseCamisaQuery } from './camisa'
 import { isCarQuery, parseCarQuery } from './car'
 import { isMotoQuery, parseMotoQuery } from './moto'
 import { isTruckQuery, parseTruckQuery } from './truck'
@@ -172,6 +173,14 @@ export const detectIntent = (q) => {
       type: 'remera',
       categoryHint: ['ropa', 'remeras'],
       remeraSpecs: parseRemeraQuery(q),
+    }
+  }
+
+  if (isCamisaQuery(q)) {
+    return {
+      type: 'camisa',
+      categoryHint: ['ropa', 'camisas'],
+      camisaSpecs: parseCamisaQuery(q),
     }
   }
 
