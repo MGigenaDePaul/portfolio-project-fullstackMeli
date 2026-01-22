@@ -11,11 +11,13 @@ import { isBeautyQuery, extractBeautySpecs } from './beauty'
 import { isHeladeraQuery, parseHeladeraQuery } from './heladera'
 import { isLavarropaQuery, parseLavarropaQuery } from './lavarropa'
 import { isRemeraQuery, parseRemeraQuery } from './remera'
+import { isCamisaQuery, parseCamisaQuery } from './camisa'
 import { isCarQuery, parseCarQuery } from './car'
 import { isMotoQuery, parseMotoQuery } from './moto'
 import { isTruckQuery, parseTruckQuery } from './truck'
 import { isCameraQuery, parseCameraQuery } from './camera'
-import { isHeadphoneQuery, parseHeadphoneQuery } from './auriculares' // ✅
+import { isHeadphoneQuery, parseHeadphoneQuery } from './auriculares'
+import { isCarteraQuery, parseCarteraQuery } from './cartera'
 
 export const detectIntent = (q) => {
   const tokens = tokenize(q)
@@ -143,6 +145,14 @@ export const detectIntent = (q) => {
     }
   }
 
+  if (isCarteraQuery(q)) {
+    return {
+      type: 'cartera',
+      categoryHint: ['ropa', 'carteras'],
+      carteraSpecs: parseCarteraQuery(q),
+    }
+  }
+
   // BOLSAS DE BOXEO
   const hasBolsa = tokens.includes('bolsa') || tokens.includes('bolsas')
   const hasBoxeo = tokens.includes('boxeo') || tokens.includes('box')
@@ -163,6 +173,14 @@ export const detectIntent = (q) => {
       type: 'remera',
       categoryHint: ['ropa', 'remeras'],
       remeraSpecs: parseRemeraQuery(q),
+    }
+  }
+
+  if (isCamisaQuery(q)) {
+    return {
+      type: 'camisa',
+      categoryHint: ['ropa', 'camisas'],
+      camisaSpecs: parseCamisaQuery(q),
     }
   }
 
